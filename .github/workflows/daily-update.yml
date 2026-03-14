@@ -28,18 +28,16 @@ jobs:
 
       - name: Create .env from secrets
         run: |
-          cat <<EOF > .env
-          ICLOUD_EMAIL=${{ secrets.ICLOUD_EMAIL }}
-          ICLOUD_APP_PASSWORD=${{ secrets.ICLOUD_APP_PASSWORD }}
-          BROKER_SENDER=${{ secrets.BROKER_SENDER }}
-          BROKER_NAME=${{ secrets.BROKER_NAME }}
-          ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
-          NOTIFY_EMAIL=${{ secrets.NOTIFY_EMAIL }}
-          POLL_INTERVAL_SEC=300
-          THREAD_LOOKBACK_DAYS=7
-          OUTPUT_DIR=./analyses
-          DATA_DIR=./data
-          EOF
+          echo "ICLOUD_EMAIL=${{ secrets.ICLOUD_EMAIL }}" > .env
+          echo "ICLOUD_APP_PASSWORD=${{ secrets.ICLOUD_APP_PASSWORD }}" >> .env
+          echo "BROKER_SENDER=${{ secrets.BROKER_SENDER }}" >> .env
+          echo "BROKER_NAME=${{ secrets.BROKER_NAME }}" >> .env
+          echo "ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}" >> .env
+          echo "NOTIFY_EMAIL=${{ secrets.NOTIFY_EMAIL }}" >> .env
+          echo "POLL_INTERVAL_SEC=300" >> .env
+          echo "THREAD_LOOKBACK_DAYS=7" >> .env
+          echo "OUTPUT_DIR=./analyses" >> .env
+          echo "DATA_DIR=./data" >> .env
 
       - name: Run broker tracker (new emails + daily reeval)
         run: python run.py --once --days 14
