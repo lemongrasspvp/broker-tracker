@@ -1696,6 +1696,22 @@
       "action": "MONITOR",
       "verdict": "CMD confirmed operational momentum but zero new catalysts — at NOK 559 (26% above consensus, 43% above broker TP, 52w high), war premium is fully priced and the live DOJ antitrust probe adds binary downside risk; MONITOR for Hormuz de-escalation or DOJ escalation as TAKE-PROFIT triggers ahead of Q1 2026 earnings on April 24.",
       "price_at_analysis": 558.8
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "MONITOR",
+      "verdict": "Legitimate short-term urea price tailwind from Middle East disruption, but Argus Media's 'peak Q1' call and Yara's limited direct ME exposure cap the upside — monitor for Hormuz status and await Q1 earnings rather than chasing the rally.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "WEAK",
+      "score": 35,
+      "action": "MONITOR",
+      "verdict": "The Middle East urea supply shock is real and verified, but Yara at NOK 567 (+38% YTD, 27.7% above consensus) has fully priced the war premium — monitor Hormuz de-escalation and DOJ escalation as TAKE-PROFIT triggers, and await Q1 earnings on April 24 before re-evaluating the fundamental base case.",
+      "price_at_analysis": 567.0
     }
   ],
   "MSFT": [
@@ -2175,6 +2191,22 @@
       "action": null,
       "verdict": "STABLE — Near 52w high, FLAT, near target (25.2 vs 26.15). RCF risk and PORTIA selling unchanged. No new signal.",
       "price_at_analysis": 25.2
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 60,
+      "action": "MONITOR",
+      "verdict": "Solid NPL momentum story with 9.7% aspirational yield and credible deleveraging, but +149% 12-month re-rating and modest ~6.5% upside to Arctic's NOK 27 PT limits the risk/reward — monitor FY2025 results for formal target confirmation before adding exposure.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Verified CMD targets (EPS ≥30%, ROE >16%, NOK 10bn investments), strong 2025 momentum and a genuinely cheap multiple (~10x forward P/E) make B2 Impact an interesting RESEARCH_FURTHER candidate — but the current ROE gap to target, out-of-universe coverage risk, and a thin analyst consensus warrant independent financial services specialist review before acting on Arctic's NOK 27 PT.",
+      "price_at_analysis": null
     }
   ],
   "ADNOCLS.AD": [
@@ -2595,6 +2627,38 @@
       "action": "MONITOR",
       "verdict": "Core capital return catalyst (NOK 4.5bn, all committed to shareholders) is fully verified and compelling at ~19% discount to consensus, but the fabricated PE/Dorsey narrative in the email is a serious credibility flag, the NCA/Nettbil binary risk remains unresolved, and the broker operates outside its core competency — maintain active MONITOR pending new buyback programme announcement and NCA outcome.",
       "price_at_analysis": 258.2
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 61,
+      "action": "MONITOR",
+      "verdict": "Compelling value setup near 52-week lows with NOK 4.5bn capital return firepower and OpenAI tailwind, but await April 30 earnings confirmation of volume recovery and formal buyback announcement before upgrading conviction.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 52,
+      "action": "MONITOR",
+      "verdict": "Capital return catalyst and near-52w-low valuation are compelling, but the unresolved NCA/Nettbil binary risk, outside-competency coverage, and an unverified OpenAI tailwind claim cap conviction — maintain MONITOR and await April 30 earnings and formal buyback announcement before upgrading.",
+      "price_at_analysis": 258.2
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 6,
+      "action": "MONITOR",
+      "verdict": "Real and verified competitive threat to Blocket's auto vertical is a near-term revenue headwind for Vend, but dominant network effects and FINN.no's Norwegian fortress limit structural downside — monitor Q1 results for evidence of share loss.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "MONITOR",
+      "verdict": "Credible competitive threat to Blocket's auto vertical is real and well-documented, but Blocket retains massive traffic dominance; watch April 2026 Wayke-Tradera rollout and Vend's Q1 Mobility revenue for signs of lasting market share shift.",
+      "price_at_analysis": null
     }
   ],
   "SHOP": [
@@ -3424,6 +3488,22 @@
       "action": null,
       "verdict": "STABLE — Near 52w high, UP momentum, above analyst target (1092 vs 903). NAV gap and Nscale scrutiny ongoing.",
       "price_at_analysis": 1092.0
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 61,
+      "action": "MONITOR",
+      "verdict": "Nscale's $14.6bn Series C valuation is a major verified catalyst that credibly supports Arctic's NAV uplift thesis, but AKER trades above consensus, the stock is up +38% YTD, ~39% of GAV is unlisted, and the unexplained NAV gap from prior analyses is unresolved — monitor for Q1 NAV update (April 23) before adding exposure.",
+      "price_at_analysis": 1074.0
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 60,
+      "action": "MONITOR",
+      "verdict": "Nscale's $14.6bn Series C is a verified, landmark catalyst supporting Arctic's NAV uplift thesis, but AKER trades 19% above consensus, is up +38% YTD, 39% of GAV is unlisted (broker estimate, not yet verified), the Series C close is still subject to conditions, and prior NAV gap remains unresolved — maintain MONITOR ahead of Q1 NAV update on April 23.",
+      "price_at_analysis": 1074.0
     }
   ],
   "HKEX / CHINA EQUITY MACRO (CSI 300 / HSI / HANG SENG CHINA ENTERPRISES)": [
@@ -3598,6 +3678,22 @@
       "action": "MONITOR",
       "verdict": "Thesis has been dramatically validated by the Iran war and Hormuz crisis — FRO is printing record rates with 92% Q1 coverage locked in, but at +45% YTD the risk/reward now depends on duration of Hormuz disruption; monitor for entry on any ceasefire-driven pullback.",
       "price_at_analysis": 301.2
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "STRONG",
+      "score": 80,
+      "action": "MONITOR",
+      "verdict": "Thesis is fully validated by events but the stock has re-rated to reflect it — Hold is the right call at these VLCC implied values; monitor for a ceasefire-driven 20–30% pullback to re-enter.",
+      "price_at_analysis": 293.1
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "STRONG",
+      "score": 80,
+      "action": "MONITOR",
+      "verdict": "Thesis dramatically validated by Hormuz crisis but stock has captured most of the upside — HOLD upgrade risk if Strait reopens; monitor for entry on any ceasefire/normalization-driven 20%+ dip.",
+      "price_at_analysis": 293.1
     }
   ],
   "NORBT.OL": [
@@ -3792,6 +3888,22 @@
       "action": "WAIT_FOR_DIPS",
       "verdict": "Mowi is structurally positioned for a strong 2026 recovery with record biomass and falling costs, but its own aggressive volume growth plan runs counter to the supply-tightening thesis in this email, and near-term Q1 cost seasonality, an unresolved EV/EBITDA anomaly, and high debt justify waiting for Q1 results on March 25 before adding exposure.",
       "price_at_analysis": 222.4
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 52,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Verified deal is real but small and the EBIT uplift is an unverified broker estimate; the oil/MOWI sentiment call is weak; maintain WAIT_FOR_DIPS pending Q1 May 13 cost confirmation and resolution of the persistent EV/EBITDA anomaly.",
+      "price_at_analysis": 221.0
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "WEAK",
+      "score": 38,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Deal is real and strategically sound but incrementally small; EBIT uplift is unverified broker estimate; oil/bounce narrative is weak; maintain WAIT_FOR_DIPS pending Q1 2026 cost confirmation on May 13 and resolution of the persistent EV/EBITDA anomaly.",
+      "price_at_analysis": 221.0
     }
   ],
   "DNO.OL": [
@@ -4002,6 +4114,22 @@
       "action": "MONITOR",
       "verdict": "Well-reasoned seasonal TRIM call with strong historical and fundamental support — track ARB and rate data weekly; revisit if rates dip below $40k/d or ARB compresses materially in Feb/Mar.",
       "price_at_analysis": 132.6
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Disciplined valuation-driven downgrade that has been partially validated by the subsequent 20%+ correction from the peak — Hold at TP 185 NOK; at current ~132 NOK the stock may already be oversold, making it a potential buy-on-dip candidate rather than a sell.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "STRONG",
+      "score": 77,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Downgrade is correct and well-timed — G7 naval escorts have already triggered a 21% weekly selloff; wait for 50%+ Hormuz normalization pricing-in before considering re-entry around NAV (~NOK 115–125 range).",
+      "price_at_analysis": null
     }
   ],
   "LPG": [
@@ -4313,6 +4441,272 @@
       "score": 58,
       "action": "RESEARCH_FURTHER",
       "verdict": "Fundamentals are stronger than the market currently prices (record Q4 2025, 8%+ dividend yield, growing backlog), but the NOK 94 TP is ~25-40% above consensus and the out-of-universe nature of this call, Ratos overhang, and aggressive EPS assumptions warrant deeper due diligence before acting — monitor for Annual Report confirmation on March 27.",
+      "price_at_analysis": null
+    }
+  ],
+  "MAERSK.CO": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 52,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Maersk is a legitimate sympathy-trade beneficiary of the Hormuz crisis (freight rates surging, EBS imposed), but the stock has already re-rated +46% over 12 months and +11% in two weeks; trapped vessels, suspended bookings, negative Ocean EBIT, and a cluster of recent analyst downgrades make this a high-conviction trade only if the crisis is brief — needs deeper fundamental work before adding exposure.",
+      "price_at_analysis": null
+    }
+  ],
+  "9107.T": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 48,
+      "action": "MONITOR",
+      "verdict": "K Line is a valid short-term Hormuz beneficiary via ONE rate surge exposure and Japanese shipping sentiment, but the structural outlook is challenged by declining earnings forecasts, overcapacity risk, and Japan's severe energy security vulnerability — monitor for de-escalation signals before taking a position.",
+      "price_at_analysis": null
+    }
+  ],
+  "9104.T": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 54,
+      "action": "MONITOR",
+      "verdict": "MOL is the most diversified Hormuz beneficiary of the three Japanese shippers (container + LNG + dry bulk + car carriers), but its sub-investment-grade credit rating, stock trading above consensus target, and unclear crisis duration warrant monitoring rather than immediate action.",
+      "price_at_analysis": null
+    }
+  ],
+  "9101.T": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 51,
+      "action": "MONITOR",
+      "verdict": "NYK is the largest and most diversified of the three Japanese shippers, with strong FY2024 earnings momentum and an LNG expansion strategy tailor-made for the Hormuz crisis, but as with peers, the rally may already reflect the disruption premium — monitor for Hormuz de-escalation signals and Q2 FY2026 earnings confirmation.",
+      "price_at_analysis": null
+    }
+  ],
+  "9107.T / KAIKY": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "MONITOR",
+      "verdict": "Credible sympathy-trade beneficiary via ONE JV exposure, but outside broker's core universe, above pre-crisis consensus PT, and requires fundamental crisis-duration assumptions before adding — monitor for pullback or crisis escalation update.",
+      "price_at_analysis": null
+    }
+  ],
+  "9104.T / MSLOY": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 60,
+      "action": "MONITOR",
+      "verdict": "Strongest fundamental case among three Japanese shippers due to multi-segment Hormuz tailwind (tankers, LNG, containers simultaneously), but stock already above consensus PT and outside core coverage — monitor for earnings confirmation on April 30.",
+      "price_at_analysis": null
+    }
+  ],
+  "9101.T / NPNYY": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "MONITOR",
+      "verdict": "Largest ONE stake makes NYK the highest-leverage pure container play among Japanese shippers, but stock is trading ~38-47% above pre-crisis analyst PT — the Hormuz premium is already substantial and the trade is binary on crisis duration.",
+      "price_at_analysis": null
+    }
+  ],
+  "MAERSK-B.CO / MAERSK-A.CO": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 54,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Crisis fundamentals are worsening (mines, vessel attacks, EBS launched), confirming the Hormuz thesis, but stock at 52-week high with consensus Moderate Sell at DKK12,867 — the risk/reward requires a clear view on crisis duration before adding; prior RESEARCH_FURTHER verdict maintained.",
+      "price_at_analysis": null
+    }
+  ],
+  "SED.OL": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Interesting high-yield offshore drilling thesis on a newly-listed NCS contractor, but with unverifiable financials, a ticker data gap, and no broker track record — requires independent contract verification and financial model review before acting.",
+      "price_at_analysis": null
+    }
+  ],
+  "SUBC.OL": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 65,
+      "action": "MONITOR",
+      "verdict": "CEO succession is a real but manageable risk — Fitzgerald's Saipem7 designation provides strategic continuity, but investors should monitor his first 6 months executing the merger integration with scrutiny.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "MONITOR",
+      "verdict": "Operationally excellent with a fortress backlog, but the CEO transition mid-merger and Brazil antitrust overhang make this a MONITOR rather than add — wait for CADE clarity and CEO onboarding before increasing exposure.",
+      "price_at_analysis": 257.4
+    }
+  ],
+  "SOMA.OL": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 70,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Solid OSV initiation with credible cash flow underpinning, but the H2/25 dividend pause claim needs reconciliation with public records before fully trusting the financial model — verify March 26 earnings before acting.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 67,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Operationally strong OSV platform with genuine yield appeal, but the SOFF/SOMA ticker and price data confusion in the email demands immediate clarification before acting on Arctic's NOK 29 TP initiation.",
+      "price_at_analysis": null
+    }
+  ],
+  "LSG.OL": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "WEAK",
+      "score": 45,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Outside Arctic's core competency, limited near-term upside, and the thesis hinges entirely on a Q2 biological improvement that has not yet been confirmed — wait for Q2 data before considering entry.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "HOLD is the right call — wait for confirmed Q2 biological improvement at Sjøtroll before adding; the catalyst is clear but timing-dependent and outside Arctic's core competency to assess with full confidence.",
+      "price_at_analysis": null
+    }
+  ],
+  "ENH.OL": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 65,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Compelling yield and leverage story with a legitimate peer discount, but conflict of interest (Arctic = bookrunner on HitecVision placement) and HitecVision's own share sales demand independent verification before acting on the BUY.",
+      "price_at_analysis": null
+    }
+  ],
+  "GENERAL OCEANS (PRE-IPO)": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Credible underwater-tech growth story with genuine defence tailwinds, but Arctic's bookrunner conflict demands independent valuation scrutiny before sizing; await book-building results and prospectus for full diligence.",
+      "price_at_analysis": null
+    }
+  ],
+  "GENERALS.OL": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Genuinely attractive defence/underwater-tech growth story with verified financials and credible cornerstones, but Arctic's bookrunner conflict of interest makes the 16–55% premium valuation claim unactionable without independent verification — seek PDIE meeting and await prospectus before sizing.",
+      "price_at_analysis": null
+    }
+  ],
+  "HAUTO.OL": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 48,
+      "action": "MONITOR",
+      "verdict": "Verified neutral update — volume and rate data internally consistent and credible, the Q1 guidance target is achievable but requires a demanding March print, and at +31% YTD near consensus target the risk/reward is balanced; monitor for the March trading update before acting.",
+      "price_at_analysis": 123.6
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 47,
+      "action": "MONITOR",
+      "verdict": "Internally consistent and credible neutral update — volume dip offset by improving rates/mix, but March needs a demanding print to meet Q1 guidance; at +31% YTD near the consensus HOLD target, maintain MONITOR ahead of March trading update.",
+      "price_at_analysis": 123.6
+    }
+  ],
+  "KMX": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 5,
+      "action": "MONITOR",
+      "verdict": "Verified activist catalyst is real and the valuation floor argument is compelling, but structural US used-car headwinds and analyst scepticism (Underweight from Barclays/JPMorgan) warrant monitoring rather than acting on the broker's secondhand mention — watch April 14 earnings.",
+      "price_at_analysis": 41.84
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 52,
+      "action": "MONITOR",
+      "verdict": "Starboard's $350M activist entry is a credible hard catalyst but the underlying business is in clear decline, the consensus target is below market price, and short interest is elevated — monitor the April 14 earnings and AGM developments before acting.",
+      "price_at_analysis": 41.84
+    }
+  ],
+  "GOCE.OL": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "STRONG",
+      "score": 8,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Highly credible geopolitical tailwind and strong underlying fundamentals make General Oceans an intriguing IPO, but the broker's material conflict of interest as deal distributor demands independent due diligence before committing — request the prospectus and verify the 26% discount claim independently.",
+      "price_at_analysis": null
+    }
+  ],
+  "ELK.OL": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 5,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Structurally credible self-help story with verified cost cuts, but H1 2026 weakness and macro uncertainty (including Hormuz supply chain impacts) justify waiting for a better entry point or clearer demand inflection signals.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 50,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Cost-reduction credibility is real and the Silicones divestiture is strategically correct, but with H1 2026 explicitly guided weaker and production curtailments ongoing, wait for signs of demand stabilisation or positive FeSi price momentum before building a position.",
+      "price_at_analysis": null
+    }
+  ],
+  "TOM.OL": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "STRONG",
+      "score": 7,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Broker's ENVIP-to-TOMRA differentiation call is analytically credible and well-supported by Q4 data — any dip driven by ENVIP read-across is a compelling entry opportunity, with Poland/Singapore providing near-term catalysts.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "STRONG",
+      "score": 76,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "The broker's differentiation argument is analytically sound and well-supported by TOMRA's actual Q4 results — ENVIP's weakness is demonstrably company-specific; any sympathy dip in TOMRA on ENVIP results is a credible buying opportunity for patient investors with a 12-18 month horizon.",
+      "price_at_analysis": null
+    }
+  ],
+  "KMP.CA / PNG.V": [
+    {
+      "date": "2026-03-14",
+      "thesis_strength": "MODERATE",
+      "score": 60,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "The Hormuz mine crisis is a genuine and powerful real-time catalyst for sonar/MCM technology demand, and Klein Marine's credentials are solid — but this is a private placement in a privately-held company with unverifiable broker-set pricing; conduct full due diligence on General Oceans financials and IPO timeline before committing capital.",
       "price_at_analysis": null
     }
   ]

@@ -1,0 +1,182 @@
+{
+  "stocks": [
+    {
+      "ticker": "MOWI.OL",
+      "company_name": "Mowi ASA",
+      "country": "NO",
+      "is_core_coverage": true,
+      "investment_thesis": "Mowi's acquisition of Torghatten Aqua's seawater farming business adds ~4,500 GWT of annual harvest capacity in a high-performing Northern Norway zone (production area 8) at a net cash cost of NOK 293m (EUR 26m), consolidating licenses it already had operational exposure to via its 33.34% Nova Sea-derived stake. The broker frames this as a ~1% EBIT uplift (NOK 110m / EUR 10m), a modestly positive but clearly incremental add-on rather than a transformative deal. The same-day oil price decline is flagged as a short-term bounce catalyst, though the macro read on energy costs for a salmon farmer is an unconventional and historically weak signal.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 52,
+      "key_claims": [
+        {
+          "claim": "Mowi acquires Torghatten Aqua licenses where it already held a 33.34% stake",
+          "assessment": "CREDIBLE",
+          "verified_via": "GlobeNewswire official press release 10 Mar 2026; multiple industry sources (Undercurrent News, FishFarmingExpert, IndexBox)",
+          "note": "Confirmed: Mowi acquired 33.34% stake in Torghatten Aqua via the Nova Sea acquisition. The new deal carves out and purchases 3.37 licenses (2,628t MAB) for NOK 293m net cash and simultaneously returns the 33.34% stake. Broker's description is accurate but imprecise — the stake is returned, not retained alongside the licenses."
+        },
+        {
+          "claim": "EBIT uplift of ~NOK 110m / EUR 10m (~1% of EBIT)",
+          "assessment": "UNVERIFIABLE",
+          "verified_via": "Company press release confirms 4,500 GWT expected annual harvest; Mowi 2025 turnover EUR 5.7bn confirmed. No independent EBIT uplift figure published by company.",
+          "note": "The EUR 10m EBIT uplift is an Arctic in-house estimate not disclosed by Mowi. With 2025 EBIT of roughly EUR 500–600m implied by EUR 5.7bn revenue, ~1% uplift from EUR 10m is arithmetically plausible but depends heavily on cost assumptions for the new licenses. The conversion of NOK 110m ≈ EUR 10m at ~11x is consistent with current USDNOK context. This is an analyst model output, not company guidance — treat as UNVERIFIABLE but directionally reasonable."
+        },
+        {
+          "claim": "Oil price decline is more negative for MOWI than airlines like NAS, hence bounce expected",
+          "assessment": "QUESTIONABLE",
+          "verified_via": "Sector logic; Mowi's fuel cost exposure is via feed (fishmeal/oil) and vessel/logistics costs, not jet fuel. NAS fuel sensitivity is direct and higher.",
+          "note": "This is a speculative intraday sentiment trade call with weak analytical underpinning. Salmon farmer fuel sensitivity to crude oil is indirect (logistics/feed) and materially lower than for an airline. The broker's implied correlation is not established and reads as post-hoc rationalization of a prior-day move. Treat as a noise-level catalyst flag rather than a structural thesis."
+        },
+        {
+          "claim": "Transaction subject to Norwegian competition authority approval",
+          "assessment": "CREDIBLE",
+          "verified_via": "GlobeNewswire; Euronext official notice 10 Mar 2026",
+          "note": "Standard M&A condition confirmed by company. Given Mowi's dominant position, competition review is a legitimate near-term closing risk, though production area 8 is geographically concentrated and unlikely to trigger a block."
+        }
+      ],
+      "bull_case": "Torghatten deal is a low-cost, operationally synergistic license bolt-on in a high-performing bio region, adding ~4,500t GWT at a capital-efficient price (NOK 293m net = ~NOK 65k/GWT, reasonable by Norwegian license market norms). Combined with falling oil/energy costs (Brent at ~$103.86 but declining day of email), lower feed cost tailwinds, and consensus BUY at NOK 245.7 target (+11% upside from NOK 221), positive re-rating from NAV accretion is achievable. Q1 results (May 13) could confirm cost improvement trajectory after prior-year harvest front-loading normalization.",
+      "bear_case": "The deal is genuinely small (NOK 293m vs >NOK 60bn market cap) and the EBIT uplift unverified. The EV/EBITDA anomaly (109x vs peers at 8–12x) flagged in prior analyses remains unresolved and raises broader model integrity questions. The stock is -8.9% YTD and below consensus target, suggesting market sees near-term headwinds. Board chair resignation (Feb 27) adds governance noise. The broker's oil/MOWI inverse correlation thesis is analytically weak. Prior WAIT_FOR_DIPS calls from multiple sessions remain appropriate.",
+      "broker_flags": [
+        "EBIT uplift of NOK 110m / EUR 10m is an unverified internal model estimate, not company guidance",
+        "Oil price/MOWI inverse correlation logic is speculative and analytically unconventional",
+        "Broker mischaracterizes the deal as simply 'acquiring licenses they already had' — stake is being returned not retained",
+        "Cash consideration is EUR 26m, not EUR 10m (the EUR 10m refers to estimated annual EBIT uplift) — easily confused by readers",
+        "Deal remains subject to Norwegian competition authority approval — a real, if modest, closing risk"
+      ],
+      "forum_sentiment": "No retrievable live Hegnar/Shareville/Reddit sentiment for MOWI on this specific news; Investtech technical data signals an intermediate rising trend channel with increasing investor optimism prior to the Mar 10 deal announcement.",
+      "insider_read": "Recent notable event is Ørjan Svanevik's resignation as Board Chair on Feb 27, 2026 — the circumstance (termination of role) adds minor governance uncertainty; no fresh insider buying or selling data retrieved for March 2026.",
+      "short_interest_read": "No current short interest data retrieved; at -8.9% YTD and with prior WAIT_FOR_DIPS calls in force, the stock may have attracted short-side interest but this cannot be confirmed from available sources.",
+      "catalyst_note": "Near-term: potential share bounce on oil price decline day (speculative). Medium-term: Q1 2026 earnings on May 13 are the key verification event for cost trajectory and harvest quality. Closing of Torghatten deal (competition authority approval required) is a secondary catalyst. Norges Bank March 26 rate decision (lower CPI data is supportive of a cut, reducing NOK-denominated cost pressures) adds macro tailwind.",
+      "vs_consensus": "Consensus is BUY at NOK 245.7 (9 analysts, range 218–266). Current price NOK 221.0 represents ~11% upside to target. Arctic's thesis is incrementally positive but does not formally upgrade or revise TP in this note — consistent with the broker maintaining a constructive stance. Previous analyses in this system rated WAIT_FOR_DIPS at 35–55/10; this update is modestly positive but insufficient to change that verdict given the deal's limited scale and unresolved EV/EBITDA anomaly.",
+      "recommended_action": "WAIT_FOR_DIPS",
+      "one_line_verdict": "Verified deal is real but small and the EBIT uplift is an unverified broker estimate; the oil/MOWI sentiment call is weak; maintain WAIT_FOR_DIPS pending Q1 May 13 cost confirmation and resolution of the persistent EV/EBITDA anomaly.",
+      "_price_at_analysis": 221.0
+    },
+    {
+      "ticker": "AKER.OL",
+      "company_name": "Aker ASA",
+      "country": "NO",
+      "is_core_coverage": true,
+      "investment_thesis": "Aker's Nscale position has been dramatically repriced following the March 9 Series C close at a $14.6bn post-money valuation, with Aker investing $350m in cash and rolling up its 50% Aker Nscale JV stake to become Nscale's largest shareholder at ~27.3% of share capital. This makes the broker's claim that Nscale is now ~29% of GAV structurally plausible and a material positive repricing event. The broker reiterates BUY with TP NOK 1,160, implying the stock (NOK 1,074) trades at a ~20% discount to NAV — broadly consistent with Norges Bank's January MPR which noted Nscale's accelerating value creation, though the stock already rallied significantly (+37.9% YTD) to trade above the 4-analyst consensus target of NOK 902.5.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 61,
+      "key_claims": [
+        {
+          "claim": "Nscale stake now ~29% of Aker's GAV, second largest component after Aker BP (~35%)",
+          "assessment": "CREDIBLE",
+          "verified_via": "Nscale Series C closed at $14.6bn valuation (confirmed CNBC, BeBeez, NextWeb, MarketScreener); Aker's total Nscale exposure pre-Series C was NOK 6.7bn (NOK 2.9bn JV + NOK 3.8bn Series B). Post-Series C, $350m cash investment plus JV roll-up at $14.6bn valuation significantly increases Nscale's book value in Aker's portfolio. Q4 2025 NAV was NOK 67.3bn.",
+          "note": "The ~29% GAV figure is not independently published by Aker post-Series C (data not yet in Q1 2026 report) but is directionally credible given known Nscale valuation and Aker's ~27.3% post-diluted stake in a $14.6bn company implying ~$4bn gross value vs total GAV likely ~NOK 80-85bn post-investment. The 29% figure is an Arctic estimate — CREDIBLE but precisely unverifiable until Q1 2026 NAV publication (April 23)."
+        },
+        {
+          "claim": "Nscale cooperation was announced ~8 months ago (implies ~July 2025)",
+          "assessment": "CREDIBLE",
+          "verified_via": "Nscale/Aker/OpenAI Stargate Norway announcement was July 31, 2025, confirmed via Nscale press release and DataCenter Dynamics.",
+          "note": "Eight months from July 31, 2025 to March 10, 2026 is accurate. Consistent with known timeline."
+        },
+        {
+          "claim": "Broker TP of NOK 1,160 implies ~20% discount to NAV (10-year average)",
+          "assessment": "CREDIBLE",
+          "verified_via": "Investing.com notes NAV discount compressed to 15% in Q4 2025; Q4 2025 NAV was NOK 67.3bn. At ~135m shares, NAV/share ~NOK 499 (listed NAV). However, Aker's TP is set as a % discount to estimated GAV-derived NAV — Arctic's own NAV model is implied at ~NOK 1,450 for a 20% discount to yield NOK 1,160.",
+          "note": "The broker's 10y average ~20% discount claim is consistent with historical Aker discount patterns. Post-Series C, the correct NAV base has not been updated publicly, so the exact TP arithmetic cannot be independently verified. Broadly CREDIBLE for a holding company TP methodology."
+        },
+        {
+          "claim": "Unlisted equity investments now ~39% of GAV, IPO of Nscale would support discount contraction",
+          "assessment": "CREDIBLE",
+          "verified_via": "Nscale has confirmed IPO ambitions (CNBC October 2025); CEO Payne flagged 2026 IPO possibility. Aker's unlisted share grew as Nscale (unlisted) became a larger portion post-Series C.",
+          "note": "The 39% unlisted figure is an Arctic estimate. The direction is correct — as Nscale (unlisted) grows as a share of GAV, NAV discount typically widens unless/until an IPO provides price discovery. IPO ambitions are real but speculative for a company that only closed Series C in March 2026."
+        },
+        {
+          "claim": "Nscale has Microsoft $14bn contract, Stargate Norway 100,000 GPU target, $2bn Series C",
+          "assessment": "CREDIBLE",
+          "verified_via": "Microsoft $14bn expanded partnership confirmed by CNBC and FT; Stargate Norway 100,000 NVIDIA GPUs by end-2026 confirmed by Nscale/Aker/OpenAI joint press release; $2bn Series C at $14.6bn valuation confirmed by multiple sources including BeBeez, NextWeb, CNBC.",
+          "note": "The execution risk flagged in previous analyses (Guardian investigation) remains — Nscale is ~2 years old, and the scale of contracted commitments vs. operational delivery is a key risk. IPO timing is uncertain."
+        }
+      ],
+      "bull_case": "Nscale's $14.6bn valuation at Series C is a landmark validation event, with tier-1 institutional backing (Citadel, Point72, Dell, NVIDIA, Jane Street), a $14bn Microsoft contract, and Stargate Norway partnership with OpenAI. Aker is now Nscale's largest shareholder at ~27.3% and has CEO Øyvind Eriksen as Vice Chair of Nscale's board — deep strategic alignment. At NOK 1,074 vs Arctic TP NOK 1,160 (+8% upside), the discount-to-NAV story is real. A Nscale IPO in 2026 would be a major positive catalyst for NAV repricing.",
+      "bear_case": "Stock has already rallied +37.9% YTD and is significantly above the 4-analyst consensus target of NOK 902.5 (+19% premium to consensus). The stock trades at NOK 1,074 vs. the next highest analyst target of NOK 1,180 — there is limited consensus support for further near-term upside. Unlisted investments at ~39% of GAV will structurally sustain or widen the discount unless Nscale IPOs. Nscale is a 2-year-old company; execution of 100,000 GPU Narvik build-out, UK commitments, and Microsoft contracts within 2026 is operationally demanding. $350m additional cash investment adds to Aker's balance sheet leverage profile. Prior analysis flagged unexplained NAV gap (~NOK 75/share) — unresolved.",
+      "broker_flags": [
+        "Price NOK 1,074 is ABOVE 4-analyst consensus target of NOK 902.5 — broker is a significant outlier; possible conflict of interest as Aker relationship bank",
+        "Broker previously had an unexplained ~NOK 75/share gap in NAV bridge — this note does not address it",
+        "Arctic's Jeppe Baardseth is simultaneously covering General Oceans IPO (same email) — potential distraction from Aker depth in this note",
+        "~39% unlisted GAV figure is a broker estimate not yet confirmed by Aker post-Series C",
+        "Nscale IPO framing as 'supporting repricing' is speculative — no IPO timeline has been publicly confirmed"
+      ],
+      "forum_sentiment": "Aker is highly discussed in Norwegian financial circles following the Nscale Series C news (March 9–10); overall sentiment appears bullish on the AI infrastructure pivot, though the stock's dramatic YTD run above consensus is generating valuation debate.",
+      "insider_read": "Øyvind Eriksen (Aker CEO) serves as Vice Chair of Nscale's Board of Directors post-Series C, reflecting strong insider alignment with the Nscale bet; no public insider selling disclosed in available sources for March 2026.",
+      "short_interest_read": "No current short interest data retrieved; at +37.9% YTD and well above consensus target, there is a credible basis for short interest buildup, but this cannot be confirmed from available sources.",
+      "catalyst_note": "Immediate: Nscale Series C close (March 9) is a confirmed valuation catalyst. Near-term: Q1 2026 NAV update (April 23) will quantify the Nscale repricing in Aker's books. Medium-term: Nscale IPO (2026 flagged but not confirmed) would be the ultimate discount-compression event. Norges Bank rate decision (March 26) and lower CPI print support NOK risk assets broadly.",
+      "vs_consensus": "Arctic TP of NOK 1,160 is well above 4-analyst consensus of NOK 902.5. Current price NOK 1,074 implies the market has partially endorsed Arctic's more optimistic NAV view. The stock is trading at a ~19% premium to consensus — significant outlier positioning by Arctic. The bull/bear range of analyst targets is wide (645–1,180), indicating high uncertainty.",
+      "recommended_action": "MONITOR",
+      "one_line_verdict": "Nscale's $14.6bn Series C valuation is a major verified catalyst that credibly supports Arctic's NAV uplift thesis, but AKER trades above consensus, the stock is up +38% YTD, ~39% of GAV is unlisted, and the unexplained NAV gap from prior analyses is unresolved — monitor for Q1 NAV update (April 23) before adding exposure.",
+      "_price_at_analysis": 1074.0
+    },
+    {
+      "ticker": "HAUTO.OL",
+      "company_name": "Höegh Autoliners ASA",
+      "country": "NO",
+      "is_core_coverage": true,
+      "investment_thesis": "HAUTO's February 2026 trading update shows volume of 1.2m cbm (-8% MoM from January's 1.3m cbm, +9% YoY vs February 2025's 1.1m cbm), net freight rate of USD 80.7/cbm (+3.9% MoM), and H&H share rising to 24% (from 22% in January, highest since December 2024). The broker presents this as a neutral update with Q1 EBITDA tracking feasibility dependent on a strong March print (1.3m cbm at USD 88.5/cbm implied). Against company guidance of Q1 EBITDA 'slightly above' Q4 2025's USD 145m and broker estimate of USD 148.6m, the February data leaves March as the decisive month with a demanding but not impossible hurdle.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 48,
+      "key_claims": [
+        {
+          "claim": "February 2026 volume: 1.2m cbm (-8% MoM from January's 1.3m cbm, +9% YoY)",
+          "assessment": "CREDIBLE",
+          "verified_via": "January 2026 volume of 1.3m cbm confirmed by Euronext/FilingReader (Feb 6, 2026); February 2025 volume of 1.1m cbm confirmed by Hellenic Shipping News. February 2026 figure of 1.2m cbm not independently verified via press release in search results (HAUTO February 2026 update may not yet be publicly indexed), but arithmetic is consistent with broker's stated data and company's stated monthly reporting practice.",
+          "note": "The YoY comparison (+9%) vs February 2025's 1.1m cbm is arithmetically correct (1.2/1.1 = +9.1%). The MoM comparison (-8%) vs January's 1.3m cbm is also correct. These figures are internally consistent and consistent with HAUTO's established monthly reporting cadence. CREDIBLE pending official filing confirmation."
+        },
+        {
+          "claim": "H&H share 24%, highest since December 2024 (when it was 25%)",
+          "assessment": "CREDIBLE",
+          "verified_via": "January 2026 H&H share 22% confirmed by Euronext filing; February 2025 H&H share 18% confirmed by Hellenic Shipping News. The 24% H&H figure in February 2026 is consistent with the improving trajectory the broker describes.",
+          "note": "The claim that 24% is the highest H&H share since December 2024 (25%) is consistent with known data points and the broker's stated context. CREDIBLE."
+        },
+        {
+          "claim": "Net freight increased 3.9% from January to USD 80.7/cbm (+0.1% YoY)",
+          "assessment": "CREDIBLE",
+          "verified_via": "January 2026 net freight rate was USD 77.7/cbm (confirmed Euronext/FilingReader). USD 80.7/cbm in February 2026 represents +3.9% MoM (80.7/77.7 = +3.9%). February 2025 net freight was USD 80.6/cbm (Hellenic Shipping News), making +0.1% YoY accurate.",
+          "note": "All arithmetic checks out perfectly against independent data points. CREDIBLE."
+        },
+        {
+          "claim": "Q4 2025 EBITDA was USD 145m; company guided Q1 2026 EBITDA slightly above Q4",
+          "assessment": "CREDIBLE",
+          "verified_via": "Q4 2025 EBITDA of USD 145m and 'Q1 2026 EBITDA expected slightly above Q4 2025' confirmed by TradingView/Reuters Feb 25, 2026 Q4 earnings release.",
+          "note": "Fully confirmed by official HAUTO Q4 2025 earnings release. CREDIBLE."
+        },
+        {
+          "claim": "To meet Q1 estimate of USD 148.6m, March needs USD 115m revenue; implies USD 88.5/cbm net freight at 1.3m cbm",
+          "assessment": "CREDIBLE",
+          "verified_via": "Internal arithmetic: if Oct-Jan Q1 consists of Jan (1.3m × $77.7) + Feb (1.2m × $80.7) + March, the residual revenue needed to reach $148.6m EBITDA is mathematically calculable. The exact USD 115m March revenue and USD 88.5/cbm at 1.3m cbm figures are broker-model outputs — arithmetic appears sound.",
+          "note": "The USD 88.5/cbm required net freight rate in March represents a meaningful +10% jump from February's $80.7 and +14% from January's $77.7. The broker flags this as 'may seem difficult to achieve.' This is an honest and appropriately cautious flag. Achievability is uncertain but not impossible given the company's statement that February was 'solid with rates slightly higher.' CREDIBLE as a modeled scenario."
+        }
+      ],
+      "bull_case": "YoY volume growth (+9%) is real and H&H share improvement to 24% signals favorable cargo mix evolution. Net freight rising 3.9% MoM in February is constructive. The company guided Q1 'slightly above' Q4 and stated February was solid with improving rates. At P/E 5.0x and Fwd P/E 7.9x with +74% return over 12 months, HAUTO offers deep value on an earnings normalization path if March delivers. No Red Sea re-entry planned (confirming supply constraint persistence). Strong dividend-paying profile.",
+      "bear_case": "The February volume drop (-8% MoM) is concerning despite the YoY comparison. Meeting Q1 guidance requires March net freight at USD 88.5/cbm — a demanding +10% sequential jump from February with no explicit company guidance supporting that level. The stock has already run +31.2% YTD and trades near the 52w high (NOK 123.6 vs NOK 140.4 high). Only 3 analyst consensus estimates with very tight range (NOK 122.7–132.1) — current price is near the midpoint, suggesting limited consensus upside. Fwd P/E of 7.9x vs trailing P/E of 5.0x implies significant earnings deceleration ahead.",
+      "broker_flags": [
+        "Only 3 analyst estimates — thin consensus base creates high uncertainty in target price",
+        "Broker does not provide a formal recommendation or TP in this note — this is explicitly flagged as a 'neutral update'",
+        "USD 88.5/cbm required March net freight is a demanding hurdle the broker itself labels 'may seem difficult to achieve' — appropriately cautious",
+        "Rounding caveat on 1-decimal volume reporting is a legitimate methodological note worth tracking",
+        "The ISS Governance QualityScore of 10 (highest risk decile) for Shareholder Rights and Compensation warrants monitoring"
+      ],
+      "forum_sentiment": "No direct Hegnar or Shareville sentiment retrieved for HAUTO on this specific update; broader third-party commentary (Bitget analysis, Capital.com) reflects a cautious stance noting earnings normalization expectations and the disconnect between Q4 strength and the measured Q1 guidance.",
+      "insider_read": "Primary insider share dealings were reported in mid-January 2026 per Capital.com, suggesting insider activity exists but direction (buy/sell) not confirmed from available sources.",
+      "short_interest_read": "No current short interest data retrieved; at +31% YTD and near the 52w high, some short-side positioning is plausible but unconfirmed.",
+      "catalyst_note": "March 2026 trading update (expected ~early April) is the key near-term catalyst — will confirm or deny the USD 88.5/cbm hurdle needed to meet Q1 guidance. Q1 2026 earnings on May 8 is the next formal earnings event. Any Red Sea normalization news would be a significant negative volume catalyst (supply return). Norges Bank March 26 rate decision (lower CPI supportive) is a broad macro tailwind for NOK equities.",
+      "vs_consensus": "3-analyst consensus HOLD with target NOK 128.2 (range 122.7–132.1). Current price NOK 123.6 represents ~3.7% discount to target — tight and near consensus midpoint. Broker's neutral framing is consistent with consensus HOLD. The stock is near fair value by consensus measures with execution risk on the March revenue hurdle being the key variable.",
+      "recommended_action": "MONITOR",
+      "one_line_verdict": "Verified neutral update — volume and rate data internally consistent and credible, the Q1 guidance target is achievable but requires a demanding March print, and at +31% YTD near consensus target the risk/reward is balanced; monitor for the March trading update before acting.",
+      "_price_at_analysis": 123.6
+    }
+  ],
+  "thread_narrative": "This Arctic Morning note of March 10, 2026 covers four distinct themes with varying quality. The MOWI Torghatten Aqua deal is the headline news event — fully verified by official press release, operationally logical, and modestly positive, though the EBIT uplift figure is an unverified broker estimate and the oil/share price sentiment call is analytically weak. The CPI section is factually accurate (headline 2.7% vs 3.0% consensus, core 3.0% vs NB's 2.6% forecast, confirmed by SSB official data) but the broker's sarcastic 'RATE CUT MORE LIKELY AGAIN?' framing oversimplifies: Norges Bank had already signal-ruled out a March 26 cut in its January guidance, and the core CPI at 3.0% still exceeds Norges Bank's December estimate of 2.6% — the disinflation is real but the monetary policy read is more nuanced than the email implies. The AKER section is the most substantive: Nscale's $14.6bn Series C close (March 9) is a verified transformational repricing event that credibly supports the ~29% GAV claim and Arctic's BUY/NOK 1,160 TP, though the stock at NOK 1,074 is already +38% YTD and above the 4-analyst consensus. The HAUTO update is the most technically rigorous section — all volumetric and rate data checks out against independent sources, the broker is transparent about execution risk, and the neutral characterization is appropriate. The General Oceans IPO mention is a live-deal marketing note — the IPO is confirmed (NOK 500m primary at NOK 3.44bn pre-money) with Arctic's analyst Jeppe Baardseth holding PDIE capacity, suggesting a sell-side marketing function rather than independent research. Overall the email mixes high-quality factual reporting (HAUTO, AKER) with weaker speculative content (MOWI oil sentiment), appropriate caution (HAUTO qualifier), and subtle marketing (General Oceans). The broker demonstrates strong core Nordic coverage competence.",
+  "thesis_evolution": "STRENGTHENING",
+  "urgency_escalation": false,
+  "overall_email_quality": "HIGH",
+  "overall_email_quality_note": "This is an above-average morning note from a specialist Nordic broker. Key claims are largely accurate and verifiable (CPI data exact per SSB; MOWI deal confirmed by company; Nscale Series C confirmed; HAUTO data internally consistent with prior filings). The HAUTO section is unusually transparent about model limitations and execution risk — a sign of analytical integrity. The AKER section benefits from the same-day Nscale Series C close providing concrete valuation anchor. Weaknesses: the MOWI oil/sentiment call is analytically thin; the CPI/rate cut framing is slightly glib; the General Oceans section is thinly veiled live-deal marketing; and the AKER NAV gap from prior analyses is not addressed. The email's overall factual reliability is high, though the forward-looking calls (MOWI bounce, AKER discount contraction) warrant the usual analyst-model discount.",
+  "_email_subject": "Arctic Morning 10th March: MOWI, BANKS, AKER, HAUTO, IPO",
+  "_email_date": "Tue, 10 Mar 2026 08:20:09 +0000",
+  "_thread_length": 1,
+  "_analyzed_at": "2026-03-14T07:28:41.182782",
+  "_image_count": 1
+}

@@ -1,0 +1,237 @@
+{
+  "stocks": [
+    {
+      "ticker": "GENERAL OCEANS (Pre-IPO)",
+      "company_name": "General Oceans ASA",
+      "country": "NO",
+      "is_core_coverage": true,
+      "investment_thesis": "General Oceans is a fast-growing platform for underwater technology (sensors, robotics, vehicles) serving Defence, Marine Infrastructure and Ocean Science. The company has grown revenue from NOK 816m (2023) to NOK 1,304m (2025), a ~26% CAGR, via five acquisitions and organic growth. Arctic's Jeppe Baardseth argues a pre-money fair value range of NOK 4,000–5,330m vs. the NOK 3,440m IPO pre-money, implying a 16–55% discount at offer.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 62,
+      "key_claims": [
+        {
+          "claim": "Pre-money equity value of NOK 3.44bn anchored by cornerstones DNB Asset Management and Folketrygdfondet at NOK 200m each (NOK 400m total)",
+          "assessment": "CREDIBLE",
+          "verified_via": "Euronext Oslo official ITF announcement (live.euronext.com, 9 Mar 2026) and Law360 reporting",
+          "note": "Official prospectus filing confirms cornerstone commitments at up to NOK 21.00/share, consistent with NOK 3,440m pre-money. Arctic is co-bookrunner (alongside ABG Sundal Collier and DNB Carnegie)."
+        },
+        {
+          "claim": "Primary offering of NOK 500m with secondary offering from existing shareholders (Atle Lohrmann and Ferd)",
+          "assessment": "CREDIBLE",
+          "verified_via": "Euronext ITF announcement confirms NOK 500m primary and secondary from named shareholders",
+          "note": "Secondary size remains TBC as stated in the email, consistent with published filings."
+        },
+        {
+          "claim": "Revenue CAGR of ~26% from 2023 to 2025 (NOK 816m to NOK 1,304m)",
+          "assessment": "CREDIBLE",
+          "verified_via": "Euronext ITF prospectus document",
+          "note": "Adj. EBITA also rose from NOK 100m to NOK 235m over the same period — margin expansion is a positive signal."
+        },
+        {
+          "claim": "Arctic fair value range NOK 4,000–5,330m (16–55% premium to IPO pre-money) on 2026e EV/EBIT 14.7–19.4x",
+          "assessment": "UNVERIFIABLE",
+          "verified_via": "Internal Arctic research note; no independent consensus available for pre-IPO name",
+          "note": "Valuation range looks reasonable for a defence/tech underwater platform growing 26% CAGR with ~18% EBITA margins, but comparables are thin and the uplift case is wide. Self-serving conflict: Arctic is bookrunner."
+        },
+        {
+          "claim": "Five acquisitions completed since 2021: SRS, Tritech, Reach Robotics, Klein, RS Aqua",
+          "assessment": "CREDIBLE",
+          "verified_via": "Euronext ITF and PitchBook (RS Aqua deal dated Nov 2024)",
+          "note": "Acquisition-driven growth creates integration risk; goodwill impairment charges were referenced in the Adj. EBITA reconciliation."
+        }
+      ],
+      "bull_case": "Defence budgets surging across NATO post-Ukraine/Iran conflict backdrop drives demand for underwater surveillance and robotics. NOK 3,440m pre-money values the company at only ~2.6x 2025 revenue vs. defence-tech peers typically 4–6x. Cornerstone investors (Folketrygdfondet, DNB) provide institutional validation. Q1 2026 listing expected, creating early-mover liquidity premium. Arctic's DCF/peer range implies 16–55% upside at offer price.",
+      "bear_case": "Arctic is bookrunner — obvious conflict of interest in the valuation note. Platform is acquisition-heavy (five deals since 2021) with integration risk and goodwill exposure. No prior trading history; secondary sale by founders (Lohrmann, Ferd) at IPO could signal partial exit. 365-day lock-up on mgmt but only 180-day on selling shareholders. Defence tech peers re-rated significantly in 2025; entry valuation may already reflect geopolitical tailwinds.",
+      "broker_flags": [
+        "CONFLICT OF INTEREST: Arctic is acting as co-bookrunner — valuation note should be treated with caution",
+        "Management access / PDIE roadshow being organised — typical IPO hype cycle",
+        "Secondary offering by founders is a yellow flag on alignment",
+        "Wide valuation range (NOK 4,000–5,330m) signals uncertainty in comparables"
+      ],
+      "forum_sentiment": "No public trading history or forum sentiment available for this pre-IPO name; broader market interest in defence/underwater tech is elevated given the 2026 Middle East conflict backdrop.",
+      "insider_read": "Company Board and management subject to 365-day lock-up; selling shareholders (Ferd, Lohrmann) on 180-day lock-up — partial insider selling at IPO is a mild negative signal.",
+      "short_interest_read": "Not applicable pre-IPO; post-listing short interest will be a key monitor given the acquisition-heavy model.",
+      "catalyst_note": "Prospectus publication and book-building result expected Q1 2026. Post-IPO catalysts include first full-year results as listed entity, potential further bolt-on acquisitions, and NATO/defence procurement awards.",
+      "vs_consensus": "No external consensus available. Arctic is sole research provider at IPO. The NOK 3,440m pre-money pricing is ~14–19% below Arctic's own low-end fair value estimate, suggesting a deliberate IPO discount — standard practice to attract books.",
+      "recommended_action": "RESEARCH_FURTHER",
+      "one_line_verdict": "Credible underwater-tech growth story with genuine defence tailwinds, but Arctic's bookrunner conflict demands independent valuation scrutiny before sizing; await book-building results and prospectus for full diligence.",
+      "_price_at_analysis": null
+    },
+    {
+      "ticker": "VEND.OL",
+      "company_name": "Vend Marketplaces ASA",
+      "country": "NO",
+      "is_core_coverage": false,
+      "investment_thesis": "Vend (formerly Schibsted) is the dominant Nordic online classifieds platform operating across Mobility, Real Estate, Jobs and Recommerce segments. The broker argues Q1 volumes are slightly supportive, with Cars Norway positive and Real Estate Norway slightly positive, while Jobs Norway remains negative. A key sector tailwind has emerged from OpenAI's retreat from direct ChatGPT checkout, reducing marketplace disintermediation fears.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 61,
+      "key_claims": [
+        {
+          "claim": "Q1 volumes slightly supportive; Arctic 8% ahead of consensus for Q1 adj. EBITDA",
+          "assessment": "UNVERIFIABLE",
+          "verified_via": "Cannot independently verify intra-quarter volume data; no Q1 trading update published",
+          "note": "Next earnings release is 30 April 2026. Last reported quarter showed -NOK 11.89 EPS vs +1.23 estimate (-1,069% miss), largely driven by non-cash disposal items from Lendo/Adevinta Spain sales."
+        },
+        {
+          "claim": "Cars Norway volume positive, Real Estate Norway slightly positive, Jobs Norway still negative",
+          "assessment": "UNVERIFIABLE",
+          "verified_via": "No public intra-quarter segment data available; broker claim based on proprietary channel checks",
+          "note": "FINN.no (Cars/RE) is structurally dominant in Norway; Jobs segment remains a structural headwind consistent with prior guidance."
+        },
+        {
+          "claim": "OpenAI scaling back direct in-chat shopping checkout, providing sector tailwinds for marketplace stocks",
+          "assessment": "CREDIBLE",
+          "verified_via": "The Information (5 Mar 2026), Futurism, Forrester, Seeking Alpha, hellopartner.com — widely confirmed",
+          "note": "OpenAI confirmed pivot from native ChatGPT checkout to app-based purchases. Mizuho flagged 'major relief rally' expectation; Expedia +8%, Tripadvisor +13% on the news. VEND as classifieds platform likely benefits modestly — risk was indirect (AI disintermediation of classified search), not direct checkout."
+        },
+        {
+          "claim": "Vend received ~NOK 4.5bn in Q1 2026 cash proceeds from Lendo, Mittanbud and Adevinta Spain disposals",
+          "assessment": "CREDIBLE",
+          "verified_via": "MarketScreener and TipRanks (confirmed Lendo completion and ~NOK 4.5bn aggregate Q1 2026 proceeds)",
+          "note": "Capital return programme expected; buyback programme still to be formalised per prior analysis history."
+        }
+      ],
+      "bull_case": "VEND trades at 258.2 NOK, near the bottom of its 52-week range (223.2–397.2), and at a significant 21% discount to consensus PT of 325.25 NOK. NOK 4.5bn Q1 proceeds create a large buyback/distribution firepower. OpenAI retreat from checkout removes a key AI-disintermediation overhang. Cars Norway recovering. Structural Nordic marketplace moat in FINN.no. Arctic is 8% ahead of consensus on Q1 EBITDA — if confirmed at April 30 results, a re-rating is plausible.",
+      "bear_case": "Stock is YTD -8% and -35% from its 52-week high. Jobs Norway remains negative, dragging overall revenue mix. Buyback programme not yet formalised. Fwd P/E of 26.3x and EV/EBITDA 25.9x are not cheap for a marketplace company with negative earnings surprises. Last quarter EPS miss was -1,069% (NOK -11.89 vs. est. NOK +1.23), primarily disposal-driven but damaging to near-term sentiment. AI disintermediation risk has reduced but not disappeared — ChatGPT retreat is tactical, not structural.",
+      "broker_flags": [
+        "NOT core coverage for Nordic energy/shipping/offshore broker — extra verification warranted",
+        "Arctic is 8% ahead of consensus on Q1 adj. EBITDA — verify channel check methodology",
+        "Buyback programme confirmed by prior analysis but not yet formalised per track record notes",
+        "Consecutive STABLE verdicts in prior analyses suggest lack of new catalysts until April 30 earnings"
+      ],
+      "forum_sentiment": "Sector sentiment cautiously improving following OpenAI checkout retreat; VEND specifically trades near 52-week support with limited near-term catalysts before April 30 earnings.",
+      "insider_read": "No recent insider purchases identified in search results; disposal programme by company itself (Lendo, Adevinta Spain) confirms strategic pivot to pure Nordic classifieds, which is value-accretive.",
+      "short_interest_read": "Short interest data not available in public sources; elevated shorts likely given the -35% drawdown from highs and pending capital return uncertainty.",
+      "catalyst_note": "April 30 Q1 2026 earnings report is the key near-term catalyst; formalisation of buyback programme from NOK 4.5bn proceeds could be a re-rating trigger. OpenAI checkout retreat is a supportive sector backdrop. Volume recovery in Real Estate and Jobs Norway is the medium-term earnings driver.",
+      "vs_consensus": "Arctic is 8% ahead of consensus on Q1 adj. EBITDA (self-declared). Consensus PT of 325.25 NOK across 12 analysts implies ~26% upside to current 258.2 NOK. Consensus is HOLD. Arctic's constructive Q1 view is modestly above consensus but not dramatically so.",
+      "recommended_action": "MONITOR",
+      "one_line_verdict": "Compelling value setup near 52-week lows with NOK 4.5bn capital return firepower and OpenAI tailwind, but await April 30 earnings confirmation of volume recovery and formal buyback announcement before upgrading conviction.",
+      "_price_at_analysis": null
+    },
+    {
+      "ticker": "YAR.OL",
+      "company_name": "Yara International ASA",
+      "country": "NO",
+      "is_core_coverage": false,
+      "investment_thesis": "Yara is the world's largest fertilizer distributor, highly exposed to global urea and nitrogen price dynamics. The broker flags Middle East supply disruption — specifically that ~30–35% of globally traded urea originates from the region — as a near-term price tailwind, supported by current spot prices of $585–665/t. The thesis is a short-term commodity trade rather than a structural investment case.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 58,
+      "key_claims": [
+        {
+          "claim": "~30–35% of all globally traded urea comes from the Middle East, representing 9% of global demand and 15% ex-China",
+          "assessment": "QUESTIONABLE",
+          "verified_via": "AFBF (American Farm Bureau Federation), CRU Group, AgWeb, WEF, farmpolicynews.illinois.edu — multiple independent sources",
+          "note": "Multiple credible sources (AFBF, CRU) cite ~49% of global urea EXPORTS from ME-exposed regions (including Qatar, Saudi, Iran, Oman), and ~25-30% of globally traded nitrogen through Strait of Hormuz. The broker's 30–35% figure for traded urea is conservative — actual ME export exposure may be higher (~49%). The 9% of global demand and 15% ex-China framing is plausible but not directly verified."
+        },
+        {
+          "claim": "ME spot urea FOB at $630–650, Egypt FOB $665, Brazil CFR $600, USG FOB $585–590",
+          "assessment": "CREDIBLE",
+          "verified_via": "ChemAnalyst (US urea +10.35% week of March 2026), Trading Economics ($585/t as of 11 Mar), farmpolicynews.illinois.edu (NOLA barges $520–550), WEF (+17% jump post-war start)",
+          "note": "Quoted prices broadly consistent with verified market data. ME FOB levels of $630–650 align with reported price spike dynamics. USG FOB $585–590 is slightly above the NOLA barge $520–550 range but FOB vs. barge pricing difference is plausible."
+        },
+        {
+          "claim": "Prices expected to continue higher",
+          "assessment": "QUESTIONABLE",
+          "verified_via": "Argus Media analyst Owen Gooch (via Western Producer), CRU Group",
+          "note": "Argus Media's Gooch stated 'most of the price appreciation has already taken place in Q1' and expects prices to peak in late February/early March and then subside. This directly contradicts the broker's bullish continuation call. CRU notes QAFCO's Mesaieed plant shut (5.6Mt/y) is the only confirmed production impact so far — further escalation needed to sustain rally."
+        },
+        {
+          "claim": "Yara itself has 'limited exposure to the region' per company statement, but calls Hormuz a 'critical chokepoint'",
+          "assessment": "CREDIBLE",
+          "verified_via": "farmprogress.com quotes Yara's own statement; Yara CFO Magnus Krogh Ankarstrand confirmed tight 2026 urea market at Q4 2025 webinar",
+          "note": "Yara rallied to a 3-year high per farmprogress.com. Yara benefits from higher urea prices as a seller but faces gas cost inflation at European plants. Net benefit is positive but levered to how long disruption persists."
+        }
+      ],
+      "bull_case": "Urea prices up >25% since end of February with Strait of Hormuz closure. QAFCO's 5.6Mt/y Mesaieed plant shut. China export restrictions remaining in place until at least May 2026. Strong seasonal demand with N. Hemisphere planting season. Yara rallied to 3-year high. If disruption persists, Q2 2026 earnings could show material positive pricing surprise. Yara's NOK-denominated revenues benefit from USD strength (NOK/USD 9.76).",
+      "bear_case": "Argus Media expects price peak already passed in early March — 'most appreciation already in Q1.' Yara has 'limited direct ME exposure', meaning it benefits as a price-taker but not a supply constraint winner. If Hormuz re-opens quickly, prices could reverse rapidly. Gas cost inflation at Yara's European plants could offset price gains. Yara is not Arctic's core coverage — limited proprietary insight. No stock price or financial data provided in the email or financial data feed.",
+      "broker_flags": [
+        "NOT core coverage — Yara is Norwegian but in fertilizer/chemicals, outside Nordic energy/shipping/offshore focus",
+        "No price target or recommendation provided — appears as market intelligence note only",
+        "Broker claim that 'prices to continue higher' contradicts Argus Media analyst consensus of peak-in-Q1",
+        "Yara's own statement ('limited exposure to region') partially undermines the bull case"
+      ],
+      "forum_sentiment": "Yara has attracted significant attention given the Iran conflict fertilizer disruption; press coverage is widespread and sentiment is broadly bullish on the stock given 3-year high achieved, though Argus flags peak pricing risk.",
+      "insider_read": "Historical Yara board member purchases noted (Harald Thorstein 2,000 shares, Jannicke Hilland 1,587 shares in 2024) but no recent 2026 insider activity confirmed in search results.",
+      "short_interest_read": "No short interest data available from searches; stock at 3-year high suggests shorts likely squeezed, reducing asymmetric short-side opportunity.",
+      "catalyst_note": "Key catalysts: duration and severity of Hormuz disruption (primary driver), China export restriction timeline, Northern Hemisphere planting demand, Q1 2026 earnings release (likely April/May). Key risk event: Strait re-opening or ceasefire in Middle East would likely trigger rapid price reversal.",
+      "vs_consensus": "No Arctic price target provided. Yara stock at 3-year high per press reports; consensus view is cautiously positive but Argus Media's 'peak Q1' call is a headwind to further upside from current levels.",
+      "recommended_action": "MONITOR",
+      "one_line_verdict": "Legitimate short-term urea price tailwind from Middle East disruption, but Argus Media's 'peak Q1' call and Yara's limited direct ME exposure cap the upside — monitor for Hormuz status and await Q1 earnings rather than chasing the rally.",
+      "_price_at_analysis": null
+    },
+    {
+      "ticker": "B2I.OL",
+      "company_name": "B2 Impact ASA",
+      "country": "NO",
+      "is_core_coverage": false,
+      "investment_thesis": "B2 Impact (formerly B2Holding) is a pan-European NPL (non-performing loan) investor and collector, currently trading around NOK 25 with a stock price up ~149% over the last year. Roy Tilley at Arctic has initiated with a NOK 27 price target based on 11.5x 2027 earnings, arguing a credible 2026–2028 target period delivering ≥30% EPS growth, ROE >16%, leverage below 2.5x, and total investments >NOK 10bn, implying a ~9.7% annualised dividend yield.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 60,
+      "key_claims": [
+        {
+          "claim": "EPS growth of at least 30% over 2026–2028 target period",
+          "assessment": "UNVERIFIABLE",
+          "verified_via": "B2 Impact Q3 2025 results (adj. EPS NOK 0.57 Q3'25, up from NOK 0.33 Q3'24 = +73% YoY); YTD EPS NOK 1.49 tracking well ahead of full-year target",
+          "note": "Q3 2025 EPS trends (57% beat vs. estimate) and strong YTD trajectory make the 30% EPS growth target credible but not yet confirmed for 2026–2028. Management signalled 2026 financial targets would be shared in Q4 2025."
+        },
+        {
+          "claim": "ROE above 16% target",
+          "assessment": "UNVERIFIABLE",
+          "verified_via": "No independent ROE data for 2026e available; Morningstar shows high uncertainty rating",
+          "note": "Historical payout ratio was above 100% (113% in 2025, 199% in 2024) suggesting prior earnings were not covering dividends — ROE sustainability depends on the new growth trajectory materialising."
+        },
+        {
+          "claim": "Leverage ratio below 2.5x target",
+          "assessment": "CREDIBLE",
+          "verified_via": "B2 Impact Q3 2025 report confirms leverage ratio of 2.04x at end of Q3 2025, already below 2.5x target",
+          "note": "Leverage already within target range; additional bond issuance in Sep 2025 reduced cost of debt with NOK 40m annual savings — supportive of deleveraging trend."
+        },
+        {
+          "claim": "Total investments above NOK 10bn over target period",
+          "assessment": "UNVERIFIABLE",
+          "verified_via": "Q3 2025: NOK 675m invested in Q3, NOK 3bn YTD 2025 — implies ~NOK 4bn annualised run-rate, well short of the NOK 10bn+ target over 3 years without acceleration",
+          "note": "NOK 10bn over 3 years = ~NOK 3.3bn/year, which is achievable based on current run-rate if pipeline remains strong. Management noted 'high activity going into Q4' 2025."
+        },
+        {
+          "claim": "9.7% annualised dividend yield implied by the 2026–2028 targets",
+          "assessment": "QUESTIONABLE",
+          "verified_via": "TradingView shows current trailing dividend yield ~10.42%, Morningstar shows 7.08% trailing, forward ~7.08%; Fintel consensus PT NOK 24.91; Investing.com avg PT NOK 18.65",
+          "note": "At NOK 25 stock price, a 9.7% div yield implies ~NOK 2.43/share annual dividend. Historical payout ratios above 100% raise sustainability concerns. The 9.7% yield figure appears aspirational based on future EPS growth, not current earnings."
+        },
+        {
+          "claim": "Arctic price target of NOK 27 (11.5x 2027 earnings)",
+          "assessment": "UNVERIFIABLE",
+          "verified_via": "Fintel consensus average PT NOK 24.91; Investing.com (limited coverage) avg NOK 18.65 — Arctic's NOK 27 is above the market consensus range",
+          "note": "Arctic PT of NOK 27 is above Fintel consensus (NOK 24.91) but stock is currently trading at ~NOK 25-35 range per various sources (TradingView NOK 25.35, Morningstar NOK 20.20 prior close). PT is modestly above consensus."
+        }
+      ],
+      "bull_case": "Stock up ~149% in the last year demonstrating strong earnings momentum. Q3 2025 EPS beat estimates by 57%. Leverage already below 2.5x target. European NPL market remains large and growing as interest rates stabilise and legacy loan books are sold. 9.7% forward dividend yield would be highly attractive in a declining rate environment. ROY Tilley's initiation brings additional Arctic salesforce attention. NOK 27 PT implies ~5–8% upside from current NOK 25 levels — modest but with dividend pickup.",
+      "bear_case": "Stock has already re-rated +149% over 12 months — much of the good news may be priced in. Arctic PT of NOK 27 offers limited upside (~8%) from current price. Historical payout ratios of 113–199% are unsustainable without EPS growth materialising. Dividend yield of 9.7% is aspirational, not confirmed. B2 Impact is outside Arctic's core coverage (NPL/financials vs. energy/shipping) — broker's sector familiarity is limited. Consensus PT at NOK 24.91 (Fintel) suggests limited room above current price.",
+      "broker_flags": [
+        "NOT core coverage — NPL/consumer credit is outside Nordic energy/shipping/offshore focus",
+        "Roy Tilley coverage initiation — first note, limited track record on this name",
+        "9.7% div yield is aspirational/projected, not current trailing yield",
+        "Stock +149% in 12 months — late-cycle entry risk",
+        "Prior payout ratios >100% raise sustainability questions on dividend targets"
+      ],
+      "forum_sentiment": "Strong momentum in B2I over the past year has generated positive retail sentiment, but the stock near all-time recent highs may face resistance if EPS growth targets are not confirmed at upcoming results.",
+      "insider_read": "No recent 2026 insider purchases identified; management aligned with targets per Q3 2025 CEO statement, but no open-market buying confirmed.",
+      "short_interest_read": "No specific short interest data found; +149% 12-month return suggests short squeeze dynamics may already be exhausted.",
+      "catalyst_note": "Key catalysts: FY2025 results and formal 2026–2028 target announcement (management signalled Q4 2025 delivery of these targets), confirmation of dividend policy, European NPL market volumes, and interest rate trajectory (lower rates = compressed NPL supply but better portfolio valuations).",
+      "vs_consensus": "Arctic NOK 27 PT is modestly above Fintel consensus of NOK 24.91 and significantly above Investing.com's limited-coverage average of NOK 18.65. At NOK 25.35 current price, the upside to Arctic's target is only ~6.5%, making this a yield/total return rather than capital gains story.",
+      "recommended_action": "MONITOR",
+      "one_line_verdict": "Solid NPL momentum story with 9.7% aspirational yield and credible deleveraging, but +149% 12-month re-rating and modest ~6.5% upside to Arctic's NOK 27 PT limits the risk/reward — monitor FY2025 results for formal target confirmation before adding exposure.",
+      "_price_at_analysis": null
+    }
+  ],
+  "thread_narrative": "This Arctic morning note combines four distinct situations: (1) a live IPO opportunity in General Oceans where Arctic is bookrunner — creating an obvious conflict requiring independent scrutiny; (2) a constructive but unverified Q1 volume check on VEND supported by a confirmed OpenAI checkout retreat tailwind; (3) a commodity intelligence note on Yara framed around Middle East urea disruptions, where the price-continuation call is partially contradicted by Argus Media's 'peak Q1' assessment; and (4) an initiation-style flag on B2 Impact with a NOK 27 PT after a +149% 12-month run, offering modest upside but an attractive aspirational yield. The macro backdrop — Brent at $103.86 and NOK/USD at 9.76 — is materially supportive for Norwegian energy-adjacent names and for Yara's NOK-reported earnings given USD-denominated urea prices. The thread is informationally dense but mixes high-quality actionable IPO intelligence (General Oceans) with lower-confidence intra-quarter volume checks (VEND) and a borderline promotional B2 Impact flag. The Middle East conflict context underpins both the Yara urea note and the broader Brent spike, creating a coherent macro thread.",
+  "thesis_evolution": "N/A",
+  "urgency_escalation": true,
+  "overall_email_quality": "HIGH",
+  "overall_email_quality_note": "Well-structured multi-topic morning note covering a live IPO event (General Oceans), a volume check with sector catalyst (VEND/OpenAI), a commodity intelligence note (Yara), and a yield flag (B2 Impact). Key claims are largely verifiable or explicitly flagged as estimates. The main quality concern is the undisclosed conflict of interest on General Oceans (Arctic is bookrunner while publishing a bullish valuation note) and the overly bullish Yara price continuation call that contradicts independent commodity analyst consensus. Analyst attribution is clear throughout. Urgency is appropriately flagged only for the IPO.",
+  "_email_subject": "Arctic morning 9th March: GENERAL OCEANS IPO, VEND, YARA, B2 IMPACT",
+  "_email_date": "Mon, 9 Mar 2026 07:54:45 +0000",
+  "_thread_length": 1,
+  "_analyzed_at": "2026-03-14T05:16:45.493571",
+  "_image_count": 1
+}

@@ -1,0 +1,204 @@
+{
+  "stocks": [
+    {
+      "ticker": "MAERSK.CO",
+      "company_name": "A.P. Møller - Mærsk A/S",
+      "country": "DK",
+      "is_core_coverage": false,
+      "investment_thesis": "The email flags a sympathy rally in Japanese shipping peers (K Line, MOL, NYK all +4.5–5%) on March 2, 2026, driven by the Strait of Hormuz crisis (US/Israel strikes on Iran, effective closure of the strait). The implicit argument is that Maersk, as the world's second-largest container carrier, should benefit from freight-rate surges and emergency surcharges triggered by the disruption. However, Maersk is simultaneously operationally exposed — it had ~10 container ships trapped in the Persian Gulf and has suspended all Hormuz and Bab el-Mandeb transits, introducing serious near-term revenue and cost headwinds.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 52,
+      "key_claims": [
+        {
+          "claim": "Kawasaki Kisen, Mitsui OSK, and Nippon Yusen all rallied +4.5–5% on March 2, 2026",
+          "assessment": "CREDIBLE",
+          "verified_via": "Lloyd's List (March 2, 2026): Chinese shipping stocks hit daily trading limits; Lloyd's List confirms the buying frenzy in Asian shipping stocks was triggered by the Hormuz blockade and aggressive carrier rate hikes on that exact date. Specific +4.5–5% figures for the three Japanese names are plausible but could not be exactly confirmed from available data.",
+          "note": "The directional claim (sharp rally in Japanese shippers on Mar 2) is strongly supported by multiple sources. Lloyd's List confirms Chinese and broader Asian shipping stocks surged dramatically in the first two days of the week of March 2, consistent with the email's assertion. Exact percentage figures unverified."
+        },
+        {
+          "claim": "The rally is Maersk-related / sympathy-driven",
+          "assessment": "CREDIBLE",
+          "verified_via": "CNBC (Mar 2, 2026), Lloyd's List (Mar 2, 2026), gCaptain (Mar 10, 2026): Maersk, MSC, Hapag-Lloyd, and CMA CGM suspended Hormuz operations; Shanghai freight futures hit daily limits; carrier rate hikes drove sentiment.",
+          "note": "The sympathy trade logic is sound — the three Japanese carriers (NYK, MOL, K Line) are the joint owners of Ocean Network Express (ONE), Maersk's main alliance competitor. Rate surge expectations drove the sector broadly."
+        },
+        {
+          "claim": "Macro context: EUR/USD at 1.14 noted",
+          "assessment": "UNVERIFIABLE",
+          "verified_via": "Not confirmed in real-time data retrieved",
+          "note": "EUR/USD reference provided but not verifiable from retrieved search data. Relevant for DKK-denominated Maersk valuation translating to USD earnings."
+        },
+        {
+          "claim": "Maersk stock price data listed as 'None' in email",
+          "assessment": "QUESTIONABLE",
+          "verified_via": "StockInvest.us: MAERSK-A.CO closed at DKK 17,070 on March 3, 2026, up 2.34% that day, having risen 8 of the last 10 days; Morningstar: MAERSK B at DKK 16,340 as of March 10, 2026.",
+          "note": "Maersk stock data was not populated in the financial data feed ('None'), but the stock was actively trading and had been rising strongly — up ~11.57% over the two weeks around the email date. This is a data-feed gap, not evidence of illiquidity."
+        },
+        {
+          "claim": "Maersk has ~10 container ships trapped in the Persian Gulf",
+          "assessment": "CREDIBLE",
+          "verified_via": "gCaptain / Wall Street Journal (March 11, 2026): 'Maersk reportedly has about 10 container ships trapped in the Persian Gulf.'",
+          "note": "Directly verified. This is a material operational risk for Maersk beyond the rate-surge bull narrative."
+        },
+        {
+          "claim": "Hormuz disruption is creating a freight-rate spike benefiting carriers",
+          "assessment": "CREDIBLE",
+          "verified_via": "Lloyd's List (Mar 2, 2026): Shanghai container freight futures hit daily limits two consecutive sessions; MSC, Maersk imposing large Emergency Freight rate and Emergency Bunker Surcharges (EBS from Mar 25, 2026).",
+          "note": "Rate surge verified. However, Maersk's ability to capture upside is constrained by vessel entrapment, booking suspensions, and rerouting costs around Cape of Good Hope."
+        }
+      ],
+      "bull_case": "The Hormuz crisis has created a sharp, sudden tightening of global container capacity. Maersk is imposing Emergency Freight rates and an Emergency Bunker Surcharge globally from March 25. Shanghai container freight futures have hit daily trading limits multiple times. If the conflict de-escalates within weeks (as some analysts like Quantum Strategy's David Roche predict), Maersk emerges with higher contracted rates, emergency surcharge revenues, and a stock that has already re-rated strongly (+46% in one year). The stock trades at a low P/B (~0.62x) and TTM P/E of ~7.6x, offering valuation support. The Gemini Cooperation hub-and-spoke model provides operational leverage. Morningstar fair value is DKK 26,898 vs. current ~DKK 16,340 — implying significant upside if earnings normalise.",
+      "bear_case": "Maersk has ~10 vessels trapped in the Persian Gulf, Hormuz and Bab el-Mandeb transits suspended, and booking halted across the UAE, Qatar, Saudi Arabia, Kuwait, Iraq, Bahrain, and Oman. Emergency rerouting via Cape of Good Hope adds enormous cost. Q4 2025 results already showed Ocean EBIT turned negative at -$153M. FY2026 EBITDA guidance of $4.5–7bn disappointed consensus, with Morgan Stanley flagging 'structural oversupply persisting to end of the decade.' Free cash flow guidance is -$3bn or worse in 2026. Dividend cut 53% YoY. Multiple major banks (Clarksons, Nordea, BofA, Goldman Sachs) downgraded the stock in recent weeks. The crisis simultaneously raises costs (EBS, rerouting, war risk insurance) and suppresses volume on affected corridors. Simply Wall St DDM implies ~228% overvaluation.",
+      "broker_flags": [
+        "Outside broker's stated Nordic energy/shipping/offshore core universe — MAERSK.CO is Danish, not Norwegian/Scandinavian offshore",
+        "Email is observational only (noting Japanese peer moves) — no explicit rating, price target, or investment recommendation on MAERSK.CO",
+        "No MAERSK.CO financial data was populated in the feed ('None'), suggesting possible data pipeline gap",
+        "Broker misspelled own name in email header ('Løkkebakken' vs. stated 'Løkbakken') — minor credibility flag",
+        "No previous Maersk calls in track record — first-time coverage or ad hoc observation"
+      ],
+      "forum_sentiment": "No direct euroinvestor.dk forum or r/Denmark threads on MAERSK.CO found in search results, but broader market commentary reflects strong short-term bullish sentiment on shipping stocks driven by the Hormuz crisis, tempered by concerns about operational disruption and pre-existing oversupply headwinds flagged post-Q4 2025 results.",
+      "insider_read": "Maersk IR page confirms 'Managers' transactions — Notification of managers and closely related parties' transactions' filing dated March 13, 2026, indicating recent insider transaction activity, but direction and size are unconfirmed from available data.",
+      "short_interest_read": "No specific short interest data found in search results; however, multiple major banks (Clarksons, Nordea, BofA, Goldman Sachs) recently downgraded Maersk, which may have attracted incremental short positioning prior to the Hormuz rally.",
+      "catalyst_note": "Primary near-term catalyst is resolution or escalation of the Strait of Hormuz crisis (triggered by US/Israel strikes on Iran from ~Feb 28, 2026). De-escalation → routes reopen → Maersk recaptures Gulf volumes but loses surcharge upside and freight rate premium. Prolonged closure → rerouting costs escalate, trapped vessels become a drag, but Emergency Bunker Surcharge (EBS from Mar 25) and Emergency Freight rates partially offset. Secondary catalysts: next earnings May 7, 2026; AGM ex-dividend March 26 (DKK 480/share); potential OMX Nordic 40 index removal reducing forced buying.",
+      "vs_consensus": "Consensus is divided: Citi targets DKK 15,350; Morningstar fair value DKK 26,898; Wolfe Research DKK 12,100; Morgan Stanley DKK 8,500–8,600. Kepler Cheuvreux recently upgraded, while Clarksons, Nordea, BofA, and Goldman Sachs all downgraded in recent weeks. Current price (~DKK 16,340) is above most published bull targets (ex-Morningstar) and the stock scores 1/6 on Simply Wall St valuation checks — suggesting the Hormuz rally has already priced in significant upside, with the street leaning cautious.",
+      "recommended_action": "RESEARCH_FURTHER",
+      "one_line_verdict": "Maersk is a legitimate sympathy-trade beneficiary of the Hormuz crisis (freight rates surging, EBS imposed), but the stock has already re-rated +46% over 12 months and +11% in two weeks; trapped vessels, suspended bookings, negative Ocean EBIT, and a cluster of recent analyst downgrades make this a high-conviction trade only if the crisis is brief — needs deeper fundamental work before adding exposure.",
+      "_price_at_analysis": null
+    },
+    {
+      "ticker": "9107.T",
+      "company_name": "Kawasaki Kisen Kaisha, Ltd. (K Line)",
+      "country": "INTL",
+      "is_core_coverage": false,
+      "investment_thesis": "K Line rallied sharply around March 2, 2026 as the Strait of Hormuz crisis triggered a global shipping rate surge and freight futures hit daily limits. K Line, as a co-owner of Ocean Network Express (ONE) alongside NYK and MOL, benefits from spot rate increases and emergency surcharges even while its operated vessels are held on standby outside the strait. The near-term narrative is rate/sentiment driven; the structural picture is more cautious given earnings forecast declines and exposure to overcapacity risk.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 48,
+      "key_claims": [
+        {
+          "claim": "K Line +4.5–5% on March 2, 2026",
+          "assessment": "CREDIBLE",
+          "verified_via": "Lloyd's List (Mar 2, 2026) confirms broad Asian shipping stock surge; multiple sources confirm K Line halted Hormuz transits on/around March 1–2, consistent with a reactive sentiment rally.",
+          "note": "Directional move confirmed; exact percentage not independently verified but plausible given market context."
+        },
+        {
+          "claim": "K Line vessels halted from Hormuz transit",
+          "assessment": "CREDIBLE",
+          "verified_via": "Hellenic Shipping News / Investing.com / nippon.com (all March 2–5, 2026): Kawasaki Kisen Kaisha ordered its fleet to remain on standby in safe waters.",
+          "note": "This creates operational risk (revenue disruption) even as the stock rallied on rate-surge sentiment."
+        }
+      ],
+      "bull_case": "ONE joint venture captures emergency freight rate surges across all non-Gulf trade lanes; K Line trades at a low P/E (~8.4x trailing) and P/B below 1.0x (0.92x); Hormuz crisis adds months of route distortion that structurally tightens vessel supply globally; any ceasefire/reopening scenario means trapped vessels re-entering trade lanes, easing congestion over time.",
+      "bear_case": "Simply Wall St flags earnings forecast to decline ~2.4% per year for the next three years; overcapacity, emissions compliance costs, and trade risks compress margins; Japanese energy security is severely exposed (Japan sources ~90% of crude from Middle East, ~70% transits Hormuz) creating macro headwind for Japanese industrial demand; Moody's Ba1 CFR for MOL peer suggests credit constraints in sector; stock already near 52-week high.",
+      "broker_flags": [
+        "Outside broker's Nordic energy/shipping/offshore core universe — Japanese-listed company",
+        "No explicit investment recommendation made — purely observational price-action note",
+        "Broker has no stated track record on Japanese shipping stocks"
+      ],
+      "forum_sentiment": "No euroinvestor.dk or r/Denmark specific sentiment found for K Line; broader market commentary on Asian shipping stocks in early March 2026 is sharply bullish on rate-surge thesis but cautious on duration of disruption.",
+      "insider_read": "No insider transaction data found for K Line in search results.",
+      "short_interest_read": "No specific short interest data found; stock near 52-week high at ~2,607 JPY (Mar 8) vs. 52-week range data unavailable but company near multi-year highs given Hormuz rally.",
+      "catalyst_note": "Key catalysts: Hormuz crisis duration (longer = more rate upside but more operational disruption); Q3 FY2025 results already released; next earnings likely April–May 2026 timeframe; ONE container JV rate announcements; JPY/USD moves (JPY weakness vs USD historically boosts reported earnings for Japanese shippers).",
+      "vs_consensus": "Limited Western analyst coverage visible in search data; SimplyWallSt notes 28 analysts cover K Line (11 submitting estimates), with earnings forecast declining. Stock trading ~20.8% below estimated fair value per SimplyWallSt, but structural headwinds cited.",
+      "recommended_action": "MONITOR",
+      "one_line_verdict": "K Line is a valid short-term Hormuz beneficiary via ONE rate surge exposure and Japanese shipping sentiment, but the structural outlook is challenged by declining earnings forecasts, overcapacity risk, and Japan's severe energy security vulnerability — monitor for de-escalation signals before taking a position.",
+      "_price_at_analysis": null
+    },
+    {
+      "ticker": "9104.T",
+      "company_name": "Mitsui O.S.K. Lines, Ltd. (MOL)",
+      "country": "INTL",
+      "is_core_coverage": false,
+      "investment_thesis": "MOL rallied alongside K Line and NYK on March 2, 2026 on Hormuz crisis freight-rate surge expectations. MOL has a diversified business model across dry bulk, energy (LNG carriers, tankers), car carriers, and container shipping (via ONE JV), making it one of the most diversified beneficiaries of the multi-commodity disruption triggered by the Hormuz closure. MOL's LNG carrier fleet and energy business add additional relevance given Qatar's Force Majeure on gas contracts (March 4, 2026).",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 54,
+      "key_claims": [
+        {
+          "claim": "MOL +4.5–5% on March 2, 2026",
+          "assessment": "CREDIBLE",
+          "verified_via": "Lloyd's List (Mar 2, 2026) confirms broad Asian shipping stock surge on that date; MOL specifically confirmed halting Hormuz transits around March 1–2.",
+          "note": "Directional move well-supported; exact percentage not independently confirmed."
+        },
+        {
+          "claim": "MOL halted Hormuz transits",
+          "assessment": "CREDIBLE",
+          "verified_via": "nippon.com, Hellenic Shipping News, Investing.com (all March 2–5, 2026): MOL ordered fleet to standby in safe waters.",
+          "note": "Confirmed. Dual impact: operational disruption short-term, but rate/sentiment boost for non-Gulf trade."
+        },
+        {
+          "claim": "MOL benefits from energy/LNG disruption",
+          "assessment": "CREDIBLE",
+          "verified_via": "MOL operates LNG carriers; Qatar declared Force Majeure on gas contracts March 4, 2026, with LNG shipping market sentiment highly elevated per multiple sources.",
+          "note": "MOL's Energy Business segment (LNG, tankers) provides additional exposure to the Hormuz disruption beyond container shipping."
+        }
+      ],
+      "bull_case": "MOL's diversification across LNG, dry bulk, car carriers, and containers makes it a broad beneficiary of the multi-commodity Hormuz disruption. Qatar Force Majeure on LNG (March 4) has created significant LNG shipping rate volatility. MOL trades near 52-week high (~6,001 JPY) with a 12-month consensus target of 5,625 JPY — meaning even at a premium, the crisis creates a new earnings paradigm. Technical indicators show 'Strong Buy' across all timeframes. LNG fleet expansion planned (+50% by early 2029) positions MOL for structural LNG demand growth.",
+      "bear_case": "Moody's affirmed MOL at Ba1 (below investment grade) — credit constraints limit flexibility during a prolonged crisis. Consensus average target (5,625 JPY) is -6.26% below current price, suggesting the stock may already have overshot fundamentals. Only 5 of 6 analysts recommend buying, with 1 sell. Car carrier segment faces structural risk from EV disruption and trade policy uncertainty. Prolonged Hormuz closure traps vessels in Gulf, destroying near-term revenue.",
+      "broker_flags": [
+        "Outside broker's core Nordic universe — Japanese-listed",
+        "No investment recommendation made — observational note only",
+        "MOL's Ba1 Moody's rating (non-investment grade) is a risk factor not flagged in email"
+      ],
+      "forum_sentiment": "No euroinvestor.dk or r/Denmark specific threads found for MOL; broader LNG and shipping investor commentary in early March 2026 is cautiously optimistic on the energy shipping angle, with LNG spot rate volatility elevated.",
+      "insider_read": "No insider data found for MOL in search results.",
+      "short_interest_read": "No specific short interest data found; stock near 52-week high (~6,001 vs 52-week range 4,293–6,161 JPY), suggesting limited short-squeeze potential but momentum is clearly bullish.",
+      "catalyst_note": "Key catalysts: Hormuz crisis duration and LNG rerouting premium; Qatar Force Majeure resolution/extension; MOL Q3 FY2025 results released; next earnings April 30, 2026; LNG carrier contract announcements; JPY currency moves.",
+      "vs_consensus": "Consensus average 12-month target of JPY 5,625 implies ~6.3% downside from current ~JPY 6,001, with 5 buys and 1 sell; the crisis has pushed the stock above consensus target, meaning investors are pricing in a sustained disruption premium.",
+      "recommended_action": "MONITOR",
+      "one_line_verdict": "MOL is the most diversified Hormuz beneficiary of the three Japanese shippers (container + LNG + dry bulk + car carriers), but its sub-investment-grade credit rating, stock trading above consensus target, and unclear crisis duration warrant monitoring rather than immediate action.",
+      "_price_at_analysis": null
+    },
+    {
+      "ticker": "9101.T",
+      "company_name": "Nippon Yusen Kabushiki Kaisha (NYK Line)",
+      "country": "INTL",
+      "is_core_coverage": false,
+      "investment_thesis": "NYK, Japan's largest shipping company, rallied on March 2, 2026 alongside sector peers as the Hormuz crisis created a global freight rate surge. NYK is the largest of the three Japanese majors by revenue and diversification, operating across liner shipping, air transportation, logistics, automobiles, dry bulk, and energy. Its co-ownership of ONE (with MOL and K Line) provides direct container freight rate exposure, while its expanding LNG tanker fleet (+50% planned by early 2029) adds energy shipping upside.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 51,
+      "key_claims": [
+        {
+          "claim": "NYK +4.5–5% on March 2, 2026",
+          "assessment": "CREDIBLE",
+          "verified_via": "Lloyd's List (Mar 2, 2026), nippon.com, Hellenic Shipping News: NYK confirmed halting all operated vessels from Hormuz transit; sector-wide rally confirmed on that date.",
+          "note": "Directional move strongly supported; exact percentage not independently confirmed from available data."
+        },
+        {
+          "claim": "NYK halted all operated vessels from Hormuz",
+          "assessment": "CREDIBLE",
+          "verified_via": "Nippon Yusen KK confirmed it halted all operated vessels from traveling through the Strait of Hormuz per multiple sources dated March 1–5, 2026.",
+          "note": "Confirmed. NYK was the first of the three to formally announce the halt."
+        },
+        {
+          "claim": "NYK expanding LNG fleet by ~50% by early 2029",
+          "assessment": "CREDIBLE",
+          "verified_via": "StockAnalysis.com: 'Nippon Yusen KK is planning to increase its fleet of liquefied natural gas tankers by around 50% by early 2029 to meet rising global demand.'",
+          "note": "This is a pre-existing strategic initiative that gains additional relevance given the Hormuz LNG disruption."
+        }
+      ],
+      "bull_case": "NYK had 108.97% earnings growth in FY2024 and revenue up 8.44% to JPY 2.59 trillion. The Hormuz crisis creates a multi-segment windfall: ONE container rate surges, LNG rerouting premiums, and dry bulk tightening. NYK's Air Transportation segment may also benefit from cargo demand diversion away from disrupted sea routes. The LNG fleet expansion plan aligns perfectly with a structurally disrupted energy shipping market. Earnings diversification provides resilience vs. pure-play container peers.",
+      "bear_case": "NYK trades broadly in line with other Japanese shipping peers, suggesting the valuation premium from the crisis may already be priced in. Japan's 90% crude oil dependence on the Middle East creates a macro headwind for Japanese industrial activity, potentially dampening NYK's domestic logistics volumes. The car carrier segment is vulnerable to EV adoption headwinds and potential US tariff disruptions on Japanese auto exports. Air Transportation segment faces Middle East airspace restrictions.",
+      "broker_flags": [
+        "Outside broker's core Nordic universe — Japanese-listed",
+        "No investment recommendation made — observational note only",
+        "No broker track record on NYK"
+      ],
+      "forum_sentiment": "No euroinvestor.dk or r/Denmark specific sentiment found for NYK; broader shipping investor sentiment on Japanese shippers in early March 2026 is bullish, with Hormuz crisis seen as near-term earnings catalyst for all three majors.",
+      "insider_read": "No insider transaction data found for NYK in search results.",
+      "short_interest_read": "No specific short interest data found for NYK; given the strong sector momentum, short interest is likely reduced from pre-crisis levels as the trade is clearly directional-long.",
+      "catalyst_note": "Key catalysts: Hormuz crisis duration; ONE container spot rate announcements for second half of March 2026; Q3 FY2025 results (released February 2025 call suggests next report around May 2026); LNG charter contract developments; Qatar Force Majeure timeline; potential US-Iran ceasefire signals (Trump Mar 10 comments suggesting 'war pretty much complete' sent oil down ~10%).",
+      "vs_consensus": "Limited specific consensus data retrieved for NYK; described as trading 'broadly in line with other Japanese shipping and logistics picks' per StockAnalysis.com; no specific price target data found.",
+      "recommended_action": "MONITOR",
+      "one_line_verdict": "NYK is the largest and most diversified of the three Japanese shippers, with strong FY2024 earnings momentum and an LNG expansion strategy tailor-made for the Hormuz crisis, but as with peers, the rally may already reflect the disruption premium — monitor for Hormuz de-escalation signals and Q2 FY2026 earnings confirmation.",
+      "_price_at_analysis": null
+    }
+  ],
+  "thread_narrative": "The email from Esten Løkbakken (Arctic Securities) is a single, tightly-scoped market observation sent at 07:45 Oslo time on March 2, 2026 — the first full trading day in Asia/Europe following the eruption of the 2026 Strait of Hormuz crisis, triggered by US/Israeli strikes on Iran from approximately February 28, 2026. The three Japanese shipping giants (K Line, MOL, NYK) — all co-owners of container JV Ocean Network Express — rallied 4.5–5% as Shanghai freight futures hit daily trading limits and major carriers including Maersk, MSC, Hapag-Lloyd, and CMA CGM suspended Hormuz operations. The implied suggestion is that Maersk (MAERSK.CO), as the most-visible Western container shipping bellwether, should be on investors' radar given this peer-group price action. Web verification confirms the macro context in full: the Hormuz strait was effectively closed to Western commercial shipping by March 2, with tanker traffic down ~70%+ and eventually near zero; Maersk had ~10 vessels trapped in the Persian Gulf; all four major container carriers suspended Middle East routes; Qatar declared Force Majeure on LNG contracts March 4; and Maersk began implementing Emergency Freight rates and Emergency Bunker Surcharges globally. Critically, the MAERSK.CO financial data feed returned 'None,' but the stock was actively and strongly trading — MAERSK-A.CO closed at DKK 17,070 on March 3 (+2.34% that day, up 11.57% in two weeks), reaching a 52-week high of DKK 17,180. The crisis creates a dual narrative for Maersk: freight rate/surcharge upside vs. operational disruption, vessel entrapment, and pre-existing structural oversupply headwinds flagged in weak Q4 2025 results and cautious FY2026 guidance.",
+  "thesis_evolution": "N/A",
+  "urgency_escalation": false,
+  "overall_email_quality": "MEDIUM",
+  "overall_email_quality_note": "The email is observationally accurate and timely — the Japanese shipping peer moves on March 2, 2026 are well-supported by independent verification, and the implicit Maersk connection is analytically relevant. However, quality is limited by: (1) absence of any explicit investment recommendation, price target, or fundamental analysis on Maersk; (2) no financial data populated for MAERSK.CO despite the stock being active and at a 52-week high; (3) no quantification of the freight rate or earnings impact; (4) the broker name is misspelled in the email header ('Løkkebakken' vs. 'Løkbakken'); and (5) Maersk is outside the broker's stated core Nordic energy/shipping/offshore universe, raising the question of analytical depth. The note functions as a useful market intelligence alert rather than actionable research.",
+  "_email_subject": "MAERSK related: Kawasaki Kisen, Mitsui OSK, Nippon Yusen all +4.5-5%\r\n today",
+  "_email_date": "Mon, 2 Mar 2026 07:45:40 +0000",
+  "_thread_length": 1,
+  "_analyzed_at": "2026-03-14T05:06:14.145021",
+  "_image_count": 1
+}
