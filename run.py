@@ -91,9 +91,6 @@ def run_once(limit: int = 0, max_days: int = 0):
 
     if not new_emails:
         print(f"[{datetime.now().strftime('%H:%M:%S')}] No new emails.")
-        # Still run daily reeval + dashboard refresh
-        script_dir = os.path.dirname(os.path.abspath(__file__))
-        _run_reeval_if_needed(ANTHROPIC_API_KEY, script_dir)
         return
 
     all_threads   = build_threads(all_emails)
@@ -138,34 +135,10 @@ def run_once(limit: int = 0, max_days: int = 0):
 
         time.sleep(ANALYSIS_DELAY_SEC)
 
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-
     if analyses_done > 0:
+        script_dir = os.path.dirname(os.path.abspath(__file__))
         subprocess.run([sys.executable, os.path.join(script_dir, "dashboard.py")], cwd=script_dir)
         print("  Dashboard regenerated → dashboard.html")
-
-    # Re-evaluate tracked tickers (once per day max)
-    _run_reeval_if_needed(ANTHROPIC_API_KEY, script_dir)
-
-
-def _run_reeval_if_needed(api_key: str, script_dir: str = None):
-    """Run reeval only if not already done today."""
-    import json as _json
-    reeval_file = os.path.join(script_dir or ".", "data", "reeval.json")
-    if os.path.exists(reeval_file):
-        try:
-            with open(reeval_file, "r") as f:
-                data = _json.load(f)
-            # Check timestamp of any entry
-            for entry in data.values():
-                ts = entry.get("timestamp", "")
-                if ts[:10] == datetime.now().strftime("%Y-%m-%d"):
-                    print("\n  [RE-EVAL] Already done today — skipping (run --reeval to force)")
-                    return
-                break  # only need to check one
-        except Exception:
-            pass
-    _run_reeval(api_key, script_dir)
 
 
 def _run_reeval(api_key: str, script_dir: str = None):

@@ -39,8 +39,13 @@ jobs:
           echo "OUTPUT_DIR=./analyses" >> .env
           echo "DATA_DIR=./data" >> .env
 
-      - name: Run broker tracker (new emails + daily reeval)
+      - name: Fetch & analyze new emails
         run: python run.py --once --days 14
+        env:
+          PYTHONUNBUFFERED: "1"
+
+      - name: Re-evaluate tracked tickers
+        run: python run.py --reeval
         env:
           PYTHONUNBUFFERED: "1"
 

@@ -125,10 +125,13 @@ Respond with ONLY this JSON (no markdown):
 {{"tickers": [{{"ticker": "string", "evolution": "STRENGTHENING|STABLE|WEAKENING", "note": "max 120 chars explaining reasoning", "alert": false, "action_signal": "STRONG_BUY|BUY|HOLD|TAKE_PROFIT|SELL"}}]}}"""
 
 
+BATCH_SIZE = 30  # tickers per Claude call to avoid output truncation
+
+
 def batch_reeval(active_tickers: dict, api_key: str) -> dict:
     """
-    One Claude Sonnet call to evaluate thesis evolution for all active tickers.
-    No web search — just financial data assessment. Very cheap (~$0.01 total).
+    Evaluate thesis evolution for all active tickers in batches.
+    Splits into groups of BATCH_SIZE to avoid output truncation.
     """
     if not active_tickers:
         return {}
@@ -143,14 +146,13 @@ def batch_reeval(active_tickers: dict, api_key: str) -> dict:
             pass
 
     # Build per-ticker blocks with enricher data
-    blocks = []
+    ticker_blocks = {}  # ticker -> block string
     for ticker, rec in active_tickers.items():
         price_at = rec.get("price_at_rec")
         cur_price = rec.get("current_price")
         ret = rec.get("return_pct")
         momentum = rec.get("momentum", "FLAT")
 
-        # Fetch fresh financial summary (free yfinance call)
         # Resolve ticker suffix for yfinance (e.g., NOD → NOD.OL)
         country = guess_country(ticker, "")
         resolved = resolve_ticker(ticker, country)
@@ -170,7 +172,6 @@ def batch_reeval(active_tickers: dict, api_key: str) -> dict:
         ret_str = f"{ret:+.1f}%" if ret is not None else "N/A"
         at_str = f"{price_at}" if price_at else "N/A"
 
-        # 5-day price change
         ytd = data.get("ytd_return")
         ytd_str = f"{ytd:+.1f}%" if ytd is not None else "N/A"
 
@@ -188,35 +189,52 @@ def batch_reeval(active_tickers: dict, api_key: str) -> dict:
             f"  Target: {target} | P/E: {pe_str} | 52w: {low52}–{high52} | Consensus: {rec_str}\n"
             f"  prev_evolution: {prev_evo} (streak: {streak}x) | prev_signal: {prev_sig}"
         )
-        blocks.append(block)
+        ticker_blocks[ticker] = block
         time.sleep(0.3)  # pace yfinance calls
 
-    prompt = REEVAL_PROMPT.format(ticker_blocks="\n".join(blocks))
+    # Split into batches
+    tickers_list = list(ticker_blocks.keys())
+    batches = [tickers_list[i:i + BATCH_SIZE] for i in range(0, len(tickers_list), BATCH_SIZE)]
+    print(f"  [RE-EVAL] {len(tickers_list)} tickers in {len(batches)} batch(es)")
 
-    try:
-        client = anthropic.Anthropic(api_key=api_key)
-        response = client.messages.create(
-            model="claude-sonnet-4-6",
-            max_tokens=3000,
-            messages=[{"role": "user", "content": prompt}],
-        )
-        raw = response.content[0].text.strip()
-        raw = re.sub(r"^```(?:json)?\s*", "", raw)
-        raw = re.sub(r"\s*```$", "", raw)
+    all_results = {}
+    client = anthropic.Anthropic(api_key=api_key)
 
-        result = json.loads(raw)
-        return {
-            t["ticker"]: {
-                "evolution": t.get("evolution", "STABLE"),
-                "note": t.get("note", ""),
-                "alert": t.get("alert", False),
-                "action_signal": t.get("action_signal", "HOLD"),
-            }
-            for t in result.get("tickers", [])
-        }
-    except Exception as e:
-        print(f"  [RE-EVAL] Claude call failed: {e}")
-        return {}
+    for batch_idx, batch_tickers in enumerate(batches):
+        batch_blocks = [ticker_blocks[t] for t in batch_tickers]
+        prompt = REEVAL_PROMPT.format(ticker_blocks="\n".join(batch_blocks))
+
+        try:
+            response = client.messages.create(
+                model="claude-sonnet-4-6",
+                max_tokens=4000,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            raw = response.content[0].text.strip()
+            raw = re.sub(r"^```(?:json)?\s*", "", raw)
+            raw = re.sub(r"\s*```$", "", raw)
+
+            if response.stop_reason == "max_tokens":
+                print(f"  [RE-EVAL] WARNING: Batch {batch_idx + 1} truncated — some tickers may be missing")
+
+            result = json.loads(raw)
+            for t in result.get("tickers", []):
+                all_results[t["ticker"]] = {
+                    "evolution": t.get("evolution", "STABLE"),
+                    "note": t.get("note", ""),
+                    "alert": t.get("alert", False),
+                    "action_signal": t.get("action_signal", "HOLD"),
+                }
+
+            print(f"  [RE-EVAL] Batch {batch_idx + 1}/{len(batches)} done — {len(result.get('tickers', []))} tickers")
+            if batch_idx < len(batches) - 1:
+                time.sleep(2)  # brief pause between batches
+
+        except Exception as e:
+            print(f"  [RE-EVAL] Batch {batch_idx + 1} failed: {e}")
+            continue
+
+    return all_results
 
 
 # ── STORE RESULTS ─────────────────────────────────────────────────────────────
