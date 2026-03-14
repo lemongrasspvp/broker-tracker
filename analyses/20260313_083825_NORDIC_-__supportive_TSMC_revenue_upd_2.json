@@ -1,0 +1,71 @@
+{
+  "stocks": [
+    {
+      "ticker": "NOD",
+      "company_name": "Nordic Semiconductor ASA",
+      "country": "NO",
+      "is_core_coverage": true,
+      "investment_thesis": "Nordic Semiconductor is a Norwegian fabless IoT/wireless connectivity chipmaker whose chips are manufactured by TSMC. The broker uses TSMC's December 2025 monthly revenue release as a supportive data point, noting the +20% y/y headline is positive but argues the true read-through for NOD requires the full TSMC quarterly breakdown of IoT-segment revenue — which in Q3 2025 grew +20% q/q. The thesis is cautiously constructive: AI and advanced-node tailwinds dominate TSMC's numbers, making isolated IoT inference difficult until Q4 2025 segment detail is published.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 55,
+      "key_claims": [
+        {
+          "claim": "TSMC reported December 2025 revenue of NT$335bn, +20% y/y",
+          "assessment": "CREDIBLE",
+          "verified_via": "TSMC official press release (pr.tsmc.com, Jan 9 2026) and SEC 6-K filing",
+          "note": "Confirmed: TSMC reported NT$335.00bn for December 2025, +20.4% y/y and -2.5% m/m. The broker rounded to +20% which is accurate."
+        },
+        {
+          "claim": "November TSMC revenue was +25% y/y",
+          "assessment": "CREDIBLE",
+          "verified_via": "TSMC November 2025 Revenue Report (pr.tsmc.com, Dec 10 2025)",
+          "note": "Confirmed: November 2025 TSMC revenue was +24.5% y/y (~NT$343.61bn). Broker cited '+25%' which is a minor rounding; within acceptable margin."
+        },
+        {
+          "claim": "TSMC IoT revenue in Q3 2025 increased 20% q/q",
+          "assessment": "CREDIBLE",
+          "verified_via": "TSMC Q3 2025 Management Report and earnings call transcript (TSMC IR, Oct 16 2025)",
+          "note": "Confirmed: TSMC's official Q3 2025 report states IoT revenue 'increased 20%' sequentially to account for 5% of net revenue. Claim is accurate."
+        },
+        {
+          "claim": "AI and cutting-edge process node tailwinds make total TSMC revenue a difficult read-through for NOD's IoT exposure",
+          "assessment": "CREDIBLE",
+          "verified_via": "TSMC Q3/Q4 2025 results; alpha-sense.com Q4 2025 segment breakdown",
+          "note": "Well-founded. HPC/AI dominated 57-58% of TSMC revenue in 2025. IoT remained only ~5% of TSMC revenue. Q4 2025 IoT segment grew only +3% q/q per alpha-sense data, a notable deceleration from Q3's +20%. This partially validates broker caution about the read-through."
+        },
+        {
+          "claim": "NOD uses TSMC as a primary foundry",
+          "assessment": "CREDIBLE",
+          "verified_via": "NOD Q3 2025 earnings call transcript (investing.com, Oct 2025)",
+          "note": "Confirmed directly by NOD CEO Vegard Wollan in Q3 2025 call: 'Excellent collaborations with TSMC and GlobalFoundries as our two main foundries.'"
+        }
+      ],
+      "bull_case": "NOD's full-year 2025 revenue came in at $668mn (+31% y/y), Q4 2025 gross margin reached 54.9%, and Q1 2026 guidance of $175–195mn implies continued 13–26% y/y growth. The nRF54 product ramp, strategic acquisitions (Memfault, Atlazo, Neuton), and Nordic's 32% BLE certification share underpin a credible multi-year growth story targeting >20% annual revenue growth through 2030 and ~25% EBITDA margins. A recovering IoT cycle combined with TSMC capacity security is supportive.",
+      "bear_case": "TSMC's IoT segment decelerated sharply to only +3% q/q in Q4 2025 versus +20% in Q3, suggesting the IoT recovery may be uneven. NOD's EBITDA margins remain thin (adjusted EBITDA margin just 7.5% in Q4 2025) and EBIT was barely positive ($1.6mn). Heavy AI and HPC dominance at TSMC (57–58% of revenue) means IoT-specific capacity is structurally secondary. Historical boom-bust demand cycles, inventory correction risk, and competition in BLE from lower-cost Asian players remain concerns.",
+      "broker_flags": [
+        "Email subject line erroneously says 'TSMC October revenue +20% y/y' — this is actually December 2025 data released January 9, 2026; minor labeling error",
+        "Broker correctly flags that aggregate TSMC monthly revenue is a blunt instrument for NOD given AI/HPC dominance of TSMC's mix",
+        "No explicit price target or rating issued — this is a data/event note, not a formal recommendation",
+        "NOD is within the broker's Nordic tech/semiconductor core coverage; note is appropriate and well-contextualized"
+      ],
+      "forum_sentiment": "Seeking Alpha coverage of NOD (NDCVF) has shifted from cautious/negative (reset of expectations, 20% stock decline cited in late 2024) to more constructive following the 2025 recovery, with the growth story re-emerging but cyclicality risks still flagged.",
+      "insider_read": "No specific insider buying or selling data for NOD surfaced in searches; Oslo Børs insider disclosures would be the primary source and were not available in search results — monitor via Investtech or Euronext Oslo disclosures.",
+      "short_interest_read": "Short interest data specific to NOD (Oslo-listed) was not surfaced in searches; given the stock's historical volatility and boom-bust cycles, short interest warrants monitoring via Oslo Børs.",
+      "catalyst_note": "The key near-term catalyst is TSMC's Q4 2025 full earnings report (released Jan 15, 2026) which will provide the IoT segment revenue breakdown confirming or denying whether the Q3 +20% q/q IoT momentum carried through year-end. NOD's own Q4 2025 results were released Feb 5, 2026, showing $170mn revenue (+13% y/y) and Q1 2026 guidance of $175–195mn. Annual 2025 results are due March 24, 2026.",
+      "vs_consensus": "NOD's Q4 2025 result of $170mn came in at the lower end of the $155–175mn guidance range issued at Q3. Full-year 2025 revenue of $668mn (+31% y/y) is strong, and Q1 2026 guidance of $175–195mn is broadly in line with long-term growth ambitions of >20% annually. The broker's note is neutral-to-supportive, consistent with a recovering IoT cycle narrative.",
+      "recommended_action": "MONITOR",
+      "one_line_verdict": "TSMC December revenue figures are verified and mildly supportive for NOD, but the IoT segment's Q4 deceleration (+3% q/q vs. +20% in Q3) warrants caution; await the full TSMC Q4 segment breakdown and NOD's own annual results before upgrading conviction.",
+      "_price_at_analysis": null
+    }
+  ],
+  "thread_narrative": "This is a single-email event-driven note from Arctic Securities' Esten Løkbakken, timed to coincide with TSMC's December 2025 monthly revenue release on January 9, 2026. The broker's core argument is straightforward: TSMC's +20.4% y/y December revenue is a broadly positive macro signal for the semiconductor supply chain, but it is an imprecise leading indicator for Nordic Semiconductor specifically. Since AI/HPC dominates ~57–58% of TSMC revenue and IoT represents only ~5%, aggregate monthly revenue figures cannot be reliably mapped to NOD's order book or foundry capacity until TSMC publishes its quarterly platform breakdown. The broker's reference to TSMC's Q3 2025 IoT segment (+20% q/q) as a last known data point is accurate and appropriate. All key factual claims in the note have been verified as accurate or within rounding tolerances. The note is measured, appropriately caveated, and consistent with a broker monitoring a core-coverage name through an upstream proxy indicator.",
+  "thesis_evolution": "STABLE",
+  "urgency_escalation": false,
+  "overall_email_quality": "HIGH",
+  "overall_email_quality_note": "The note is factually accurate (all key data points verified via TSMC official filings and earnings transcripts), appropriately caveated about the limitations of using aggregate TSMC monthly revenue as a NOD proxy, and demonstrates clear understanding of TSMC's segment structure. The only minor flaw is a subject-line labeling error ('October revenue' when the data is for December). No unverifiable claims, no hype, no omission of bearish context. Suitable for institutional distribution.",
+  "_email_subject": "* NORDIC - > supportive TSMC revenue upd (+20% Y/Y)",
+  "_email_date": "Fri, 9 Jan 2026 06:55:58 +0000",
+  "_thread_length": 1,
+  "_analyzed_at": "2026-03-13T08:38:25.463528",
+  "_image_count": 1
+}

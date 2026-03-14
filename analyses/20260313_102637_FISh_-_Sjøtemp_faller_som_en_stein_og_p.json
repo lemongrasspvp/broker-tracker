@@ -1,0 +1,132 @@
+{
+  "stocks": [
+    {
+      "ticker": "SALM.OL",
+      "company_name": "SalMar ASA",
+      "country": "NO",
+      "is_core_coverage": true,
+      "investment_thesis": "Falling Bergen sea temperatures in January 2026 are suppressing daily feeding and growth rates, while SalMar has visibly cut its harvest pace sharply over the last few days of the observation window — narrowing the YoY harvest deficit but now tilting toward a near-term supply squeeze. With record biomass entering 2026, a full-year guidance of ~296,000t maintained, and industry-wide supply growth expected at only ~1% for 2026, the stage is set for improving salmon spot prices through H1 2026, which directly benefits SalMar's margin per kg.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 60,
+      "key_claims": [
+        {
+          "claim": "Bergen sea temperature fell sharply from ~9.4°C early January to ~5.5°C by Jan 27, 2026 — well below 2025 levels at the same date",
+          "assessment": "CREDIBLE",
+          "verified_via": "Image in email (seatemperature.info chart); consistent with scientific literature that cold temperatures (<6°C) meaningfully reduce salmon feeding activity and daily growth",
+          "note": "Salmon optimal growth range is 8–14°C; below 6°C feeding and growth slow materially. The 2026 temperature drop is significantly colder than 2025 at the same point in January, making the biological impact credible and meaningful."
+        },
+        {
+          "claim": "Estimated daily Norwegian harvest (7-day MA 2026 vs 2025) gap is narrowing rapidly as of Jan 20–27",
+          "assessment": "CREDIBLE",
+          "verified_via": "Image in email (Norway Daily Harvest Trend chart); 7-day MA shows 2026 at ~3,859 vs 2025 at ~4,539 on Jan 27 — a still-sizable gap, but the 2026 line is rising while 2025 is flat-to-down",
+          "note": "The gap is narrowing but NOT closed as of Jan 27. The broker's claim of rapid convergence is directionally correct but should not be overstated — harvest is still running ~15% below YoY on the 7dMA."
+        },
+        {
+          "claim": "SalMar specifically has sharply reduced its harvest in the last few days of the observation window",
+          "assessment": "CREDIBLE",
+          "verified_via": "AIS harvest tracking image in email showing SalMar's accumulated Q1 2026 harvest pacing significantly below Q1 2025 actual (34,512 estimated vs 72,087 actual at Jan 25); company-level AIS data is a recognised proxy",
+          "note": "SalMar's Q1 2026 harvest running at roughly 48% of Q1 2025 pace at the Jan 25 snapshot — this is dramatic underpace. The cold sea temp explanation is consistent, though deliberate harvest deferral to maximise weight gain is also a plausible driver."
+        },
+        {
+          "claim": "Supply pressure is easing (tilbud avtar)",
+          "assessment": "CREDIBLE",
+          "verified_via": "Pareto Securities at NASF 2026 confirms global salmon supply growth slowing from ~12% in 2025 to ~1% in 2026; SalMar Q4 2025 results confirmed record biomass entering 2026 with 296,000t Norway/Ocean/Iceland guidance maintained",
+          "note": "Broader industry data corroborates the supply tightening thesis. Spot price was ~NOK 71.44/kg on Jan 30 2026 (down 26% YoY) but rising sharply to ~NOK 91/kg by early February, validating the direction of the broker's call."
+        },
+        {
+          "claim": "SalMar enters 2026 with record-high biomass",
+          "assessment": "CREDIBLE",
+          "verified_via": "SalMar Q4 2025 earnings release (Feb 10, 2026): 'record-high biomass, a lower cost level, and the highest share of superior quality fish in ten years'",
+          "note": "Directly confirmed by company management."
+        }
+      ],
+      "bull_case": "Cold sea temps have deferred harvest, compressing near-term supply while biomass builds — with spot prices already rebounding from ~NOK 71 to ~NOK 91/kg by early Feb and SalMar's record biomass/quality profile, Q1 2026 earnings (due May 2026) could significantly beat consensus. Full-year guidance of 296,000t and record biomass quality are powerful earnings levers.",
+      "bear_case": "The harvest reduction may be partly weather-forced rather than strategic, and cold temps hurt daily growth rates, potentially reducing harvest weight and compressing volumes later in Q1. Spot prices were still running ~26% below YoY on Jan 30, and SalMar's trailing P/E of 71.2x is extremely elevated. Continued insider selling by CTO Roger Bekken (4,000 shares at NOK 575.90 on Feb 23 2026, following 1,500 shares in Nov 2025) creates a modest but persistent caution signal.",
+      "broker_flags": [
+        "No explicit price target in this email",
+        "Observation window is very short (Jan 1–27) — early-quarter data with limited signal durability",
+        "CTO Roger Bekken sold 4,000 SalMar shares (Feb 23, 2026) at NOK 575.90 — second material insider sale in 3 months",
+        "AIS-based harvest tracking is an estimate, not official company data",
+        "Cold temps hurt feeding/growth rates (bear for biomass builds) as well as harvesting pace — dual-edged driver",
+        "SalMar's Q1 2026 AIS harvest pace (~34,512t at Jan 25) vs Q1 2025 actual (72,087t) implies very heavy back-loading of Q1 harvest into Feb–Mar"
+      ],
+      "forum_sentiment": "Norwegian retail investors on Shareville/Nordnet are tracking rising spot prices (NOK 85–100/kg range mentioned) and SalMar's harvest deferral positively, though the repeated CTO insider sales are noted as a caution signal.",
+      "insider_read": "CTO Roger Bekken has now sold shares twice in quick succession — 1,500 shares (Nov 2025 at NOK 590) and 4,000 shares (Feb 23, 2026 at NOK 575.90) — a mildly negative signal, though size is modest relative to overall holdings and may reflect personal liquidity needs.",
+      "short_interest_read": "No specific short interest data available; SalMar's YTD underperformance (-5.8%) and proximity to the 52w low (NOK 407) vs range midpoint suggest limited extreme short positioning but no directional confirmation available.",
+      "catalyst_note": "Q1 2026 earnings release (May 20, 2026 per TradingView) will be the key validation point — if harvest volumes recover strongly in Feb–Mar and spot prices hold above NOK 85–90/kg, Q1 EBIT per kg could significantly exceed consensus. Near-term: weekly Akvafakta spot price data (already showing NOK 91/kg in week 6 and NOK 90.40 in week 7) is the most immediate catalyst monitor.",
+      "vs_consensus": "Stock at NOK 583 vs consensus target NOK 600.8 (range 500–680); modest ~3% discount to consensus. The broker's supply-tightening thesis, if validated through Q1, could drive upgrades toward the NOK 620–680 bull range, but current pricing already reflects moderate optimism.",
+      "recommended_action": "MONITOR",
+      "one_line_verdict": "Cold-temp-driven harvest deferral is a credible near-term supply catalyst for SalMar, confirmed by AIS data and rising spot prices, but repeated insider selling, heavy Q1 back-loading risk, and a lofty trailing P/E keep this at MONITOR rather than BUY — await spot price and volume confirmation through February.",
+      "_price_at_analysis": 583.0
+    },
+    {
+      "ticker": "MOWI.OL",
+      "company_name": "Mowi ASA",
+      "country": "NO",
+      "is_core_coverage": true,
+      "investment_thesis": "The email identifies Mowi as maintaining an elevated harvest pace in early Q1 2026 — in contrast to SalMar's sharp deceleration — which makes Mowi a partial contradiction to the supply-tightening thesis being presented. However, Mowi's own guidance for 8.3% volume growth (605,000t in 2026) deliberately runs ahead of the ~1% industry supply growth, positioning it as a market-share gainer rather than a price-driven beneficiary. The stock trades at a forward P/E of 11.6x with BUY consensus and a target of NOK 246, offering reasonable value if the price recovery thesis plays out.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 52,
+      "key_claims": [
+        {
+          "claim": "Mowi is maintaining a high harvest tempo in early January 2026",
+          "assessment": "CREDIBLE",
+          "verified_via": "Mowi AIS harvest chart in email consistent with Mowi Q4 2025 report (Q1 2026 Norway guidance of 71,000t GWT); record Q1 pacing is in line with Mowi's stated 380,000t Norway 2026 guidance (up 15.5% YoY)",
+          "note": "Mowi's aggressive Q1 2026 pace directly dilutes the supply-tightening argument in the email — it is the key internal contradiction. CEO Vindheim acknowledged Q4 2025 Norway was 'troublesome' due to gill/plankton but volume still hit seasonal records."
+        },
+        {
+          "claim": "Mowi enters 2026 with record biomass in sea (up 8.7% YoY)",
+          "assessment": "CREDIBLE",
+          "verified_via": "Mowi Q4 2025 report: 'Biomass in sea seasonally record-high at 372k LWT, up by 8.7% y/y'",
+          "note": "Confirmed by official company disclosure."
+        },
+        {
+          "claim": "Industry supply growth slows to ~1% in 2026 vs 12% in 2025",
+          "assessment": "CREDIBLE",
+          "verified_via": "Pareto Securities at NASF 2026 conference; Mowi management in Q4 2025 report; multiple sell-side sources",
+          "note": "Consensus across major brokers and companies. However, Mowi itself expects 8.3% growth — implying smaller producers must shrink or hold flat. This creates a Mowi-specific volume overhang that runs counter to the supply-tightening story."
+        },
+        {
+          "claim": "Mowi's farming costs fell EUR 197m in 2025 and are expected to fall further in 2026",
+          "assessment": "CREDIBLE",
+          "verified_via": "Mowi Q4 2025 full year results: farming costs fell EUR 197m YoY; new EUR 30m cost improvement programme for 2026 also initiated",
+          "note": "This is a genuine structural improvement that supports earnings even at flat-to-lower spot prices."
+        },
+        {
+          "claim": "Anomalous EV/EBITDA of 109.7x is unresolved",
+          "assessment": "QUESTIONABLE",
+          "verified_via": "Financial data provided; likely reflects TTM EBITDA being severely depressed by 2025 low price environment; forward metrics (Fwd P/E 11.6x) appear more representative of normalised earnings power",
+          "note": "The EV/EBITDA anomaly flagged in previous analyses remains unresolved in this email — trailing EBITDA clearly impacted by 2025 price trough. Fwd P/E 11.6x is the more useful valuation anchor at this point in the cycle."
+        }
+      ],
+      "bull_case": "Mowi is the world's largest salmon producer with record biomass, falling farming costs, BUY consensus at NOK 246 target (+10.7% upside), and significant volume growth momentum. If salmon spot prices recover to Pareto's EUR 7/kg 2026 forecast, Mowi's earnings leverage is substantial — especially with NOK 1.50/quarter dividend providing income support. The March 25, 2026 Q1 2026 results release is a near-term catalyst.",
+      "bear_case": "Mowi's own 8.3% volume growth plan runs directly counter to a supply-tightening thesis — it is the supply. Net debt remains elevated (NIBD EUR 2,654m). Cold sea temps disproportionately impact feeding rates in Western Norway (Region West had gill issues in H2 2025). The EV/EBITDA anomaly (109.7x trailing) reflects genuine earnings fragility in a weak-price environment, and Q4 2025 EBIT missed estimates (actual 3.08 NOK/share vs 3.29 estimate). Mowi also recently announced acquisition of Torghatten Aqua's seawater farming business (293m NOK), adding leverage.",
+      "broker_flags": [
+        "Mowi's aggressive harvest pace directly contradicts the email's supply-tightening narrative — Løkbakken acknowledges this tension but does not resolve it",
+        "Anomalous trailing EV/EBITDA of 109.7x still unaddressed across all emails in this thread",
+        "No explicit price target provided in this email for Mowi",
+        "NIBD of EUR 2,654m creates balance sheet vulnerability if prices disappoint in H1 2026",
+        "New acquisition of Torghatten Aqua (March 10, 2026) adds further volume — reinforcing the supply overhang concern",
+        "Q4 2025 earnings missed estimates (-6.29% surprise per TradingView)"
+      ],
+      "forum_sentiment": "Shareville/Nordnet retail sentiment on Mowi is cautiously optimistic, with users noting improving spot prices (98–100 NOK/kg for 3+ kg fish) and Mowi's Torghatten Aqua acquisition as a growth signal, but sentiment remains tempered by high debt and the recent earnings miss.",
+      "insider_read": "No specific Mowi insider transactions identified in the search results for early 2026; Berenberg upgraded Mowi to BUY with a NOK 260 target, which is a positive external signal.",
+      "short_interest_read": "No specific short interest data found; Mowi's YTD underperformance (-8.3%) suggests some selling pressure but no extreme short positioning confirmed.",
+      "catalyst_note": "Q1 2026 results due March 25, 2026 (per Mowi financial calendar) — this is an imminent and important catalyst. Spot price trajectory through February (already rising to NOK 90–100/kg range per Shareville commentary) will set Q1 realised price tone. The Torghatten Aqua acquisition, if approved, adds medium-term volume but near-term integration overhead.",
+      "vs_consensus": "Mowi at NOK 222.4 vs consensus target NOK 246.2 — a meaningful ~10.7% discount to consensus, with range from NOK 218 to NOK 267 across 9 analysts. BUY consensus is the most constructive signal but trailing metrics remain distorted by the 2025 price trough.",
+      "recommended_action": "WAIT_FOR_DIPS",
+      "one_line_verdict": "Mowi is structurally positioned for a strong 2026 recovery with record biomass and falling costs, but its own aggressive volume growth plan runs counter to the supply-tightening thesis in this email, and near-term Q1 cost seasonality, an unresolved EV/EBITDA anomaly, and high debt justify waiting for Q1 results on March 25 before adding exposure.",
+      "_price_at_analysis": 222.4
+    }
+  ],
+  "thread_narrative": "This email from Løkbakken (dated Jan 29, 2026) adds a new and more granular near-term supply signal to the existing thesis: a dramatic plunge in Bergen sea temperature through January 2026 (from ~9.4°C to ~5.5°C, well below 2025 levels) is suppressing feeding activity and daily growth, which is biologically consistent and well-documented. The AIS-derived data shows the YoY daily harvest gap narrowing rapidly, driven primarily by SalMar sharply cutting its harvest pace — while Mowi continues at a high tempo. This creates a nuanced picture: SalMar appears to be either deferring harvest to maximise fish weight under cold/slow-growth conditions, or simply responding to temperature-driven operational constraints. Either way, the supply-tightening thesis is gaining near-term empirical support — validated post-facto by spot price data showing a sharp recovery from NOK 71/kg on Jan 30 to NOK 91/kg by week 6 of 2026, well above year-earlier levels by week 7.",
+  "thesis_evolution": "STRENGTHENING",
+  "urgency_escalation": true,
+  "overall_email_quality": "MEDIUM",
+  "overall_email_quality_note": "The email is data-rich and timely, using AIS harvest tracking, sea temperature charts, and company-level comparisons — all credible tools in Nordic aquaculture analysis. The core supply-tightening observation is well-supported and has proven directionally correct (spot prices rebounded sharply post-January). However, the note lacks a price target, does not address the Mowi volume-growth contradiction explicitly, omits the ongoing insider selling dynamic at SalMar, and relies on a very short 27-day observation window. The broker also does not distinguish between temperature-forced harvest suppression (bearish for fish weights) and deliberate deferral (bullish for quality and weight at slaughter) — a meaningful analytical gap. Overall quality is solid for a short intraday/weekly trade note but insufficient for a medium-term investment decision without supplementary fundamental analysis.",
+  "_email_subject": "** FISh -> Sjøtemp faller som en stein og press på tilbud avtar",
+  "_email_date": "Thu, 29 Jan 2026 10:03:00 +0000",
+  "_thread_length": 1,
+  "_analyzed_at": "2026-03-13T10:26:37.482896",
+  "_image_count": 3
+}

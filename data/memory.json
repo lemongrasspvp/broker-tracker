@@ -1,0 +1,4319 @@
+{
+  "CSI300": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "IGNORE",
+      "verdict": "Stale Bloomberg news forward from Feb 2024 with no original analysis - the short-term tactical thesis partially played out in late 2024 but is irrelevant to current decisions.",
+      "price_at_analysis": null
+    }
+  ],
+  "HKEX:HSI": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "WEAK",
+      "score": 40,
+      "action": "IGNORE",
+      "verdict": "Outdated news forward on Hong Kong market - thesis has long played out with HSI gaining in 2024-2025.",
+      "price_at_analysis": null
+    }
+  ],
+  "NOD.OL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 65,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Credible strategic thesis on a core Norwegian tech name from a qualified broker, but this is a long-cycle positioning story with limited near-term catalysts - monitor design win traction before building conviction.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 68,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Credible strategic thesis on Nordic's edge AI pivot from a knowledgeable broker, but current valuation prices in execution - wait for design win evidence before building position.",
+      "price_at_analysis": 149.4
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 68,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Credible strategic thesis on Nordic's edge AI pivot from a knowledgeable Norwegian tech broker, but the stock's rich valuation already embeds execution - accumulate on pullbacks to NOK 130-140 support rather than chasing current levels.",
+      "price_at_analysis": 149.4
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price movement data; long-cycle thesis unchanged",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price movement data; long-cycle thesis unchanged",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; long-cycle thesis unchanged, flat momentum",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; long-cycle thesis unchanged, monitor design wins.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; long-cycle thesis unchanged, no new catalysts visible.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data, no catalyst update. Long-cycle story unchanged. Prev STABLE continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No material change; long-cycle story, no new design win catalysts, price near analyst target, momentum flat.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Near 52w high, UP momentum, but P/E 184x and no new catalysts. Thesis unchanged, long-cycle story intact.",
+      "price_at_analysis": 147.2
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Price near 52w high, UP momentum, near target (147 vs 162). No new design win catalysts. Long-cycle story unchanged.",
+      "price_at_analysis": 147.2
+    }
+  ],
+  "BOL.SS": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "MONITOR",
+      "verdict": "Interesting M&A angle but the specific catalyst (Glencore-Rio) has collapsed; Boliden fundamentals solid but stock is trading above analyst consensus targets - wait for better entry.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — M&A catalyst (Glencore-Rio) collapsed; stock above consensus",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — M&A catalyst (Glencore-Rio) collapsed; stock above consensus",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — M&A catalyst collapsed; stock above consensus, thesis eroded",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — M&A catalyst collapsed; stock above consensus targets, no entry signal.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — M&A catalyst collapsed; stock above consensus targets, no new entry case.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — M&A catalyst collapsed, stock above consensus targets. Prev WEAKENING continues — consecutive weak evals.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — M&A catalyst collapsed, no price data available, stock was above targets, thesis core assumption broken.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — M&A catalyst collapsed, no price data, WEAKENING 2x streak continues. No recovery signal.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 3x WEAKENING streak continues. M&A catalyst collapsed, no price data, no target, no consensus. Thesis hollowed out.",
+      "price_at_analysis": null
+    }
+  ],
+  "LUMI.SS": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 50,
+      "action": "MONITOR",
+      "verdict": "Strong copper fundamentals and record results but stock has run hard and email provides zero specific thesis for why LUMI benefits from Glencore-Rio - too thin to act on.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; copper fundamentals intact but thesis thin",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; copper fundamentals intact but thesis thin",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; copper fundamentals intact but thesis thin",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; thin thesis unchanged, copper fundamentals intact.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; thin thesis unchanged, copper fundamentals still supportive.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No new data or price movement. Thin thesis unchanged. Prev STABLE continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No new data or price available; thin thesis unchanged, copper fundamentals solid but no actionable signal.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data, flat momentum, thesis always thin. No change from prior STABLE assessment.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data, FLAT momentum, no target/consensus. Thesis was thin to begin with. No change.",
+      "price_at_analysis": null
+    }
+  ],
+  "NVO / NOVO.B": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "MONITOR",
+      "verdict": "Legitimately significant news on Wegovy pill launch but offset by brutal 2026 guidance; stock is cheap to targets but falling knife risk is real until competitive and pricing headwinds stabilize.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Brutal 2026 guidance offsets Wegovy pill upside; falling knife risk",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Brutal 2026 guidance; falling knife risk; near 52w low",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Near 52w low, brutal guidance offset pill launch; knife risk",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 27.4% YTD; falling knife risk real, competitive headwinds unresolved.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 27.4% YTD; guidance cut, competitive headwinds persist, falling knife risk.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 27.4% YTD, falling knife risk real, guidance brutal, competitive headwinds unresolved. Prev WEAKENING continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 27.4% YTD, near 52w low, guidance cut, competitive headwinds unresolved. Falling knife risk persists.",
+      "price_at_analysis": null
+    }
+  ],
+  "CSI300/HSCEI": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "WEAK",
+      "score": 25,
+      "action": "IGNORE",
+      "verdict": "Stale 2+ year old Bloomberg article with no original analysis - the China tactical bounce thesis played out long ago",
+      "price_at_analysis": null
+    }
+  ],
+  "1880.HK / 601888.SS": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "UNCLEAR",
+      "score": 30,
+      "action": "IGNORE",
+      "verdict": "Passing mention in stale Bloomberg news - would need fresh research before any consideration",
+      "price_at_analysis": null
+    }
+  ],
+  "TCOM": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "UNCLEAR",
+      "score": 25,
+      "action": "IGNORE",
+      "verdict": "Brief mention in old news - no actionable thesis present",
+      "price_at_analysis": null
+    }
+  ],
+  "CVX": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "MONITOR",
+      "verdict": "Valid Venezuela thesis but stock has already re-rated; better to wait for pullback given stretched valuation and multi-year timeline for Venezuelan production ramp.",
+      "price_at_analysis": 191.79
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 50,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Quality major already re-rated past consensus targets - previous MONITOR rating still valid, wait for pullback.",
+      "price_at_analysis": 191.79
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Best Venezuela play among majors but already fully priced - wait for pullback before adding.",
+      "price_at_analysis": 191.79
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Valid long-term Venezuela thesis but stock has fully re-rated past consensus targets on headline momentum - wait for 10-15% pullback before adding.",
+      "price_at_analysis": 191.79
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No change from entry; valuation stretched, Venezuela timeline long",
+      "price_at_analysis": 191.79
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Price flat; at/near target; Venezuela thesis long-dated",
+      "price_at_analysis": 191.79
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Price flat at entry; target below current price is concern",
+      "price_at_analysis": 191.79
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — YTD +27.6% confirms already re-rated; price above target, stretched valuation.",
+      "price_at_analysis": 191.79
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Up 27.6% YTD, above target; Venezuela thesis already priced in, stretched valuation.",
+      "price_at_analysis": 191.79
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Up 27.6% YTD but price now above analyst target $186.67, valuation stretched at P/E 29.7. Prev WEAKENING continues.",
+      "price_at_analysis": 191.79
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Already at TAKE_PROFIT; price above analyst target, YTD +27.6%, Venezuela timeline long, valuation stretched.",
+      "price_at_analysis": 191.79
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Price above analyst target, WEAKENING 2x streak, P/E stretched at 29.7x. Prior TAKE_PROFIT signal still valid.",
+      "price_at_analysis": 196.97
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Price exceeded analyst target (197 vs 187). 3x WEAKENING streak. Stretched valuation, Venezuela timeline long. TAKE_PROFIT still warranted.",
+      "price_at_analysis": 196.97
+    }
+  ],
+  "COP": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "WEAK",
+      "score": 35,
+      "action": "IGNORE",
+      "verdict": "Weak Venezuela play - CEO has explicitly deprioritized new investments there until $12B claims resolved; stick with CVX for this thesis.",
+      "price_at_analysis": 117.03
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "WEAK",
+      "score": 35,
+      "action": "IGNORE",
+      "verdict": "Previous IGNORE rating stands - CEO deprioritized Venezuela; CVX is better play for that thesis.",
+      "price_at_analysis": 117.03
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "WEAK",
+      "score": 30,
+      "action": "IGNORE",
+      "verdict": "Not a Venezuela play - sympathy rally only. CVX is the correct name for this thesis.",
+      "price_at_analysis": 117.03
+    }
+  ],
+  "FRO": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 8,
+      "action": "MONITOR",
+      "verdict": "Strong fundamental case backed by verified data, but 54% YTD rally and proximity to analyst targets suggest waiting for pullback rather than chasing.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 8,
+      "action": "MONITOR",
+      "verdict": "Fundamentally sound thesis now supercharged by historic geopolitical crisis - but 62% YTD rally and wartime premium make timing treacherous; wait for dips or crisis clarity.",
+      "price_at_analysis": 33.5
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 8,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Fundamentally explosive setup validated by Sinokor premiums and Hormuz crisis, but 62% YTD run and wartime premium warrant patience for better entry.",
+      "price_at_analysis": 33.5
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 9,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "FRO is the most direct institutional-quality play on the Hormuz/Iraq supply crisis with a verified, historic tailwind — but the stock has already run 62%+ YTD, is vulnerable to violent de-escalation reversals (as the March 10 tweet-incident proved), and vessels trapped in the war zone limit near-term rate capture; wait for crisis clarity or dips into the low-$30s before adding.",
+      "price_at_analysis": 33.5
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Near analyst targets after big YTD run; wait-for-pullback thesis holds",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Near analyst targets after big rally; monitor for pullback",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Well below 52w high; strong_buy consensus, upside to target",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — YTD +49.5% validates tanker thesis; still below target, strong_buy consensus.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — Up 49.5% YTD; strong fundamentals, still below target but extended, await pullback.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — Up 49.5% YTD, strong fundamentals confirmed, still 34% below analyst target $41.25. Prev STRENGTHENING continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — YTD +49.5%, strong_buy consensus, score 8/10, still 34% below analyst target. Thesis playing out strongly.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Was STRENGTHENING 2x, now momentum flipped DOWN after +49.5% YTD. Momentum fading signals shift to STABLE.",
+      "price_at_analysis": 30.77
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — 49.5% YTD, score 8/10, strong_buy consensus, 34% upside to target. Dip from highs improves entry. Tanker thesis intact.",
+      "price_at_analysis": 30.77
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 9,
+      "action": "MONITOR",
+      "verdict": "Thesis powerfully confirmed post-email — Arctic's bullish EPS call was directionally right and the subsequent geopolitical shock has created an almost unimaginable upside scenario, but the stock is now trading above median analyst targets; await either a pullback toward support (~$31-33 USD / ~260 NOK) or Q1 2026 earnings confirmation before adding exposure.",
+      "price_at_analysis": 291.0
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 8,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Thesis fully validated and then some — extraordinary rate environment confirmed — but after a 155% 12-month rally, near 52-week highs, a DNB Carnegie downgrade, FMR's large exit, and an imminent ex-dividend, the risk/reward now favors waiting for a pullback (current ~$33.50 vs. $42 targets) rather than chasing; the fundamental super-cycle story remains intact.",
+      "price_at_analysis": 290.6
+    }
+  ],
+  "DHT": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 7,
+      "action": "MONITOR",
+      "verdict": "Quality VLCC pure-play with strong income characteristics, but stock has run past analyst targets - better entry point likely on pullback.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 7,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Best-in-class income vehicle with strong execution, but 56% YTD run and premium to targets suggests waiting for pullback - crisis premium likely unsustainable.",
+      "price_at_analysis": 17.87
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 7,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Best income play in tankers with excellent execution, but 56% YTD run and crisis premium suggest waiting for pullback.",
+      "price_at_analysis": 17.87
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Stock ran past analyst targets; better entry needed",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Stock near/past analyst target; income thesis intact",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Trading below analyst target; income thesis intact",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — YTD +47.1% validates VLCC thesis; below analyst target, good momentum.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — Up 47.1% YTD; thesis confirmed, but ran past targets - wait for pullback.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Up 47.1% YTD but momentum fading — prev STRENGTHENING now STABLE. Stock below target $19.44 but run extended.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD +47.1% but below analyst target; stock ran past prior high-water marks; momentum flat. Hold discipline.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — DOWN momentum, +47% YTD, below analyst target at 16.84 vs 19.44. No material thesis change.",
+      "price_at_analysis": 16.84
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 47% YTD run, now below analyst target (16.84 vs 19.44). DOWN momentum. Quality name but no thesis change.",
+      "price_at_analysis": 16.84
+    }
+  ],
+  "INSW": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 6,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Solid diversified play with strong fundamentals, but insider selling at highs warrants caution - do more homework before committing.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 6,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Solid diversified operator but previous insider selling concern and data gaps warrant additional homework before committing.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 6,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Solid diversified operator with strong fundamentals, but previous insider selling and outside Arctic's core coverage warrant additional homework.",
+      "price_at_analysis": 70.42
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Insider selling caution flag remains; no new price data",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Insider selling concern remains; fundamentals solid",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Below 52w high, upside to target; insider selling watch",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — YTD +42% validates diversified tanker play; below target despite insider selling.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — Up 42% YTD; below target but insider selling flag still active, needs diligence.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Up 42% YTD, momentum fading from prev STRENGTHENING. Insider selling flag still live. Below target but caution warranted.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD +42%, strong_buy consensus, 13% below target, insider selling caution persists. No new signal.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — DOWN momentum, +42% YTD, insider selling concern persists. Score 6, no new confirming signals.",
+      "price_at_analysis": 66.74
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 42% YTD, below target, strong_buy consensus, score 6. DOWN momentum and insider selling flag caution. Thesis unchanged.",
+      "price_at_analysis": 66.74
+    }
+  ],
+  "HAL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "UNCLEAR",
+      "score": 30,
+      "action": "MONITOR",
+      "verdict": "Quality oilfield services company riding geopolitical tailwind, but rally already priced in - headline alert offers no edge, wait for pullback.",
+      "price_at_analysis": 35.93
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 50,
+      "action": "MONITOR",
+      "verdict": "Valid Venezuela thesis but rally already priced in - quality OFS name but wait for pullback to enter.",
+      "price_at_analysis": 35.93
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — At entry price; near target, rally already priced in",
+      "price_at_analysis": 35.93
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — At target price; geopolitical tailwind already priced in",
+      "price_at_analysis": 35.93
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat at entry; at target, P/E elevated, limited upside",
+      "price_at_analysis": 35.93
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD +18.3% near target; rally priced in, no new entry signal.",
+      "price_at_analysis": 35.93
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Up 18.3% YTD, near target; rally priced in, no new catalyst.",
+      "price_at_analysis": 35.93
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Up 18.3% YTD, near $36.50 target. No new catalysts. Prev STABLE continues.",
+      "price_at_analysis": 35.93
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Price at entry, near analyst target, YTD +18.3%. No new edge; geopolitical tailwind already priced in.",
+      "price_at_analysis": 35.93
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Price near entry, UP momentum but near analyst target. Score too low (3/10) for action.",
+      "price_at_analysis": 34.84
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Near flat since rec, near target. Score 30/10 limits conviction. Rally priced in per original verdict. No change.",
+      "price_at_analysis": 34.84
+    }
+  ],
+  "SLB": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "UNCLEAR",
+      "score": 35,
+      "action": "MONITOR",
+      "verdict": "Global leader with Venezuela optionality but Q1 warning and premium valuation warrant caution - monitor for clarity on Middle East impact.",
+      "price_at_analysis": 48.17
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 45,
+      "action": "MONITOR",
+      "verdict": "Secondary Venezuela play at premium valuation - HAL offers better risk/reward for this specific thesis.",
+      "price_at_analysis": 48.17
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — At entry; Q1 warning and premium valuation still key risks",
+      "price_at_analysis": 48.17
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Q1 warning overhang; below target; monitoring warranted",
+      "price_at_analysis": 48.17
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat; Q1 warning risk remains, upside to target exists",
+      "price_at_analysis": 48.17
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD +11.5%, below target; Q1 warning risk persists, monitoring warranted.",
+      "price_at_analysis": 48.17
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Up 11.5% YTD; Q1 warning offsets Venezuela optionality, monitor for clarity.",
+      "price_at_analysis": 48.17
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Up 11.5% YTD, Q1 warning still overhang, ~13% below target. Prev STABLE continues.",
+      "price_at_analysis": 48.17
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Price at entry, 15% below target, Q1 warning still live. No new directional shift; monitoring warranted.",
+      "price_at_analysis": 48.17
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 7.5% from entry, DOWN momentum, Q1 warning unresolved. Approaching 10% threshold.",
+      "price_at_analysis": 44.56
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 7.5%, Q1 warning, DOWN momentum. Approaching 10% threshold. WEAKENING continues from prior eval.",
+      "price_at_analysis": 44.56
+    }
+  ],
+  "PBF": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "WEAK",
+      "score": 25,
+      "action": "IGNORE",
+      "verdict": "Dangerous short-squeeze vehicle with heavy insider selling - headline-only alert ignores critical risk factors, avoid.",
+      "price_at_analysis": 41.99
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "WEAK",
+      "score": 25,
+      "action": "IGNORE",
+      "verdict": "Dangerous squeeze vehicle with extreme short interest and insider selling - avoid as fundamental investment.",
+      "price_at_analysis": 41.99
+    }
+  ],
+  "ECO": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 6,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Attractive growth story with modern fleet, but recent dilution and higher leverage make it secondary choice to FRO/DHT for tanker exposure.",
+      "price_at_analysis": 47.45
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 6,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Attractive growth story with modern fleet, but recent dilution and higher leverage make it secondary choice to FRO/DHT for tanker exposure.",
+      "price_at_analysis": 47.45
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No movement; dilution and leverage concerns persist vs FRO/DHT",
+      "price_at_analysis": 47.45
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Below target; dilution/leverage concerns persist",
+      "price_at_analysis": 47.45
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat at entry; below target but secondary tanker pick",
+      "price_at_analysis": 47.45
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — YTD +43.9% validates tanker thesis; below target but dilution risk remains.",
+      "price_at_analysis": 47.45
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — Up 43.9% YTD; below target but dilution/leverage remain secondary to FRO/DHT.",
+      "price_at_analysis": 47.45
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Up 43.9% YTD, momentum fading from prev STRENGTHENING. Dilution/leverage concerns remain. Below $55 target.",
+      "price_at_analysis": 47.45
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD +43.9%, below target, but no consensus and secondary to FRO/DHT. No material thesis change.",
+      "price_at_analysis": 47.45
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Down 5.8% from entry, DOWN momentum. No consensus data. Thesis unchanged as secondary tanker pick.",
+      "price_at_analysis": 44.68
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Down 5.8%, DOWN momentum, no consensus. Secondary tanker pick. Below target but score 6 and no consensus limit signal.",
+      "price_at_analysis": 44.68
+    }
+  ],
+  "BRUT.OL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "UNCLEAR",
+      "score": 4,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Insufficient information to evaluate - needs direct follow-up with Arctic for specific thesis before consideration.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Insufficient data to assess; thesis unverified",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Insufficient data to assess any change",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No data; insufficient info thesis unchanged at low score",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No data available; thesis remains unverifiable.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No data; insufficient info thesis unchanged.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No data available. Insufficient info thesis unchanged. Prev STABLE continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Score 4/10, insufficient info still the binding constraint. Strong_buy consensus but thesis unverifiable.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — DOWN momentum, price well below target (52 vs 59), strong_buy consensus but thesis still unverified.",
+      "price_at_analysis": 52.0
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Score 4/10, DOWN momentum, near midpoint of 52w range. Thesis remains uninvestigated. No change warranted.",
+      "price_at_analysis": 52.0
+    }
+  ],
+  "BRUT": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "UNCLEAR",
+      "score": 2,
+      "action": "IGNORE",
+      "verdict": "Skip - unable to verify ticker or find any public information.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "A high-conviction Trøim-sponsored VLCC platform entering delivery with exceptional macro tailwinds — compelling for risk-tolerant shipping specialists, but illiquid, pre-revenue, serially dilutive, and structurally complex; non-shareholders should accept minimal allocation odds and seek secondary market entry post-uplisting.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "A high-conviction, high-risk Trøim-pedigree VLCC newbuild play in a hot tanker market — compelling long-term supply/demand thesis and strong insider backing, but entirely pre-revenue, serially dilutive, and tightly controlled by insiders with limited free float; suitable only for sophisticated investors with conviction on the multi-year VLCC rate cycle.",
+      "price_at_analysis": null
+    }
+  ],
+  "NAS.OL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Credible structural bull case and real valuation gap vs peers, but the accumulation call is clouded by a material non-public information flag from the CEO dinner, a deteriorating near-term macro backdrop (Iran war, fuel spike, demand disruption) that is more severe than the broker acknowledges, a technically broken chart, and a seasonally loss-making Q1 ahead — wait for either stabilisation in crude/geopolitics or a confirmed technical floor before acting.",
+      "price_at_analysis": 14.525
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — MNPI flag unresolved; structural bull case intact but clouded",
+      "price_at_analysis": 14.525
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — MNPI flag unresolved; structural thesis intact but clouded",
+      "price_at_analysis": 14.525
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat; MNPI flag still clouds accumulation call",
+      "price_at_analysis": 14.525
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 2.5% YTD; macro backdrop worse, chart broken, MNPI flag unresolved.",
+      "price_at_analysis": 14.525
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 2.5% YTD; macro backdrop worsened, chart broken, MNPI flag unresolved.",
+      "price_at_analysis": 14.525
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 2.5% YTD, chart broken, macro headwinds persist. Prev WEAKENING continues — consecutive weak evals.",
+      "price_at_analysis": 14.525
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 17.8% YTD, macro backdrop worsened, chart broken, near-term losses ahead. Thesis not improving.",
+      "price_at_analysis": 14.525
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — WEAKENING 2x streak, YTD -17.8%, DOWN momentum, broken chart persists. No floor confirmed.",
+      "price_at_analysis": 14.47
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 3x WEAKENING streak. DOWN momentum, -17.8% YTD, broken chart, macro headwinds severe. No floor confirmed.",
+      "price_at_analysis": 14.47
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 52,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Genuinely compelling structural bull case (record earnings, cost discipline, valuation discount, tourism tailwinds) but the January 2026 accumulation call is now materially stale — the Iran war fuel shock, -17.8% YTD decline, broken chart, MNPI flag from CEO dinner, and seasonally loss-making Q1 ahead all argue for waiting for either Iran de-escalation/fuel price stabilisation or a confirmed technical floor before acting.",
+      "price_at_analysis": 14.47
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 5,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "The structural bull case (record EBIT, cleaned balance sheet, Widerøe synergies, tourism boom, valuation discount) remains intact, but the January accumulation call is now badly stale — the Iran war has caused a 60%+ jet fuel spike that directly hits NAS's unhedged cost base (~55% exposure for 2026), the chart is technically broken below key support, seasonality is adverse through Q1, and the MNPI flag from the CEO dinner is unresolved; maintain WAIT_FOR_DIPS until fuel normalizes or a confirmed technical floor emerges around the Q1 earnings catalyst.",
+      "price_at_analysis": 14.47
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Credible sector read-across using verified Ryanair Q3 beats, but the NAS.OL-specific case is weakened by post-Q4 selling pressure, thin Q4 profitability, elevated Brent, geopolitical headwinds and a TP at/below consensus — wait for a better entry or Q1 results confirmation before acting.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 35,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "A credible pre-Q4 preview with a reasonable Buy/TP thesis that has been materially impaired by the post-email Iran war fuel shock — Norwegian's ~45% 2026 fuel hedge leaves it dangerously exposed to a 60%+ jet fuel price surge; wait for clarity on fuel/geopolitics or a deeper pullback before initiating.",
+      "price_at_analysis": null
+    }
+  ],
+  "NHY.OL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "MONITOR",
+      "verdict": "Broker call is well-timed, factually accurate and directionally sound — near-term net impact on NHY is ambiguous (volume loss vs. price surge), but with NHY already above consensus target, monitor for Q1 earnings catalyst and Middle East conflict developments before adding exposure.",
+      "price_at_analysis": 96.06
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Near-term impact ambiguous; broker call directionally sound",
+      "price_at_analysis": 96.06
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Ambiguous near-term impact; wider aluminium thesis intact",
+      "price_at_analysis": 96.06
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat; aluminium price/volume dynamic still ambiguous",
+      "price_at_analysis": 96.06
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price move data; ambiguous near-term impact, monitor Q1 earnings.",
+      "price_at_analysis": 96.06
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price movement; thesis ambiguous near-term, above consensus target.",
+      "price_at_analysis": 96.06
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No new price data. Already above consensus target. Prev STABLE continues.",
+      "price_at_analysis": 96.06
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Price at entry, above consensus target, hold-rated consensus. No new catalyst to shift view.",
+      "price_at_analysis": 96.06
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Price above consensus target, hold consensus, UP momentum but no new catalyst. Prior HOLD appropriate.",
+      "price_at_analysis": 96.66
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Near flat, above consensus target (97 vs 88), consensus hold. Q1 earnings the next catalyst. No change.",
+      "price_at_analysis": 96.66
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 5,
+      "action": "MONITOR",
+      "verdict": "NHY's peer read-through is mildly negative but aluminium fundamentals remain constructive; stock is above both broker TP and consensus — hold existing positions and monitor Q1 earnings (Apr 29) before adding exposure.",
+      "price_at_analysis": 95.38
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 5,
+      "action": "MONITOR",
+      "verdict": "Hold existing positions — NHY's aluminium macro is constructive and the company is executing well, but the stock trading 10% above consensus target with broker TP at NOK 76 leaves limited risk-reward for new longs; monitor Q1 earnings (Apr 29) for the next entry signal.",
+      "price_at_analysis": 95.38
+    }
+  ],
+  "YAR.OL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Compelling thesis with verified real-time catalysts and credible commodity logic, but the stock has already run hard (+28.6% YTD, 19% above consensus), so the entry point question is live — monitor for any pullback on Hormuz de-escalation noise while tracking Q1 2026 earnings as the primary fundamental validator.",
+      "price_at_analysis": 528.2
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 82,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "The thesis is compelling and all core claims verified — but the stock has partially pulled back from its peak (now ~NOK 483 vs ~530 at note writing) and the risk-reward improves materially on further geopolitical de-escalation dips; initiate/add on any Hormuz ceasefire noise toward NOK 450-480 ahead of the April 24 Q1 2026 earnings catalyst.",
+      "price_at_analysis": 528.4
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 84,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "The thesis is fully verified and has strengthened materially — Qatar shutdown, Hormuz closure, and record urea prices are all confirmed real-time events — but with YAR +28.6% YTD already trading ~19% above consensus and near 52-week highs, new money should await either (a) a Hormuz de-escalation dip toward NOK 450-480 or (b) Q1 2026 earnings on April 24 as the definitive fundamental validator; the DOJ antitrust probe is a broker omission that adds tail risk.",
+      "price_at_analysis": 528.2
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Already run hard +28.6% YTD; catalysts verified but entry risky",
+      "price_at_analysis": 528.2
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Already run hard; commodity logic intact but priced in",
+      "price_at_analysis": 528.2
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat; stock already run hard, 19% above consensus",
+      "price_at_analysis": 528.2
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No new price data; already run hard, Hormuz thesis intact but entry risky.",
+      "price_at_analysis": 528.2
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No new price data; already run hard, monitor for Hormuz de-escalation pullback.",
+      "price_at_analysis": 528.2
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No new price data. Stock 19% above consensus. Q1 earnings remain key validator. Prev STABLE continues.",
+      "price_at_analysis": 528.2
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD +36%, 19% above consensus target, price at entry. Stretched but thesis intact; await Q1 validation.",
+      "price_at_analysis": 528.2
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Price hit 52w high, now 26% above consensus target of 443. Thesis played out, momentum at risk.",
+      "price_at_analysis": 558.8
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Price hit 52w high (559), 19% above consensus target, TAKE_PROFIT signal maintained. UP momentum but thesis fully priced.",
+      "price_at_analysis": 558.8
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 3,
+      "action": "MONITOR",
+      "verdict": "The original negative thesis (EU duty removal → lower European prices → Yara hurt) was correct in isolation but has been completely overwhelmed by the Middle East war supply shock; at 558.8 NOK (26% above consensus, 52w high), the war premium is fully priced — MONITOR for Hormuz de-escalation as a TAKE-PROFIT trigger ahead of Q1 2026 earnings on Apr 24.",
+      "price_at_analysis": 558.8
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 3,
+      "action": "MONITOR",
+      "verdict": "Arctic's original negative CBAM/duty thesis was directionally correct but has been completely overwhelmed by the Middle East war supply shock; at 558.8 NOK (52-week high, 26% above consensus, war premium fully priced), MONITOR for Hormuz de-escalation as a TAKE-PROFIT trigger and DOJ antitrust escalation as a binary downside risk, ahead of the Q1 2026 earnings reality-check on April 24.",
+      "price_at_analysis": 558.8
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 3,
+      "action": "MONITOR",
+      "verdict": "CMD confirmed no catalysts (Arctic correct), but the stock has been turbo-charged by exogenous war-premium and DOJ headline noise to 558.8 NOK — 26% above consensus and 30% above Arctic's TP — making this a MONITOR/TAKE-PROFIT situation ahead of Q1 earnings on April 24, with Hormuz de-escalation and DOJ escalation as the two binary swing factors.",
+      "price_at_analysis": 558.8
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 3,
+      "action": "MONITOR",
+      "verdict": "CMD confirmed operational momentum but zero new catalysts — at NOK 559 (26% above consensus, 43% above broker TP, 52w high), war premium is fully priced and the live DOJ antitrust probe adds binary downside risk; MONITOR for Hormuz de-escalation or DOJ escalation as TAKE-PROFIT triggers ahead of Q1 2026 earnings on April 24.",
+      "price_at_analysis": 558.8
+    }
+  ],
+  "MSFT": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Structurally compelling valuation reset story with verified fundamentals, but broker overstates cheapness (20x uses FY2027E), mischaracterizes Copilot rollout scale (15M seats, not 400M), and underweights the capex/FCF compression risk that is the actual cause of the selloff — do your own FCF work before acting on the 'MSFT here' call.",
+      "price_at_analysis": 404.88
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Directionally correct bull thesis on a genuine valuation reset story, but broker's three most specific factual claims (net cash, Copilot seats, FCF trajectory) are all materially wrong — do your own FCF and capex work before acting, and treat the 'strong conviction' language with caution given this is well outside Løkbakken's Nordic energy/shipping core coverage universe.",
+      "price_at_analysis": 404.88
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 63,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Directionally correct mean-reversion call on a genuine valuation reset with verified Azure/RPO strength, but the broker's three most specific financial claims (net cash, Copilot seats, FCF trajectory) are all materially wrong for the third consecutive analysis — do your own FCF, capex, and balance sheet work before sizing a position, and treat the conviction escalation with caution given this is far outside Løkbakken's Nordic core coverage.",
+      "price_at_analysis": 404.88
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price change; structural reset thesis intact, valuation fair",
+      "price_at_analysis": 404.88
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Valuation reset thesis intact; Copilot narrative evolving",
+      "price_at_analysis": 404.88
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat; valuation reset thesis intact, strong_buy consensus",
+      "price_at_analysis": 404.88
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 14.8% YTD; capex/FCF compression risk materializing, thesis under pressure.",
+      "price_at_analysis": 404.88
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 14.8% YTD; capex/FCF risk materializing, broker thesis overstated cheapness.",
+      "price_at_analysis": 404.88
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 14.8% YTD, capex/FCF compression thesis unresolved. Prev WEAKENING continues — consecutive weak evals.",
+      "price_at_analysis": 404.88
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 14.8% YTD, capex/FCF risk unresolved, broker inaccuracies flagged. Thesis weakening persists.",
+      "price_at_analysis": 404.88
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — WEAKENING 2x streak, YTD -14.8%, capex/FCF risks unresolved. No new positive catalyst.",
+      "price_at_analysis": 401.86
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 3x WEAKENING streak. -14.8% YTD, FLAT momentum. FCF/capex compression ongoing. Below target but conviction low.",
+      "price_at_analysis": 401.86
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 52,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "MSFT Q2 fundamentals were verified as broadly accurate by the broker, but the stock's -14.8% YTD de-rating reflects a genuine capex/FCF compression story the broker consistently underweights — wait for April Q3 earnings to confirm Azure re-acceleration and capex sequentially declining before acting on the reseller read-across narrative.",
+      "price_at_analysis": 401.86
+    }
+  ],
+  "SPX": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "WEAK",
+      "score": 28,
+      "action": "MONITOR",
+      "verdict": "Confirmed macro news relay on a genuine but low-credibility Iran peace signal — correctly flagged the March 4 risk-on bounce, but subsequent events (oil >$100, Strait closure, hardline successor) have overwhelmingly negated the thesis; monitor for a real ceasefire catalyst before acting on SPX long.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Iran peace signal faded; subsequent events undermined thesis",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Iran peace signal faded; subsequent macro deterioration",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Iran peace signal faded; subsequent events undermined thesis",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Iran peace thesis negated by oil >$100 and Strait closure events.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Iran peace thesis negated; oil >$100, Strait closure, hardline successor confirmed.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Iran peace thesis negated by oil >$100, Strait closure, hardline successor. Prev WEAKENING continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Iran peace thesis fully negated by subsequent events; macro backdrop deteriorated. No actionable long signal.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — WEAKENING 2x streak, geopolitical negation of thesis confirmed. No price data to act on.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 3x WEAKENING streak. No price data. Original Iran peace thesis negated by escalation. No actionable signal.",
+      "price_at_analysis": null
+    }
+  ],
+  "META": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "The directional bull case on META is credible and institutionally validated by Ackman, but this specific research note contains material factual errors on EV/EBITDA and ad pricing, comes from a broker with no relevant coverage expertise, and omits serious margin/capex risks — seek a dedicated US tech analyst's view before acting.",
+      "price_at_analysis": 654.86
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Bull case credible; note has factual errors but direction intact",
+      "price_at_analysis": 654.86
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Bull case credible; factual errors in note remain a caveat",
+      "price_at_analysis": 654.86
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat; bull case credible but note had material errors",
+      "price_at_analysis": 654.86
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Down 1.9% YTD; bull case intact but note errors unresolved, no new signal.",
+      "price_at_analysis": 654.86
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Down 1.9% YTD; bull case credible but note had material errors, no clear trigger.",
+      "price_at_analysis": 654.86
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Down 1.9% YTD, no material change. Broker errors remain. Prev STABLE continues.",
+      "price_at_analysis": 654.86
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD -1.9%, strong_buy consensus, 32% below target. Bull case credible but broker errors limit conviction.",
+      "price_at_analysis": 654.86
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Down 2.5%, flat momentum. Thesis directionally intact but note quality issues remain. No change.",
+      "price_at_analysis": 638.18
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Down 2.5%, FLAT momentum, strong_buy consensus, large upside to target. Score 62. No material thesis change.",
+      "price_at_analysis": 638.18
+    }
+  ],
+  "AVGO": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 84,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Fundamentally exceptional beat-and-raise quarter with credible AI acceleration, but the broker's note contains several material inaccuracies (P/E labeling, stale news presented as new, understated stock reaction, omitted insider selling and Anthropic geopolitical risk) — the stock is compelling on fundamentals but current price of ~$342 (already +5-8% post-earnings) limits near-term entry urgency; accumulate on pullbacks toward $300-315 support.",
+      "price_at_analysis": 341.57
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — AI acceleration intact; broker inaccuracies noted but thesis holds",
+      "price_at_analysis": 341.57
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — AI acceleration intact; awaiting better entry on dips",
+      "price_at_analysis": 341.57
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat at entry; AI acceleration intact, strong_buy consensus",
+      "price_at_analysis": 341.57
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Down 3.4% YTD; approaching $300-315 accumulation zone flagged in thesis.",
+      "price_at_analysis": 341.57
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — Down 3.4% YTD; moving toward $300-315 accumulation zone flagged in thesis.",
+      "price_at_analysis": 341.57
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — Down only 3.4% YTD despite market, AI fundamentals strong, 37% below $467 target. Prev STRENGTHENING continues.",
+      "price_at_analysis": 341.57
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — Strong_buy consensus, 37% below target, AI acceleration verified, score 84. Entry zone ~$300-315 flagged.",
+      "price_at_analysis": 341.57
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — STRENGTHENING 2x streak continues, price dipped to ~336 approaching 300-315 entry zone flagged in verdict.",
+      "price_at_analysis": 335.97
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — 3x STRENGTHENING streak. Slight dip toward entry zone (336 vs 300-315 target). Strong fundamentals, score 84, strong_buy.",
+      "price_at_analysis": 335.97
+    }
+  ],
+  "B2I.OL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Credible, well-documented investment case with verified Q4 results and official targets, but B2I sits outside this broker's core coverage universe, the stock has already had a massive run (+149% 1-year), RCF 2028 maturity risk is understated, PORTIA AS is selling, and the thin consensus/high valuation relative to the 52-week high warrants independent due diligence before acting on this note.",
+      "price_at_analysis": 25.25
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Verified Q4 results; outside core coverage limits conviction",
+      "price_at_analysis": 25.25
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Verified Q4 results; outside core coverage remains risk",
+      "price_at_analysis": 25.25
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat; verified Q4 results support thesis, outside coverage",
+      "price_at_analysis": 25.25
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; high valuation and PORTIA selling risk unchanged.",
+      "price_at_analysis": 25.25
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No new price data; PORTIA selling, RCF risk, high valuation warrant caution.",
+      "price_at_analysis": 25.25
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No new price data. Seller overhang and valuation concerns unchanged. Prev STABLE continues.",
+      "price_at_analysis": 25.25
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Near 52w high, massive prior run, seller active, no consensus. Thesis intact but risk/reward balanced.",
+      "price_at_analysis": 25.25
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Price flat near 52w high, no consensus, PORTIA selling ongoing. No material thesis change.",
+      "price_at_analysis": 25.2
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Near 52w high, FLAT, near target (25.2 vs 26.15). RCF risk and PORTIA selling unchanged. No new signal.",
+      "price_at_analysis": 25.2
+    }
+  ],
+  "ADNOCLS.AD": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Highly credible market colour on an extreme VLCC rate environment — the $500k/day ADNOC/Sinokor rumour is contextually plausible but unverified; the actionable trade is in listed VLCC owners (Frontline, DHT, Okeanis, INSW) with spot exposure, not ADNOC itself.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Unverified rate rumour; VLCC market context plausible",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — VLCC rate environment context unchanged; unverified rumour",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; VLCC thesis unverified but plausible",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; VLCC rate environment supports listed owners thesis.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No data; actionable trade remains in listed VLCC names, not ADNOC itself.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No new data. VLCC rate thesis still redirects to listed owners. Prev STABLE continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; actionable exposure remains via listed VLCC owners. No direct signal on ADNOC itself.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data, flat momentum. Actionable thesis always in listed names not ADNOC itself.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. VLCC rate environment remains supportive. Actionable plays are listed owners. No change.",
+      "price_at_analysis": null
+    }
+  ],
+  "BKNG": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "The AI-relief thesis is well-supported and timely, but the initial pop is already in — dig into Q1 earnings guidance, margin trajectory, and the durability of the agentic-AI-as-funnel narrative before sizing a position.",
+      "price_at_analysis": 4322.42
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "The AI-relief thesis is confirmed and the initial pop is already in — monitor Q1 earnings (Apr 28) for guidance stabilisation and margin trajectory clarity before adding meaningfully; the structural bull case is intact but near-term margin headwinds from the $700m AI reinvestment are the key swing factor.",
+      "price_at_analysis": 4322.42
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — AI-relief thesis intact; initial pop in, monitor Q1 guidance",
+      "price_at_analysis": 4322.42
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — AI-relief thesis intact; initial pop done, await Q1 data",
+      "price_at_analysis": 4322.42
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat; AI-relief pop priced in, upside to target remains",
+      "price_at_analysis": 4322.42
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 20.6% YTD; initial pop gone, Q1 guidance risk now front and center.",
+      "price_at_analysis": 4322.42
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 20.6% YTD; AI thesis intact but initial pop gone, Q1 guidance risk live.",
+      "price_at_analysis": 4322.42
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 20.6% YTD, AI thesis unproven commercially, prev WEAKENING continues — consecutive weak evals.",
+      "price_at_analysis": 4322.42
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 20.6% YTD, near 52w low, initial pop already faded, Q1 guidance risk. Thesis drifting weaker.",
+      "price_at_analysis": 4322.42
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — WEAKENING 2x streak, down 2.4% with DOWN momentum, YTD -20.6%. No recovery catalyst visible.",
+      "price_at_analysis": 4217.71
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 3x WEAKENING streak. -20.6% YTD, DOWN momentum. AI thesis not yet monetised. Below target but trend deteriorating.",
+      "price_at_analysis": 4217.71
+    }
+  ],
+  "VEND": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 74,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Verified capital return story with NOK 4.5bn in confirmed Q1 2026 proceeds, dominant Nordic moat, and compelling discount to peers — but formalise new buyback programme confirmation and stress-test volume recovery assumptions before sizing.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — NOK 4.5bn buyback confirmed; discount to peers persists",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — NOK 4.5bn buyback confirmed; catalyst thesis unchanged",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; NOK 4.5bn buyback confirmed, thesis intact",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; NOK 4.5bn buyback catalyst unchanged.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; buyback catalyst confirmed, diligence still needed on volume.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. Buyback catalyst confirmed but unactioned. Prev STABLE continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; buyback confirmed, thesis intact. Await buyback programme formalisation before sizing.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data, flat momentum. Buyback confirmed but no additional verification of thesis progress.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data, FLAT. Buyback confirmed but no new catalysts. Thesis unchanged from prior eval.",
+      "price_at_analysis": null
+    }
+  ],
+  "VEND.OL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Confirmed capital return catalyst (NOK 4.5bn buyback) + independently verified OpenAI tailwind make this a credible re-rating story at a depressed valuation – but the PE takeout speculation and prior track record of missed calls warrant further fundamental diligence before sizing up.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Confirmed NOK 4.5bn capital return engine and verified OpenAI tailwind make the core thesis credible at a depressed valuation, but the unsubstantiated PE takeout claim, broker's outside-universe coverage, and prior missed-call track record demand fundamental diligence before sizing up.",
+      "price_at_analysis": 260.2
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Buyback + OpenAI tailwind verified; re-rating thesis intact",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Buyback + OpenAI tailwind verified; re-rating thesis intact",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; buyback + OpenAI tailwind thesis confirmed",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; buyback + OpenAI thesis intact, diligence still needed.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; buyback + OpenAI thesis intact, PE speculation unverified.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. Buyback + OpenAI thesis intact but unverified execution. Prev STABLE continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Down 5.9% YTD, below 52w range midpoint, buyback catalyst confirmed, hold consensus limits upside.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — UP momentum, price at 264 vs 325 target, but hold consensus and prior track record of missed calls.",
+      "price_at_analysis": 264.0
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — UP momentum, UP from lows but -5.9% YTD, below target (264 vs 325). Consensus hold limits action signal.",
+      "price_at_analysis": 264.0
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 3,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Legitimate regulatory alert with credible EBITDA data point, but outside broker's coverage universe and lacking a formal recommendation — the NCA investigation is a real overhang on an otherwise improving Nettbil story embedded within VEND; needs specialist marketplaces coverage before acting.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 30,
+      "action": "MONITOR",
+      "verdict": "Compelling Nettbil profitability data (NOK 51m EBITDA, 19% margin) is overwhelmed by a court-authorized NCA dawn raid investigating illegal cooperation — this is a binary regulatory risk event requiring close monitoring but not actionable investment until investigation scope and potential penalties are clearer.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 3,
+      "action": "MONITOR",
+      "verdict": "Vor Capital's exit below 5% removes a key marketplace-specialist shareholder and is a mild negative signal, but the NOK 4.5bn capital return catalyst and 19% discount to consensus target keep VEND on the monitor list — NCA investigation outcome at Nettbil remains the binary gating factor before upgrading to actionable.",
+      "price_at_analysis": 262.0
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 3,
+      "action": "MONITOR",
+      "verdict": "Vor Capital's exit is a mild incremental negative on top of the existing NCA investigation overhang, but the verified NOK 4.5bn capital return (already in active execution) and ~19% discount to consensus keep VEND on active MONITOR — outside broker's competency universe and NCA binary risk preclude upgrading to actionable.",
+      "price_at_analysis": 261.6
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 5,
+      "action": "MONITOR",
+      "verdict": "Core capital return catalyst (NOK 4.5bn, all committed to shareholders) is fully verified and compelling at ~19% discount to consensus, but the fabricated PE/Dorsey narrative in the email is a serious credibility flag, the NCA/Nettbil binary risk remains unresolved, and the broker operates outside its core competency — maintain active MONITOR pending new buyback programme announcement and NCA outcome.",
+      "price_at_analysis": 258.2
+    }
+  ],
+  "SHOP": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 52,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "The OpenAI checkout pivot is a real and verified positive for Shopify's moat, but at Fwd P/E 56x with near-zero actual ChatGPT monetisation today and a stock already down 25% YTD, this is a 'right thesis, wrong price' situation – wait for either a deeper pullback or evidence of real AI-channel GMV before initiating.",
+      "price_at_analysis": 129.52
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — OpenAI checkout real but monetisation minimal; premium valuation risk",
+      "price_at_analysis": 129.52
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — OpenAI checkout real but monetisation distant; high P/E",
+      "price_at_analysis": 129.52
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat; OpenAI pivot real but 56x fwd P/E limits upside",
+      "price_at_analysis": 129.52
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — Down 19.7% YTD; dip condition from thesis now met, approaching entry zone.",
+      "price_at_analysis": 129.52
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 19.7% YTD; approaching dip zone but Fwd P/E still 56x, no GMV evidence.",
+      "price_at_analysis": 129.52
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 19.7% YTD, valuation still stretched at P/E 132.8x, AI monetisation unproven. Prev WEAKENING continues.",
+      "price_at_analysis": 129.52
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 19.7% YTD, AI monetisation not yet material, valuation still stretched at 56x Fwd P/E. No floor.",
+      "price_at_analysis": 129.52
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — WEAKENING 2x streak, DOWN momentum, YTD -19.7%. Valuation still stretched at Fwd P/E 56x.",
+      "price_at_analysis": 126.17
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 3x WEAKENING streak. -19.7% YTD, DOWN momentum. Fwd P/E 56x with no AI GMV yet. No floor confirmed.",
+      "price_at_analysis": 126.17
+    }
+  ],
+  "LHA.DE": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Operationally improving but serially strike-prone European flag carrier trading at deep value; the FY2026 earnings upgrade thesis is credible and well-supported, but near-term visibility is severely impaired by an active pilot strike, active Middle East flight suspensions, and missed DAX inclusion — wait for labor clarity and post-Q1 results before establishing a position.",
+      "price_at_analysis": 7.888
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — FY2026 upgrade thesis credible; deep value intact at 7x P/E",
+      "price_at_analysis": 7.888
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Below target; earnings upgrade thesis intact; strike risk",
+      "price_at_analysis": 7.888
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat; FY2026 upgrade thesis intact, deep value P/E 7x",
+      "price_at_analysis": 7.888
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 9.3% YTD; pilot strike and ME suspensions worsening near-term outlook.",
+      "price_at_analysis": 7.888
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 9.3% YTD; pilot strike active, Middle East suspensions, DAX miss ongoing.",
+      "price_at_analysis": 7.888
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 9.3% YTD, pilot strike and ME suspensions ongoing. Prev WEAKENING continues — consecutive weak evals.",
+      "price_at_analysis": 7.888
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Down 9.3% YTD, pilot strike active, Middle East suspensions ongoing. Key assumptions still broken.",
+      "price_at_analysis": 7.888
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — WEAKENING 2x streak, DOWN momentum, YTD -9.3%. Strike and ME suspensions unresolved.",
+      "price_at_analysis": 7.78
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 3x WEAKENING streak. -9.3% YTD, DOWN momentum. Active strike, ME suspensions, missed DAX. No clarity yet.",
+      "price_at_analysis": 7.78
+    }
+  ],
+  "DELIA.OL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Dellia is a genuine high-growth consumer story with a verified Nordic track record and real vertical integration catalyst, but the broker significantly overstates near-term margin achievement, ignores the debt post-Kiriom, frames a stock that already 3x'd from IPO as if the asymmetry is pristine, and applies full-capacity fantasy numbers as a base case — do your own work before acting.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Growth story verified; broker overstates some metrics",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Growth story intact; broker valuation inflation remains risk",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; growth story intact, broker overstated case",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; growth story intact but broker concerns unchanged.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; growth story intact but broker margin assumptions remain inflated.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. Broker overstatement concerns unchanged. Prev STABLE continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD +32.7%, near 52w high, broker margin assumptions aggressive. Thesis intact but entry discipline needed.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — DOWN momentum but still +32.7% YTD. Thesis intact but broker quality issues persist.",
+      "price_at_analysis": 420.0
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — +32.7% YTD, DOWN momentum, below target. Overoptimistic broker assumptions unchanged. No new catalyst.",
+      "price_at_analysis": 420.0
+    }
+  ],
+  "HEMNET.OL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "WEAK",
+      "score": 31,
+      "action": "MONITOR",
+      "verdict": "Short-cover bounce is technically confirmed, but Hemnet is outside broker's core coverage, carries a consensus Sell rating, faces structural listing volume headwinds, and the OpenAI tailwind argument does not meaningfully apply — monitor for a genuine Swedish housing recovery signal before acting.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Consensus sell, structural listing volume headwinds remain",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Consensus Sell; structural listing volume headwinds persist",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Consensus sell, structural headwinds; short bounce faded",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; consensus Sell and structural headwinds unchanged.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; consensus Sell unchanged, no Swedish housing recovery signal.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. Consensus sell, structural headwinds unchanged. Prev STABLE continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data, sell consensus, structural headwinds unchanged. No reason to shift from HOLD.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data, flat momentum, consensus Sell. No new catalyst to change STABLE assessment.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data, FLAT. Consensus sell, no housing recovery signal. Thesis remains unconvincing.",
+      "price_at_analysis": null
+    }
+  ],
+  "DFENS.OL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "DFENS is an early-stage Norwegian defence compounder with a credible buy-and-build strategy riding a genuine European rearmament supercycle, but the stock is pre-coverage, micro-cap, currently loss-making at the group level, and highly dilution-prone — attend the lunch, probe execution discipline, dilution roadmap, and valuation framework before any position.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Defence supercycle intact; early-stage risk remains elevated",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Defence supercycle intact; early stage execution risk remains",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; rearmament thesis intact, early-stage risk",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; defence rearmament tailwind intact, pre-revenue risk unchanged.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; rearmament tailwind real but pre-coverage micro-cap, await meeting.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. Pre-revenue micro-cap, rearmament tailwind intact but speculative. Prev STABLE continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD +14.6%, pre-coverage micro-cap, loss-making. Rearmament tailwind real but execution risk high.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — DOWN momentum, pre-coverage micro-cap. Thesis unchanged, diligence still required.",
+      "price_at_analysis": 14.9
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — +14.6% YTD, DOWN momentum. Pre-coverage micro-cap. Rearmament theme intact but diligence still required.",
+      "price_at_analysis": 14.9
+    }
+  ],
+  "KP": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "UNCLEAR",
+      "score": 0,
+      "action": "IGNORE",
+      "verdict": "KP is not investable (private non-profit); broker's key factual claim on strike size (~220K) is significantly wrong — actual figure is ~31K — but the macro directional call on bad equity mix is correct and well-timed.",
+      "price_at_analysis": null
+    }
+  ],
+  "ENDUR.OL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Endúr is a well-evidenced, high-quality Norwegian infrastructure compounder with a strong Q4 2025 print and solid structural tailwinds, but at 108.8 NOK the stock is near 52-week highs with a lofty trailing P/E; the thesis is sound but entry discipline is warranted — wait for a pullback toward the 95–100 NOK range for a more attractive risk/reward.",
+      "price_at_analysis": 108.8
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Strong Q4 print; wait-for-dip stance unchanged at 108.8",
+      "price_at_analysis": 108.8
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Strong Q4; infrastructure tailwinds solid; awaiting dip",
+      "price_at_analysis": 108.8
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat; infrastructure compounder thesis intact at entry",
+      "price_at_analysis": 108.8
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; wait-for-dip thesis unchanged, entry point not yet triggered.",
+      "price_at_analysis": 108.8
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price movement; thesis sound, entry still awaited near 95-100 NOK range.",
+      "price_at_analysis": 108.8
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. Near 52w high, entry discipline thesis unchanged. Prev STABLE continues.",
+      "price_at_analysis": 108.8
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Price at entry near 52w high, strong_buy consensus, P/E stretched. Wait for 95-100 pullback entry.",
+      "price_at_analysis": 108.8
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Price at 106 approaching the 95-100 entry zone flagged. FLAT momentum, strong_buy consensus.",
+      "price_at_analysis": 106.0
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Slight dip from 108.8 to 106. FLAT momentum, still above 95-100 entry zone. Strong_buy consensus. Entry not yet met.",
+      "price_at_analysis": 106.0
+    }
+  ],
+  "KOG.OL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Kongsberg's CUAS pivot and the confirmed NOK 16bn Poland contract fully validate Løkbakken's structural thesis, but at 410 NOK (+52% YTD) the stock is pricing in near-perfection — wait for a 10-15% pullback before adding.",
+      "price_at_analysis": 410.3
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Poland contract validates thesis; +52% YTD limits new entry",
+      "price_at_analysis": 410.3
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Poland contract confirmed; +52% YTD run limits upside now",
+      "price_at_analysis": 410.3
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat; Poland contract confirmed but +52% YTD limits upside",
+      "price_at_analysis": 410.3
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No new data; Poland contract validated but wait-for-dip not yet triggered.",
+      "price_at_analysis": 410.3
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price movement since rec; thesis validated but needs 10-15% pullback for entry.",
+      "price_at_analysis": 410.3
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. Up 52% YTD, waiting for 10-15% pullback entry. Prev STABLE continues.",
+      "price_at_analysis": 410.3
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD +52%, at 52w high, above analyst target, P/E 86x. Thesis valid but priced for perfection.",
+      "price_at_analysis": 410.3
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — UP momentum but price at 409 still above 401 target. +52% YTD, near-perfection priced in.",
+      "price_at_analysis": 409.3
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — +52% YTD, near 52w high, P/E 86x. UP momentum but price above analyst target (409 vs 401). Awaiting pullback.",
+      "price_at_analysis": 409.3
+    }
+  ],
+  "GENOC.OL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 63,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Genuinely interesting niche underwater tech roll-up with credible growth and strong Norwegian institutional backing, but wait for the full prospectus to verify 2025 adjusted earnings quality, secondary sell-down size, and segment-level turnaround evidence before committing capital.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Await full prospectus; niche roll-up thesis unconfirmed",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Awaiting full prospectus; thesis unresolved but intact",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; awaiting prospectus, thesis unresolved",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; awaiting prospectus, thesis unchanged.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; await full prospectus for earnings quality and dilution clarity.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. Awaiting prospectus details. Prev STABLE continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data; awaiting prospectus. Thesis interesting but pre-IPO verification still required.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data, flat momentum. Prospectus verification still pending. No change.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data, FLAT. Prospectus verification still pending. No new information to shift thesis.",
+      "price_at_analysis": null
+    }
+  ],
+  "AKER.OL": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Core NAV claims are verified and the magnitude of the Nscale uplift is real, but the NOK 1298 NAV figure has a ~NOK 75/share unexplained gap, a same-day Guardian investigation raises Nscale execution credibility questions, and the stock has already rallied sharply — dig into the full NAV bridge and Nscale UK delivery track record before acting.",
+      "price_at_analysis": 1082.0
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — NAV uplift real but unexplained gap and same-day flag unresolved",
+      "price_at_analysis": 1082.0
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Nscale uplift real; unexplained NAV gap warrants caution",
+      "price_at_analysis": 1082.0
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat; NAV uplift real but unexplained gap and MNPI risk",
+      "price_at_analysis": 1082.0
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No new price data; NAV gap and Nscale credibility questions unresolved.",
+      "price_at_analysis": 1082.0
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price movement; Nscale credibility questions and NAV gap unresolved.",
+      "price_at_analysis": 1082.0
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. NAV gap and Nscale credibility questions unresolved. Prev STABLE continues.",
+      "price_at_analysis": 1082.0
+    },
+    {
+      "date": "2026-03-12",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD +40.2%, above analyst target, NAV gap and Nscale credibility questions unresolved. Monitor only.",
+      "price_at_analysis": 1082.0
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — UP momentum, price above analyst target. NAV gap and Nscale credibility questions unresolved.",
+      "price_at_analysis": 1092.0
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Near 52w high, UP momentum, above analyst target (1092 vs 903). NAV gap and Nscale scrutiny ongoing.",
+      "price_at_analysis": 1092.0
+    }
+  ],
+  "HKEX / CHINA EQUITY MACRO (CSI 300 / HSI / HANG SENG CHINA ENTERPRISES)": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "MONITOR",
+      "verdict": "Directionally sound macro call forwarded outside broker's core expertise — the short-term re-rating thesis played out, but the article's own caveat about structural headwinds was equally validated; treat as informational context only, not actionable research.",
+      "price_at_analysis": null
+    }
+  ],
+  "NDAQ": [
+    {
+      "date": "2026-03-12",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "NDAQ is fundamentally sound with strong analyst conviction and ~29% upside to consensus, but meaningful insider selling, a subdued IPO market, and broad market weakness argue for waiting for technical stabilisation before adding exposure — especially given this is entirely outside the broker's core Nordic coverage universe.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — First eval: DOWN momentum, YTD -13%, insider selling active, IPO market subdued. Entry conditions not met.",
+      "price_at_analysis": 84.06
+    },
+    {
+      "date": "2026-03-13",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — WEAKENING from prior STABLE. -13% YTD, DOWN momentum, insider selling. Approaching entry zone but trend uncertain.",
+      "price_at_analysis": 84.06
+    }
+  ],
+  "GLEN.L": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "The merger catalyst that prompted this email has collapsed — Glencore now trades as a standalone copper-growth story at a post-breakdown discount, worthy of monitoring but not urgent action given the 6-month M&A lockout and rising short interest.",
+      "price_at_analysis": 531.2
+    }
+  ],
+  "RIO.L": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 60,
+      "action": "MONITOR",
+      "verdict": "Rio Tinto's merger catalyst is dead but its standalone story (Oyu Tolgoi copper ramp, Simandou iron ore, disciplined capital return) is intact — a quality HOLD at current levels, with the P/B data anomaly in the financial feed requiring urgent correction before any client use.",
+      "price_at_analysis": 6845.0
+    }
+  ],
+  "GLCNF": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 3,
+      "action": "MONITOR",
+      "verdict": "The M&A catalyst that drove the Jan 8 re-rating has collapsed; Glencore reverts to a standalone copper-growth/coal-cash-flow story at a stretched valuation — monitor for post-results re-entry or BHP approach speculation, but the near-term deal premium is gone.",
+      "price_at_analysis": 7.05
+    }
+  ],
+  "RIO": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 6,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Quality diversified miner with a credible copper/lithium growth pivot and attractive forward multiples, but the transformative re-rating catalyst (Glencore merger) is gone, iron ore headwinds persist, and post-results broker downgrades suggest better entry points may emerge on weakness.",
+      "price_at_analysis": 90.7
+    }
+  ],
+  "NOD": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Credible and well-caveated read-through note; TSMC December revenue claim fully verified, IoT segment logic is sound, but the TSMC Q4 IoT deceleration (+3% q/q) discovered post-email warrants closer scrutiny before acting on the bullish NOD narrative.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "MONITOR",
+      "verdict": "TSMC December revenue figures are verified and mildly supportive for NOD, but the IoT segment's Q4 deceleration (+3% q/q vs. +20% in Q3) warrants caution; await the full TSMC Q4 segment breakdown and NOD's own annual results before upgrading conviction.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "MONITOR",
+      "verdict": "Directionally sound read-across — confirmed by NOD's own subsequent strong Q4 print — but the broker overstates both beat magnitudes (especially Q1 guidance by ~3x), omits STM's severe EPS miss, and the note remains incomplete pending NOD's own segment revenue slides.",
+      "price_at_analysis": null
+    }
+  ],
+  "SBLK": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Relative value trade within a downgraded sector — SBLK is the best house in a neighborhood under renovation, but buy only on confirmed seasonal dips given the counter-seasonal strength already seen in early 2026 and the unresolved China demand headwinds.",
+      "price_at_analysis": 22.15
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "MONITOR",
+      "verdict": "Structurally interesting relative value trade within dry bulk sector but entry point has largely passed (+18% since email); monitor Q1 2026 earnings (May 19) and China iron ore demand data for better re-entry on weakness, while acknowledging the broker's demand headwind thesis is directionally well-supported even if timing proved early.",
+      "price_at_analysis": 22.15
+    }
+  ],
+  "NOVO.CO": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 52,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "The Amazon/oral Wegovy catalyst is 100% verified and real, but the email is a news relay devoid of analysis — the stock faces a much harsher 2026 than the headline implies, with guided sales declines, Lilly competition intensifying, insider selling, and a CagriSema trial failure since the email date; accumulate only on further weakness with a long-term horizon.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 32,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "The Amazon/Wegovy pill distribution catalyst in the Jan 9 email was real and verified, but the story has materially worsened since — with CagriSema's head-to-head loss to tirzepatide, a fresh FDA warning letter, and imminent competition from Lilly's oral pill making NOVO.CO a speculative deep-value recovery play rather than a near-term catalyst trade; wait for stabilisation of 2026 guidance and orforglipron launch dynamics before building a position.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 22,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "The REIMAGINE 2 data were genuine and correctly characterised as de-risking rather than re-rating, but the email is now a historical artifact: within 24 hours of publication, a catastrophic guidance cut erased the investment case, and three weeks later REDEFINE 4's failure to beat tirzepatide — followed by an FDA warning letter — has reduced NOVO.CO to a deep-value recovery speculation; accumulate only in tranches on further weakness, with a minimum 12–18 month horizon and contingent on Q1 2026 earnings stabilisation and REDEFINE 11 optionality in 2027.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 18,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "REIMAGINE 2 data were genuine and correctly framed as de-risking rather than re-rating, but this email is now a historical artifact — the investment case deteriorated catastrophically within days (guidance cut) and weeks (REDEFINE 4 failure + FDA warning letter), and NOVO.CO is a deep-value recovery speculation at best, requiring Q1 2026 earnings stabilisation and optionality evidence before any accumulation.",
+      "price_at_analysis": null
+    }
+  ],
+  "FRO.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 82,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "A high-conviction, well-researched tanker call that has been dramatically validated by subsequent Iran events — but at current price levels (post-45% YTD rally), the risk-reward hinges entirely on Hormuz duration and rate sustainability, making further diligence on ceasefire scenarios and FFA forward curve essential before adding new positions.",
+      "price_at_analysis": 301.2
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 85,
+      "action": "MONITOR",
+      "verdict": "Thesis has been dramatically validated by the Iran war and Hormuz crisis — FRO is printing record rates with 92% Q1 coverage locked in, but at +45% YTD the risk/reward now depends on duration of Hormuz disruption; monitor for entry on any ceasefire-driven pullback.",
+      "price_at_analysis": 301.2
+    }
+  ],
+  "NORBT.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Arctic's bull case is well-supported by verified contract flow, insider buying, and subsequent management guidance that vindicated the upside view — but the premium valuation (32x P/E), PIR margin dilution risk, and DNB's contrarian HOLD warrant reading the full DNB initiation before adding aggressively at current levels near NOK 202.",
+      "price_at_analysis": 202.5
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Compelling multi-segment Norwegian compounder with verified record results, accelerating PIR defence revenues, and a management-guided >NOK 3.0bn 2026 revenue target that materially undermines the cautious DNB HOLD; the ~5% dip at email date was indeed a buying opportunity, but at NOK 202.5 (near consensus TP), disciplined investors should wait for the next pullback to build/add positions ahead of the August 2026 strategic update catalyst.",
+      "price_at_analysis": 202.5
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 76,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Compelling verified-execution story with a management-guided NOK 3.0bn+ 2026 revenue target, board-level insider buying, and a continuously replenishing defence contract pipeline — but at NOK 202.5 (near consensus TP of NOK 214), the risk/reward is better for disciplined accumulation on pullbacks toward the NOK 182–190 zone rather than chasing near all-time highs, especially ahead of the August 2026 CMD which represents the next genuine re-rating catalyst.",
+      "price_at_analysis": 202.5
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 76,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Norbit is a high-quality, well-verified Norwegian defence/tech compounder with a strengthening order book, credible >NOK 3.0bn guidance, and aligned insiders — but at NOK 202.5 (32x trailing P/E, near consensus TP), the risk-reward is asymmetric only on dips below NOK 185–190, especially ahead of the August 2026 CMD catalyst.",
+      "price_at_analysis": 202.5
+    }
+  ],
+  "SINO.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "UNCLEAR",
+      "score": 10,
+      "action": "IGNORE",
+      "verdict": "Sinokor is not investable (private company, invalid ticker); monitor as a key market catalyst for VLCC NAV uplift at listed peers, but exercise caution given the disputed Delta deal and uncertain Aponte/MSC funding structure.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "UNCLEAR",
+      "score": 20,
+      "action": "IGNORE",
+      "verdict": "SINO.OL is not a valid listed security — Sinokor is a private Korean entity; the email's rate and transaction data is useful for assessing listed VLCC peers, but this ticker itself offers no investable angle.",
+      "price_at_analysis": null
+    }
+  ],
+  "INTL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "UNCLEAR",
+      "score": 0,
+      "action": "IGNORE",
+      "verdict": "INTL has no relevance to this email thread and should be disregarded entirely — likely a data-pipeline error.",
+      "price_at_analysis": 28.26
+    }
+  ],
+  "NMM": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "NMM is a high-conviction value opportunity in diversified shipping at 4.1x forward earnings with independently validated VLCC NAV uplift, active buybacks, strong contracted revenue, and a 31% discount to analyst consensus — but requires further diligence on H2 2026 rate trajectory and MLP-structure tax considerations.",
+      "price_at_analysis": 60.03
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 74,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "NMM is a deeply undervalued diversified shipper with confirmed VLCC asset gains and strong earnings visibility, but requires further work on MLP governance, dry bulk drag, and Sinokor concentration risk before conviction upgrade to BUY.",
+      "price_at_analysis": 60.03
+    }
+  ],
+  "LINK.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 32,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Interesting asymmetric situation as ABRY exits and the register is in flux — but the 'Posten bid' thesis is pure speculation, Q4 earnings were materially weak, and this stock is firmly outside Arctic's core coverage; requires dedicated TMT analyst verification before acting.",
+      "price_at_analysis": 22.45
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "The dual ABRY board exit is a genuine corporate-event flag worth monitoring — the stock's 26% discount to consensus and PE-exit dynamics create event-driven optionality, but the Q4 organic miss, surging short interest, and thin analyst coverage mean this requires deep-dive verification before acting; outside Arctic's core universe.",
+      "price_at_analysis": 22.45
+    }
+  ],
+  "SWON": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Thesis materially validated by Q4 2025 preliminary +11% cc LFL beat; await 31 March full results for 2026 guidance confirmation before acting, but risk/reward has improved significantly since email date.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Arctic's pre-close thesis has been directionally validated by SoftwareOne's Feb 9 revenue pre-announcement (Q4 LFL CC +11% vs ~4-5% expected), making this a compelling contrarian long ahead of March 31 full results — but investors outside Arctic's core coverage should verify post-Q4 price action and independently assess Crayon integration risk and MSFT structural headwinds before sizing a position.",
+      "price_at_analysis": null
+    }
+  ],
+  "ZAL.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "MONITOR",
+      "verdict": "THESIS VALIDATED BY M&A: The Arctic Buy call at 115 NOK is intellectually vindicated by the Norvestor recommended tender at NOK 100 (announced today, 13 Mar 2026), though the bid comes in below the TP — current holders should tender unless a bump or competing bid is expected; new buyers face a capped risk/reward.",
+      "price_at_analysis": 71.4
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Genuinely interesting small-cap HR-tech compounder with a credible NAV contract win and structural margin drivers, but Arctic's aggressive P/E framing, Q4 EPS miss, consulting headwinds, and out-of-universe coverage risk warrant waiting for the Q1 2026 print (28 April) before building a position — the thesis is real but priced for near-flawless execution.",
+      "price_at_analysis": 71.4
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 82,
+      "action": "MONITOR",
+      "verdict": "Done deal at NOK 100 is real, board-endorsed, and largely de-risked — tender your shares unless you are specifically betting on a bid bump or competing offer materialising above NOK 100, while staying alert to the Arctic Securities/Økokrim insider-trading shadow hanging over the deal process.",
+      "price_at_analysis": 98.0
+    }
+  ],
+  "NOVO-B.CO / NVO": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 3,
+      "action": "MONITOR",
+      "verdict": "The Australia PBS Wegovy news is directionally positive but a minor incremental catalyst for a stock in structural freefall driven by far more consequential US pricing headwinds and negative 2026 guidance — this is not core broker coverage and the note lacks the depth to trade on.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 3,
+      "action": "MONITOR",
+      "verdict": "Australia PBS listing is a verified, real but already-public and margin-incremental catalyst for a stock deep in a structural reset — monitor for actual listing date and price negotiation outcome, but this alone does not flip the investment case.",
+      "price_at_analysis": null
+    }
+  ],
+  "MOWI.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "MOWI is a structurally compelling salmon play with record biomass and tightening supply, but the broker's 'net winner' Chile tariff framing is oversimplified and the anomalous EV/EBITDA warrants clarification before adding exposure — wait for cleaner entry or Q1 cost data confirmation.",
+      "price_at_analysis": 222.6
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 35,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Relative tariff advantage for Chile vs Norway is real but thin, and structurally overstated by the broker; Mowi is a quality name but wait for clearer tariff resolution before adding.",
+      "price_at_analysis": 222.6
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 38,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Mowi's aggressive harvest pace in early Q1 2026 is a partial contradiction to the email's supply-tightening thesis, and while the long-term volume/cost story is compelling and consensus is BUY, the unresolved EV/EBITDA anomaly, high debt load, and self-inflicted supply overhang justify maintaining WAIT_FOR_DIPS pending Q1 2026 cost confirmation.",
+      "price_at_analysis": 222.6
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 52,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Mowi is structurally positioned for a strong 2026 recovery with record biomass and falling costs, but its own aggressive volume growth plan runs counter to the supply-tightening thesis in this email, and near-term Q1 cost seasonality, an unresolved EV/EBITDA anomaly, and high debt justify waiting for Q1 results on March 25 before adding exposure.",
+      "price_at_analysis": 222.4
+    }
+  ],
+  "DNO.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 82,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "DNO is a high-conviction, near-term catalyst-rich E&P with a verified production beat, active Kurdistan drilling ramp to 100 kboepd, dual-engine North Sea growth, and Brent tailwind at $98.52 — the Arctic note is well-grounded and warrants immediate deeper diligence; the key risk is geopolitical fragility in Kurdistan and a steep local oil price discount.",
+      "price_at_analysis": 16.96
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 82,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Strong Kurdistan production beat and North Sea momentum are credibly confirmed; compelling valuation at Fwd P/E 4.8x, but material Kurdistan geopolitical risk (now confirmed via post-email events) and local pricing discount warrant further due diligence before adding.",
+      "price_at_analysis": 16.96
+    }
+  ],
+  "VAR.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 63,
+      "action": "MONITOR",
+      "verdict": "Vår Energi is an operationally excellent E&P company but the real trade idea here is for drilling contractors (Transocean, Northern Ocean, SFL, Noble) who could benefit from the semi tender; VAR itself is trading above consensus and should be monitored rather than chased.",
+      "price_at_analysis": 41.27
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "MONITOR",
+      "verdict": "Credible, well-timed note on a legitimate Q4 miss — claims are extensively verified — but the Neutral call is appropriate given production recovery confirmed in January and a major FY26 ramp ahead; watch the 31 March balance sheet audit for dividend clearance and any further operational updates from Castberg.",
+      "price_at_analysis": null
+    }
+  ],
+  "AAL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 28,
+      "action": "MONITOR",
+      "verdict": "The GLP-1 thesis is a real but distant, aggregate, and heavily caveated tailwind that does nothing to address AAL's acute triple threat of oil-price shock, massive debt, and an earnings miss — MONITOR for macro stabilization before acting.",
+      "price_at_analysis": 10.55
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 2,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "The GLP-1/fuel-savings angle is a real but glacially slow and non-AAL-specific tailwind that is utterly swamped by AAL's acute crisis: unhedged fuel exposure to a $100+/bbl oil spike, $36.5B in debt, no margin buffer, and a stock already down ~32% YTD — wait for oil price resolution and Q1 clarity before any entry.",
+      "price_at_analysis": 10.55
+    }
+  ],
+  "C": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 5,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Citi's European equity downgrade is a verified, credible macro call; C stock itself remains a fundamentally compelling restructuring/execution story at P/B ~1.0x and Fwd P/E ~8.7x, but the email provides zero investment thesis depth, insider selling is notable, the YTD pullback may not be over, and Q1 2026 earnings on April 14 represent the proper entry-or-pass inflection point — wait for dip toward $100–105 or post-earnings confirmation.",
+      "price_at_analysis": 105.5
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 3,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "The Citi European equities downgrade is a verified macro call, but the email fails to construct a coherent investment thesis on C stock itself; with compelling valuation and strong buy consensus offset by insider selling pressure and YTD weakness, wait for stabilization near tangible book value (~$100–$105) before acting.",
+      "price_at_analysis": 105.5
+    }
+  ],
+  "AAPL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 60,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Campos/Google Gemini AI pivot is strategically credible and well-verified, but the thesis is fully in the public domain, the stock trades at a premium, execution risk is high until September 2026, and this email adds zero proprietary analytical value — accumulate on weakness toward the $240–$250 support zone rather than chasing at current levels.",
+      "price_at_analysis": 255.76
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Apple's Campos/Siri AI pivot is real and credibly sourced, but chronic execution delays, stretched valuation, talent bleed to OpenAI, and a lack of proof points on AI monetization make this a 'show me' story — wait for iOS 26.4 delivery in May as a first live test before adding exposure.",
+      "price_at_analysis": 255.76
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "A genuinely exceptional quarter — but the earnings flash from a non-core broker adds no analytical edge, the post-market move was far smaller than claimed, valuation remains stretched, and prior analysis already correctly identified the WAIT_FOR_DIPS posture at $240–$250 support; thesis is unchanged.",
+      "price_at_analysis": 255.76
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 52,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Genuinely exceptional Q1 results now 44 days stale, the post-market move was materially overstated by the broker, this email adds zero analytical value beyond a data feed, and the WAIT_FOR_DIPS posture toward $240-250 support established in prior analyses remains intact at current stretched valuation.",
+      "price_at_analysis": 255.76
+    }
+  ],
+  "INTC": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 52,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "A legitimate Q4 beat buried by a worse-than-expected Q1 guide — supply constraints are real and self-inflicted; wait for evidence of Q2 supply recovery and 18A yield improvement before building a position, as the risk/reward at 45x forward P/E with sub-35% gross margins remains unattractive near-term.",
+      "price_at_analysis": 45.25
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 52,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Legitimate and well-verified Q4 beat, but the stock had already run ~47% YTD into earnings — the supply-constrained Q1 guidance reset is real, margins will compress further before recovering, and at 45.7x forward earnings the risk/reward is asymmetric; wait for Q2 supply recovery confirmation or a meaningful pullback toward $38–40 before adding.",
+      "price_at_analysis": 45.25
+    }
+  ],
+  "AA": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Strong Q4 beat with verified claims, constructive 2026-27 setup, but AA has re-rated aggressively and now trades well above broad consensus — wait for Q1 2026 softness to play out and a better entry point before adding exposure, especially given this is outside Arctic's core coverage universe.",
+      "price_at_analysis": 65.93
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Solid Q4 beat with credible claims, but AA is outside Arctic's core universe, trades ~35–40% above broad Street consensus PT, Q1 faces known $100M EBITDA headwind, and the San Ciprián restart carries execution risk — constructive on fundamentals medium-term but current price already prices in significant optimism; wait for a pullback toward the $55–58 range before adding exposure.",
+      "price_at_analysis": 65.93
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Solid Q4 beat with credible core claims (caveat: CO2 credit quality flag), constructive 2026–27 fundamental setup supported by tariff-driven US Midwest premium and smelter restart optionality, but AA now trades well above broad consensus and the known Q1 headwind has yet to fully play out — maintain WAIT_FOR_DIPS, targeting re-entry in the $55–60 range on Q1 softness or tariff policy noise.",
+      "price_at_analysis": 65.93
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 63,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Q4 beat is fully verified and the medium-term aluminum thesis is intact, but AA at $65.93 prices in significant optimism and trades well above broad Street consensus (~$46-48); the known Q1 2026 EBITDA headwind of ~$100M and San Ciprián execution risk argue for waiting for a pullback toward the $55-58 range before adding exposure.",
+      "price_at_analysis": 65.93
+    }
+  ],
+  "DNB.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "MONITOR",
+      "verdict": "Tactical trim pre-Q4 was reasonable given NII risk/reward asymmetry, but the actual Q4 print was a large beat on fees — the thesis was correct directionally on NII pressure but wrong on the net outcome; monitor Q1 2026 for fee sustainability and NII trajectory under new regulatory headwinds before adding.",
+      "price_at_analysis": 289.5
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "MONITOR",
+      "verdict": "Tactically astute pre-print trim call that proved wrong (DNB beat and rallied ~5%), but the structural NII/competition concerns remain valid heading into Q1 2026 — monitor NII trajectory and Norges Bank rate decisions as the dominant swing factors for the April 23 print.",
+      "price_at_analysis": 289.5
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "MONITOR",
+      "verdict": "DNB's P/E 10x and growing capital returns (DPS NOK 18 + 2.5% buyback) make the relative value argument over Gjensidige compelling, but NII regulatory headwinds (~NOK 300m p.a. from 2026) and a consensus HOLD at minimal price upside justify monitoring rather than chasing — await Q1 2026 for NII trajectory confirmation.",
+      "price_at_analysis": 290.8
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "MONITOR",
+      "verdict": "DNB's P/E 10x and ~9% total capital return are genuinely attractive vs Gjensidige and the broader Norwegian market, but thin consensus upside (~3%) and ongoing NII regulatory headwinds (NOK 300m p.a.) justify monitoring rather than aggressive adding ahead of April Q1 print.",
+      "price_at_analysis": 290.6
+    }
+  ],
+  "BWLPG.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "MONITOR",
+      "verdict": "Tactically sound trim call with well-supported seasonal and supply-side logic, but partially offset by unexpectedly strong spot rates in early 2026 (Middle East premium) and BW LPG's proactive hedging — monitor for rate dip post-Chinese New Year as the entry/exit signal.",
+      "price_at_analysis": 132.6
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "MONITOR",
+      "verdict": "Well-reasoned seasonal TRIM call with strong historical and fundamental support — track ARB and rate data weekly; revisit if rates dip below $40k/d or ARB compresses materially in Feb/Mar.",
+      "price_at_analysis": 132.6
+    }
+  ],
+  "LPG": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 60,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Dorian is a reasonable seasonal trim candidate at 0.77x P/NAV but sits outside the broker's core coverage; the CEO's January insider buy and Dnb Carnegie upgrade warrant independent research before acting on the trim call.",
+      "price_at_analysis": null
+    }
+  ],
+  "AKBM.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 57,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Genuine operational turnaround in HHI confirmed, but the email is a podcast promo not a research note, the stock looks expensive vs independent consensus targets, a major HHI strategic process was conspicuously omitted, and leverage/net losses remain live concerns — research further before acting.",
+      "price_at_analysis": 108.0
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Structurally interesting turnaround story with a live, potentially transformative HHI sale catalyst (Jefferies/Houlihan Lokey engaged), but this email is a podcast notice — not an investment thesis — and the stock is already at 52-week highs with thin analyst coverage, elevated leverage, and a declining Consumer Health Products segment; do your own work before acting.",
+      "price_at_analysis": null
+    }
+  ],
+  "RYA.IR / RYAAY": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 78,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Ryanair's Q3 results and raised guidance are genuinely credible and well-supported by primary sources, but this note has a critical labeling error (subject/TP referencing 'NORWEGIAN' / NOK 18.5 rather than RYA) that must be resolved before acting — it lies entirely outside the broker's core Nordic coverage and warrants direct clarification with the analyst.",
+      "price_at_analysis": null
+    }
+  ],
+  "ELOP.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "A well-substantiated 'non-event' call backed by verified facts — CEO leaving for a named new role, strategy intact, US ramp confirmed — but outside broker's core competence and best entered on weakness ahead of Q1 2026 results or new CEO clarity.",
+      "price_at_analysis": null
+    }
+  ],
+  "ELOPAK.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Legitimate non-event on CEO departure with verified fundamentals; dip-buying on any overreaction is reasonable, but lack of valuation work and broker's non-core coverage status warrant independent due diligence before acting — monitor for new CEO announcement as the real catalyst.",
+      "price_at_analysis": null
+    }
+  ],
+  "NE": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Contract claims are fully verified and operationally impressive, but Arctic's USD 32 Hold target looks materially stale post-Q4 re-rating — a price target review is urgently needed before this note is actionable.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "MONITOR",
+      "verdict": "Contract bonanza is real and credible, but at $45.7 the stock is trading ~14% above consensus and 43% above Arctic's own target — the 2027 earnings story is compelling but already partially priced in, making this a MONITOR rather than a new entry point.",
+      "price_at_analysis": 45.7
+    }
+  ],
+  "OKEA.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Underlying thesis is well-founded and key claims check out, but stock has run hard (+41% YTD to email date) and is now 13% above consensus — wait for a pullback toward NOK 27–29 before adding; the 2027 Bestla inflection story remains compelling at the right price.",
+      "price_at_analysis": 31.95
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 60,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Thesis verifies well — Bestla 2027 inflection story is real and operationally on track — but at NOK 32+ the stock is priced for optimism, 13% above consensus, with a Q4 cash discrepancy to resolve and dividend catalysts still 12–18 months away; wait for a pullback toward NOK 27–29 before adding.",
+      "price_at_analysis": 32.05
+    }
+  ],
+  "TXN": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "MONITOR",
+      "verdict": "Credible read-across tool for NOD with a broadly neutral signal; TXN itself is a quality analog recovery story but richly valued—monitor for Q1 confirmation of above-seasonal guidance before upgrading view.",
+      "price_at_analysis": 190.05
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "MONITOR",
+      "verdict": "Valid neutral read-across for NOD: TXN confirms PE below-seasonal weakness in Q4 while Q1 upside is Industrial/Data Center driven — accurate and well-reasoned broker analysis, though 'in line' revenue characterisation was technically a small miss.",
+      "price_at_analysis": 190.05
+    }
+  ],
+  "LOGI": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 62,
+      "action": "MONITOR",
+      "verdict": "Strong Q3 execution with credible Video Collaboration acceleration supports positive Pexip and NOD read-across; LOGI itself trades at an attractive 16x Fwd P/E but elevated short interest (8.5%), gaming headwinds, and muted post-earnings stock reaction warrant monitoring rather than immediate action.",
+      "price_at_analysis": 92.93
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 65,
+      "action": "MONITOR",
+      "verdict": "Supportive read-across for both NOD (stable growth, clean inventory) and Pexip (VC re-acceleration confirmed at 8% CC with double-digit EMEA/Asia growth) — broker's analytical interpretation is sound and well-supported by verified data, though the VC 'lumpiness' caveat is underdisclosed.",
+      "price_at_analysis": 92.93
+    }
+  ],
+  "OLC.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "UNCLEAR",
+      "score": 1,
+      "action": "IGNORE",
+      "verdict": "Cannot act — OLC.OL is unidentifiable, the 'thesis' is a single-line macro sentiment observation with zero fundamental grounding, and the ticker returned no company data; verify the company name and business model before any further consideration.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "UNCLEAR",
+      "score": 1,
+      "action": "IGNORE",
+      "verdict": "Cannot be acted upon — OLC.OL is unidentifiable in any standard database, the email provides zero fundamental analysis, and the sole rationale (US AI selloff) may have no bearing on an unverified Oslo-listed company; flag for compliance review given the 'VEND' call without supporting evidence.",
+      "price_at_analysis": null
+    }
+  ],
+  "SWON.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 38,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Directionally correct but factually flawed note (wrong CapEx, wrong ticker exchange, wrong sequential Azure decel figure); the MSFT Copilot read-across for SWON is valid in concept but insufficient to override near-term headwinds — wait for Q4 2025 results and evidence of synergy delivery before acting.",
+      "price_at_analysis": null
+    }
+  ],
+  "ATEA.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 61,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Strong, well-run Nordic IT infrastructure compounder with validated Q4 2025 beat, 19% upside to thin-coverage consensus, active buyback, NATO/AI tailwinds — broker's read-across thesis is correct and subsequently confirmed; deserves deeper fundamental work before initiating.",
+      "price_at_analysis": 141.2
+    }
+  ],
+  "EPR.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Europris is a fundamentally sound discount retailer with a credible (though slow-burn) Sweden turnaround, but with the 2028 upside already priced in, near-term estimates under mild pressure and the stock sitting ~12% below consensus target, the best entry point is on Q1 2026 weakness rather than chasing post-Q4 noise.",
+      "price_at_analysis": 89.6
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Quality Nordic discount retailer with a credible but slow-burn Sweden story — the Q4 EBIT miss and Norway OpEx creep are mild near-term headwinds, the 2028 upside is largely priced in, and the best risk/reward entry remains on Q1 2026 weakness rather than chasing the post-results bounce.",
+      "price_at_analysis": 89.6
+    }
+  ],
+  "SWON.ST": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 35,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "MSFT Q2 is mildly supportive of the SWON medium-term thesis but does not resolve the core bear case of structural MSFT incentive pressure and integration execution risk flagged by Morgan Stanley's January 2026 Underweight downgrade — wait for March 31 full-year results and June 9 Capital Markets Day before establishing a position.",
+      "price_at_analysis": null
+    }
+  ],
+  "STM": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "MONITOR",
+      "verdict": "STM's verified revenue beat and better-than-seasonal Q1 guidance make it a credible and timely positive read-across for NOD — subsequently confirmed by NOD's own strong Q4/Q1 results — but the significant EPS miss, ongoing restructuring costs, and ~8% post-earnings stock drop are material omissions that warrant closer scrutiny before treating this as a clean bullish signal.",
+      "price_at_analysis": 33.24
+    }
+  ],
+  "GJNSE.OL / GJF.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 45,
+      "action": "MONITOR",
+      "verdict": "Credible near-term beat and CMD ambition beat the broker's 'non-event' framing — Gjensidige is expensive (P/E ~17x) but quality metrics are strong; not a sell, but the relative value case for DNB over Gjensidige has merit at current spreads.",
+      "price_at_analysis": null
+    }
+  ],
+  "GJNSE.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Operationally solid insurer with strong pricing power, but P/E premium (~17-22x vs 13-14x EU peers) makes risk/reward unattractive vs DNB at P/E 10x — wait for valuation reset or meaningful earnings upgrade cycle before adding.",
+      "price_at_analysis": null
+    }
+  ],
+  "NDA.ST": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 55,
+      "action": "MONITOR",
+      "verdict": "Clean in-line print with no surprises; semi-annual dividend is a mild positive, but limited near-term upside until NII stabilises — hold and monitor.",
+      "price_at_analysis": null
+    }
+  ],
+  "SEBA.ST": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 45,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Weak earnings miss on trading/NII with buyback reduction is genuinely negative, but dividend beat and cheap valuation mean weakness is a potential entry point — wait for dips below SEK 175-180.",
+      "price_at_analysis": null
+    }
+  ],
+  "SWED.ST": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 70,
+      "action": "MONITOR",
+      "verdict": "Best Q4 of the three banks covered — genuine beat on earnings, yield, and capital return — but ex-div retracement risk and lower 2026 ordinary DPS mean buy on dips post-March 25 is the better entry strategy.",
+      "price_at_analysis": null
+    }
+  ],
+  "SALM.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "MONITOR",
+      "verdict": "A well-supported near-term supply-tightening observation for SalMar, with fundamentals improving (record biomass, lower cost, quality recovery), but the email lacks a price target, the observation window is very short, one small insider sale is a flag, and the stock trades near consensus — monitor for confirmation of sustained harvest reductions and rising spot prices before adding.",
+      "price_at_analysis": 584.5
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 60,
+      "action": "MONITOR",
+      "verdict": "Cold-temp-driven harvest deferral is a credible near-term supply catalyst for SalMar, confirmed by AIS data and rising spot prices, but repeated insider selling, heavy Q1 back-loading risk, and a lofty trailing P/E keep this at MONITOR rather than BUY — await spot price and volume confirmation through February.",
+      "price_at_analysis": 583.0
+    }
+  ],
+  "NTG.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 28,
+      "action": "IGNORE",
+      "verdict": "Chronic cash burner with a pattern of serial dilution, related-party loan conversions, a recently bankrupt subsidiary, zero analyst coverage, extreme illiquidity, and no manager due diligence—compelling technology story (Hammertech Saudi Aramco traction) is real but execution risk and governance concerns make this inappropriate for most institutional mandates; strictly speculative.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "WEAK",
+      "score": 2,
+      "action": "IGNORE",
+      "verdict": "A serial-diluter pre-revenue tech holding company with a going-concern history, a bankrupt subsidiary, CEO-related-party loan conversions, zero analyst coverage, and overwhelmingly negative retail sentiment — well outside broker's core coverage universe and unsuitable for most institutional mandates.",
+      "price_at_analysis": null
+    }
+  ],
+  "QATAR.INTL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "STRONG",
+      "score": 85,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "The core macro alert is fully verified and credible — this is a genuine historic LNG supply shock — but the email lacks tradeable ticker recommendations; investors should urgently identify second-order beneficiaries (US LNG exporters, LNG shippers, European gas utilities, coal) rather than trying to trade QatarEnergy itself.",
+      "price_at_analysis": null
+    }
+  ],
+  "SNTIA.OL": [
+    {
+      "date": "2026-03-13",
+      "thesis_strength": "MODERATE",
+      "score": 58,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Fundamentals are stronger than the market currently prices (record Q4 2025, 8%+ dividend yield, growing backlog), but the NOK 94 TP is ~25-40% above consensus and the out-of-universe nature of this call, Ratos overhang, and aggressive EPS assumptions warrant deeper due diligence before acting — monitor for Annual Report confirmation on March 27.",
+      "price_at_analysis": null
+    }
+  ]
+}

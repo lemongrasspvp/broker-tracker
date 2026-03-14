@@ -1,0 +1,101 @@
+════════════════════════════════════════════════════════════════
+  BROKER SIGNAL ANALYSIS
+════════════════════════════════════════════════════════════════
+  Subject:  ** FISh -> Sjøtemp faller som en stein og press på tilbud avtar
+  Date:     Thu, 29 Jan 2026 10:03:00 +0000
+  Context:  single email  +3 image(s) analyzed
+  Analyzed: 2026-03-13T10:22:00.856109
+  Email quality: MEDIUM — The email is rich in proprietary real-time data (AIS harvest tracking, sea temperature chart) and the observations are directionally credible and independently verifiable. However, it lacks a formal price target, explicit recommendation, or quantified estimate of the price impact. The observation window for SalMar's harvest reduction is very short (2–3 days), and the tension between Mowi's high harvest pace and the supply-tightening thesis is not explicitly acknowledged or resolved. The broker does not distinguish between temperature-driven harvest delays (which defer volume, not destroy it) and genuine supply destruction. For a senior analyst, this note is useful as a near-term signal generator but requires supplementary price and volume data before trading on it.
+────────────────────────────────────────────────────────────────
+  ┌─ SALM.OL  SalMar ASA  [NO]
+  │  Strength:  🤔 MODERATE  (58/10)
+  │  Action:    👀 MONITOR
+  │    Price at analysis: 584.5
+  │
+  │  THESIS:
+  │  Colder-than-year-ago Bergen sea temperatures in January 2026 are suppressing feeding activity and daily growth rates, naturally reducing slaughter volumes and tightening near-term industry supply. SalMar is identified as the primary contributor to this supply reduction via AIS-tracked harvest data, entering 2026 with record-high biomass, a lower cost structure, and the highest superior-quality share in a decade — positioning it to capture margin upside as prices recover. The combination of supply tightening and strong underlying fundamentals sets up a constructive 2026 earnings trajectory ahead of the February 10 results.
+  │
+  │  KEY CLAIMS:
+  │  ✅ Sea temperatures in Bergen have fallen sharply in January 2026 vs 2025, suppressing feeding and daily growth  [Image shows seatemperature.info data for Bergen Jan 1–27 2026 vs 2025; 2026 temps declining from ~9.3°C to ~5.4°C by Jan 27, well below 2025 levels. Scientific literature confirms appetite decreases begin at 6°C and growth is reduced 58% below ~6°C.]
+  │     → Science firmly supports the feed/growth suppression mechanism. The temperature differential shown is visually clear and the source (seatemperature.info) is credible for general sea surface temperatures.
+  │  ✅ SalMar has sharply reduced slaughter in the last few days of the observation window (late Jan 2026)  [AIS-based harvest charts shown in email; Norway Daily Harvest Trend chart (Jan 20–27) shows 7-day avg still ~15-20% below year-ago. SalMar Q4 2025 results confirmed record biomass at sea entering 2026 and management noted harvesting the highest superior-quality share in 10 years.]
+  │     → AIS tracking is a widely used, independent proxy for harvest activity and is credible. The specific claim that SalMar 'drastically' cut in the last couple of days is visually supported but unverified by official data at this point in time (Jan 29 2026).
+  │  ✅ The 7-day moving average 2026 vs 2025 harvest gap is narrowing rapidly  [Norway Daily Harvest Trend chart in email shows 2026 7-day avg rising from 2,288 (Jan 20) toward 3,859 (Jan 27) while 2025 avg stays ~4,500–4,700, gap is narrowing but not closed. Rabobank confirmed Norway Q1 2026 supply expected to contract ~3% y/y.]
+  │     → The trend is visible in the chart. Independent Rabobank analysis supports the directional claim of supply tightening in Q1 2026.
+  │  ✅ SalMar enters 2026 with record-high biomass and lowest cost structure  [SalMar Q4 2025 press release (Feb 10 2026, GlobeNewswire/Manila Times) explicitly states 'record-high biomass in the sea with a lower cost level' and 'highest share of superior quality fish in 10 years'. Cost per kilo down 8% y/y per AlphaSpread.]
+  │     → Directly confirmed by company disclosure.
+  │  ✅ Global supply growth in 2026 is expected to slow to ~1% after 12% in 2025, supporting price recovery  [Pareto Securities (NASF 2026 conference) projects ~1% Norway supply growth; Mowi Q4 report and Rabobank both confirm ~1% global supply growth expectation for 2026.]
+  │     → Broad consensus from multiple independent analysts.
+  │
+  │  🌐 MARKET SENTIMENT:
+  │  Nordnet/Shareville commentary on SALM shows cautious-to-neutral tone with references to 'svingende laksemarkedsdata' (volatile salmon market data) and one noted insider share sale, suggesting market participants are watchful but not euphoric.
+  │
+  │  📊 VS ANALYST CONSENSUS:
+  │  Analyst consensus target is NOK 600.8 (range 500–680), with SALM trading at 584.5 — only ~2.8% upside to consensus mean. The broker's thesis is constructive but the stock is not obviously cheap vs consensus. The forward P/E of 13.8x is the more compelling valuation metric if margin recovery materialises in 2026.
+  │
+  │  👤 INSIDER ACTIVITY:
+  │  CTO Roger Bekken (via Bekken Akvainvest AS) sold 4,000 SALM shares at NOK 575.9 on February 23 2026 — a small but directionally negative insider signal shortly after Q4 results.
+  │
+  │  📉 SHORT INTEREST:
+  │  No current short interest data found; technical signals from early January 2026 showed a sell signal from a double-top formation and MACD sell, suggesting some downward technical pressure at the time of the email.
+  │
+  │  📅 CATALYST / TIMING:
+  │  Q4 2025 results released February 10 2026 confirmed record biomass and strong Q4 EBIT of NOK 1,834m — already a passed catalyst. Next catalyst: Q1 2026 results (May 19-20 2026). In the near term, weekly salmon price data (Fish Pool / Intrafish) and AIS harvest trackers will be the key watch items to confirm whether supply tightening is sustaining into February.
+  │
+  │  🐂 BULL: SalMar enters 2026 with record biomass, materially lower costs, and the best fish quality in a decade. Cold water temperatures are pulling forward a supply reduction that reinforces industry-wide tightening already consensus-expected (Pareto, Rabobank, Mowi). Prices are rising (NOK 85+ /kg late January), the 2026 volume guide of 318kt implies ~6% growth, and Fwd P/E of ~13.8x is reasonable if margins recover. The Q4 2025 results beat and Q1 2026 is set up as a cleaner quarter — a potential positive re-rating catalyst.
+  │  🐻 BEAR: Trailing P/E of 71.4x remains deeply elevated and reflects near-term earnings weakness that has not fully unwound. Cold temperatures reduce near-term growth and may push more volume to later quarters, replicating the Q1 2025 pattern of late harvesting into lower-priced windows. Scottish Sea Farms remains a weak spot. An insider (CTO Bekken via associated company) sold 4,000 shares at NOK 575.9 on Feb 23 2026 — a mild negative signal. The email provides no price target or formal recommendation, limiting actionability.
+  │
+  │  🚩 NOTES ON PRESENTATION:
+  │  • No explicit price target or formal BUY/SELL recommendation issued — this is a data/observation note, not a formal research call
+  │  • Email relies on AIS-derived harvest estimates which are proxies, not verified official slaughter data
+  │  • Temperature data from seatemperature.info is directionally credible but not audited; precision should be treated as indicative
+  │  • SalMar slaughter reduction identified as a recent (2–3 day) trend — very short observation window, could be noise or holiday scheduling artifact
+  │  • Broker does not quantify the magnitude of the supply tightening impact on near-term prices
+  │
+  └─ VERDICT: A well-supported near-term supply-tightening observation for SalMar, with fundamentals improving (record biomass, lower cost, quality recovery), but the email lacks a price target, the observation window is very short, one small insider sale is a flag, and the stock trades near consensus — monitor for confirmation of sustained harvest reductions and rising spot prices before adding.
+  · · ·
+  ┌─ MOWI.OL  Mowi ASA  [NO]
+  │  Strength:  ⚠️ WEAK  (38/10)
+  │  Action:    ⏳ WAIT_FOR_DIPS
+  │    Price at analysis: 222.6
+  │
+  │  THESIS:
+  │  Mowi is running at full pace in early January 2026 — AIS data shows harvest volumes tracking well ahead of the 2025 pace, consistent with its 605,000 GWT full-year 2026 guidance (+8.3% y/y). However, this high early-quarter harvest pace creates a dichotomy with the broker's supply-tightening thesis: Mowi's continued high throughput partially offsets the reduction being driven by SalMar and cold temperature effects. For the sector thesis of supply tightening to strengthen prices, Mowi's pace needs to moderate or be absorbed by the market. The previous analyses flagged the anomalous EV/EBITDA and overstated tariff framing — those concerns remain outstanding.
+  │
+  │  KEY CLAIMS:
+  │  ✅ Mowi is maintaining a high harvest pace in early Q1 2026, running significantly ahead of the 2025 trajectory  [AIS Accumulated Harvest chart shown in email: Mowi Q1 2026 estimate at Jan 25 is 34,512 TWG vs Q1 2025 actual of 72,087 at quarter end — on pace for a significantly higher run rate in early weeks. Mowi Q4 2025 report confirms Q1 2026 guidance of 128,200 GWT (+18.6% y/y vs Q1 2025's 108,064 GWT).]
+  │     → The chart appears to show early-quarter accumulation running ahead of the 2025 comparable pace, which is consistent with Mowi's ambitious 2026 guidance.
+  │  ✅ Mowi's 2026 harvest guidance is 605,000 GWT, +8.3% y/y, significantly above expected 1% industry growth  [Confirmed directly from Mowi Q4 2025 report and multiple sources including weareaquaculture.com and Quartr investor data.]
+  │     → This is a company-issued guidance figure, well-documented.
+  │  ✅ Mowi's high harvest pace in January works against the supply-tightening narrative presented in the email  [Implicit in the AIS data presented; Pareto analyst Knutsen noted at NASF 2026 that if larger producers grow volumes, it could push Norway supply growth toward 2%, partially offsetting tightening.]
+  │     → This is an analytical inference the email does not explicitly draw, but it is a key tension in the thesis.
+  │  ✅ Cold sea temperatures in Bergen are suppressing Mowi's growth and feed conversion in Q1 2026  [Same temperature data applies to Mowi's Norwegian operations. However, Mowi has broader geographic diversification (7 farming countries) which dilutes the temperature effect at group level.]
+  │     → The temperature impact is real for Norwegian operations but Mowi's global diversification means the aggregate impact is less severe than for SalMar.
+  │
+  │  🌐 MARKET SENTIMENT:
+  │  Forum sentiment on MOWI is cautious-to-neutral; Finansavisen forum activity exists but no strong directional signal; market participants appear focused on whether price recovery materialises in H1 2026 before acting.
+  │
+  │  📊 VS ANALYST CONSENSUS:
+  │  Analyst consensus BUY with NOK 246 target vs current price of NOK 222.6 implies ~10.5% upside — more compelling than SalMar. Berenberg recently upgraded to Buy with NOK 260 target. Fwd P/E of 11.6x is attractive if margin recovery is real. However, the prior WAIT_FOR_DIPS verdict is maintained pending Q1 cost data confirmation and resolution of the EV/EBITDA anomaly.
+  │
+  │  👤 INSIDER ACTIVITY:
+  │  No recent Mowi insider buying or selling identified in current search results; insider activity appears dormant in the near-term observation window.
+  │
+  │  📉 SHORT INTEREST:
+  │  No current short interest data identified for MOWI; the stock's -8.2% YTD performance at the time of the email may reflect some institutional underweight positioning rather than active short interest.
+  │
+  │  📅 CATALYST / TIMING:
+  │  Q1 2026 results due May 13 2026 are the next major catalyst. Near-term watch items: weekly salmon spot prices (Fish Pool futures), Mowi monthly harvest updates via AIS trackers, and any update on the strategic review of the Feed division. A tapering of Mowi's own harvest pace (visible in AIS data) would be a bullish signal for the sector price thesis.
+  │
+  │  🐂 BULL: Mowi's record 2025 harvest (559,000 GWT, +11.4% y/y), declining costs (EUR 176m saved in 2025, new EUR 30m target for 2026), record biomass (+8.7% y/y), and ambitious 2026 guidance create a volume-and-cost flywheel. If prices recover as supply growth normalises to 1% industry-wide, Mowi's operating leverage is significant. Berenberg upgraded to Buy with NOK 260 target. Fwd P/E of 11.6x is the cheapest in the peer group. Nova Sea integration and Skretting feed partnership add further upside.
+  │  🐻 BEAR: Mowi is adding substantial supply into a market where the bull thesis depends on supply discipline — its own growth partially undermines sector price recovery. EV/EBITDA of 109.7x remains anomalous (likely distorted by fair-value bio-asset adjustments but unconfirmed). Prior Q4 2025 operational EBIT of EUR 213m missed some market expectations. YTD -8.2% reflects ongoing market scepticism. High leverage (NIBD EUR 2.65bn) limits balance sheet flexibility. The prior analysis verdict of WAIT_FOR_DIPS remains appropriate.
+  │
+  │  🚩 NOTES ON PRESENTATION:
+  │  • Mowi's role in this email is as a contrast/counterpoint to SalMar — it is not the primary subject of the email
+  │  • No recommendation or target price provided for Mowi in this note
+  │  • AIS data shows Mowi is outpacing 2025 harvest trajectory, which is inconsistent with the supply-tightening thesis — the broker does not resolve this tension explicitly
+  │  • The anomalous EV/EBITDA of 109.7x flagged in prior analyses has not been clarified
+  │  • The EV/EBITDA anomaly likely reflects fair-value bio-asset uplift, but this remains unverified
+  │
+  └─ VERDICT: Mowi's aggressive harvest pace in early Q1 2026 is a partial contradiction to the email's supply-tightening thesis, and while the long-term volume/cost story is compelling and consensus is BUY, the unresolved EV/EBITDA anomaly, high debt load, and self-inflicted supply overhang justify maintaining WAIT_FOR_DIPS pending Q1 2026 cost confirmation.
+════════════════════════════════════════════════════════════════

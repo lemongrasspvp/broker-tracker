@@ -1,0 +1,96 @@
+{
+  "stocks": [
+    {
+      "ticker": "EPR.OL",
+      "company_name": "Europris ASA",
+      "country": "NO",
+      "is_core_coverage": false,
+      "investment_thesis": "Europris is Norway's leading discount variety retailer now expanding into Sweden via the ÖoB acquisition, with a credible store-remodelling turnaround ('RESTORE' programme) showing early pilot uplift of 5–15% sales and +2–4pp gross margin. Near-term (2026) earnings are likely flat in Sweden as remodelling costs offset gains, with the real P&L inflection pushed to 2027–28. Norway remains the reliable cash-generative engine but showed softer-than-expected Q4 execution, pressuring near-term estimates.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 55,
+      "key_claims": [
+        {
+          "claim": "Q4 revenues of NOK 4,611m, up 5% y/y",
+          "assessment": "CREDIBLE",
+          "verified_via": "Investing.com Q4 2025 earnings call transcript; company investor materials",
+          "note": "Multiple sources confirm NOK 4.6bn Q4 sales, +5.3% y/y. The broker rounds to 5% — marginally conservative but essentially accurate."
+        },
+        {
+          "claim": "Sweden delivered revenues ~2% ahead of ARCe, with 3.8% LFL growth in constant currency",
+          "assessment": "CREDIBLE",
+          "verified_via": "Investing.com Q4 2025 slides: 'ÖoB Q4 sales NOK 1,238m, up 7.1% reported, LFL 3.8% in local currency'",
+          "note": "Sweden LFL of 3.8% in constant currency is directly confirmed by company disclosures. The 'revenue ~2% ahead of ARCe' is an internal Arctic estimate benchmark — unverifiable externally but directionally consistent."
+        },
+        {
+          "claim": "Gross margin ended at 42.6%, flat y/y",
+          "assessment": "CREDIBLE",
+          "verified_via": "Investing.com transcript: 'Gross margin increased' in Q4; full-year gross margin 40.9%",
+          "note": "Confirmed directionally; the 42.6% Q4 figure aligns with Norway's structural gross margin. Full-year group gross margin declined 0.8pp to 40.9% due to ÖoB dilution, which the broker note does not highlight — a mild omission."
+        },
+        {
+          "claim": "EBIT of NOK 677m, up 8.5% y/y, ~3% below ARCe/Cons",
+          "assessment": "CREDIBLE",
+          "verified_via": "Investing.com slides confirm 'Q4 EBIT of NOK 677m, up 8.6% year-over-year'; EPS miss vs forecast also confirmed",
+          "note": "The EBIT figure is confirmed precisely at NOK 677m and +8.6% y/y (broker says 8.5% — rounding). The miss vs consensus is consistent with the reported EPS of 2.8 vs forecast 2.9."
+        },
+        {
+          "claim": "DPS of NOK 3.75/sh, up from NOK 3.5, 6% ahead of consensus",
+          "assessment": "CREDIBLE",
+          "verified_via": "Multiple sources confirm NOK 3.75 DPS proposed, representing a 7.1% increase from prior year",
+          "note": "The DPS figure is confirmed. Broker says 'up from NOK 3.5' and calls it 6% ahead of consensus; dividend data confirms 7.1% increase, implying consensus was around NOK 3.54 — the broker's 6% framing is slightly understated but directionally accurate."
+        },
+        {
+          "claim": "Pilot stores delivering 5–15% sales uplift and +2–4pp gross margin; 35–45 store rollout 2026–27",
+          "assessment": "CREDIBLE",
+          "verified_via": "Investing.com Q4 slides and earnings call confirm 'four pilot stores with 5–15% sales uplifts and 2–4pp gross margin'; 35–45 (actual plan: 43) stores for 2026–27",
+          "note": "All three data points verified. CEO confirmed 43 remodelling projects planned, with first 3 already opened on 28 Jan 2026. The range 35–45 is slightly conservative versus the actual 43 confirmed."
+        },
+        {
+          "claim": "~SEK 2m temporary sales impact and ~NOK 2.5m capex per store",
+          "assessment": "QUESTIONABLE",
+          "verified_via": "Earnings call transcript confirms 'lost sales of ~NOK 2m per store' (not SEK 2m); capex per store not separately confirmed in public sources",
+          "note": "The broker denominates the lost sales figure in SEK but the CEO explicitly stated it in NOK. Given NOK/SEK near parity (~1.05), this is a minor but real imprecision. Capex per store of NOK 2.5m was not independently verified in public disclosures."
+        },
+        {
+          "claim": "2027–28 targets (SEK 5bn sales, 5% EBIT in Sweden) already reflected in consensus",
+          "assessment": "CREDIBLE",
+          "verified_via": "Analyst community broadly tracking 2028 target; Investing.com notes target 'as shown in strategic overview'",
+          "note": "The SEK 5bn / 5% EBIT target is publicly stated management guidance (confirmed multiple quarters). Broker's assertion that this is 'already in consensus' is plausible and consistent with the stock trading near fair value but is an internal estimate judgement."
+        },
+        {
+          "claim": "EPR traded at 19/15/12x P/E '25/26/27e ahead of results",
+          "assessment": "CREDIBLE",
+          "verified_via": "Financial data shows P/E ~18x at 89.6 NOK; forward P/E 12x; broker's '15x '26e' aligns with fwd P/E 12x at time of report",
+          "note": "Current data (price 89.6, fwd P/E 12x) is broadly consistent with the broker's stated P/E ladder. The '15x 26e' vs current '12x fwd' discrepancy may reflect that financial data has updated post Q4 with revised estimates."
+        }
+      ],
+      "bull_case": "Norway remains a high-quality, cash-generative discount franchise taking market share. The ÖoB pilot data is genuinely encouraging — Sweden swung from a NOK 41m EBIT loss in Q4 2024 to +NOK 30m in Q4 2025, and if the RESTORE remodelling delivers the upper end of its 10–15% sales uplift across 43 stores, the 2027–28 path to SEK 5bn/5% EBIT becomes highly credible. A 7.1% dividend hike signals management confidence, and the stock trades at 12x 2027e — undemanding if Sweden executes.",
+      "bear_case": "Norway execution was softer than expected in Q4 (higher OpEx, lower sales), and EPS missed consensus by 5–7%. Sweden's 2026 EBIT will be flat vs 2025 as remodelling costs fully offset any uplift. The 2028 upside target appears priced in already, and downside estimate revisions for 2026–27 Norway are probable. Technical signals (multiple sources flag 'strong sell' on moving averages) and the stock being stuck ~12% below a consensus target of NOK 101 with only 3 sell-side analysts covering it adds illiquidity/discovery risk.",
+      "broker_flags": [
+        "Europris is outside Arctic's core energy/shipping/offshore universe — treat all financial model estimates (ARCe) with caution and verify independently",
+        "Currency unit inconsistency: broker states 'SEK 2m temporary sales impact' but CEO explicitly quoted NOK 2m per store — warrants clarification",
+        "Broker characterises the overall report as 'neutral to slightly negative' despite a beat on DPS — the framing appears balanced but the Norway softness risk to 2026–27 estimates may be underweighted",
+        "P/E ladder stated as '19/15/12x 25/26/27e' — this appears reasonable at the time of writing (Jan 29 2026) but the '15x' on 2026e may now be stale given post-Q4 estimate revisions noted by GuruFocus (EPS declining from $6.88 to $6.11 for 2026)",
+        "Note: Løkbakken's email uses 'Snork p/e 15x (HOLD)' — this is colloquial Arctic internal shorthand; the formal consensus rating is BUY from 3 covering analysts"
+      ],
+      "forum_sentiment": "Public Norwegian retail investor sentiment on EPR.OL is cautiously constructive — the dividend hike is well-received but the post-Q4 stock dip of ~4% signals disappointment with Norway execution and earnings miss, with watchers focused on whether RESTORE remodelling delivers in H2 2026.",
+      "insider_read": "No significant insider buying or selling has been reported in the past year — management appears to be holding positions, consistent with confidence in the long-term turnaround narrative but offering no strong directional signal.",
+      "short_interest_read": "Short interest data is not publicly detailed for EPR.OL on Oslo Børs, but technical indicators at multiple sources flag a 'strong sell' signal on moving averages, suggesting momentum-driven selling pressure post Q4 miss rather than fundamental shorting.",
+      "catalyst_note": "Next earnings on 23 April 2026 (Q1 2026) is the key near-term catalyst — Q1 is seasonally the weakest quarter and will be the first to show remodelling disruption costs in Sweden at scale (43-store programme front-loaded into 2026). Any positive Norway LFL surprise or better-than-feared Sweden EBIT would be re-rating triggers. Confirmation of a full-year 2026 dividend above NOK 3.75 would also be positive.",
+      "vs_consensus": "3 analysts, BUY consensus, average target NOK 101.33 (range NOK 95–105), implying ~13% upside from current NOK 89.6. Broker's HOLD-equivalent stance ('Snork 15x') is slightly more cautious than the street. Post-Q4, earnings estimate revisions are tracking negative for 2026 (EPS estimates cut from ~6.88 to ~6.11 according to GuruFocus), which may compress the consensus target over coming weeks.",
+      "recommended_action": "WAIT_FOR_DIPS",
+      "one_line_verdict": "Quality Nordic discount retailer with a credible but slow-burn Sweden story — the Q4 EBIT miss and Norway OpEx creep are mild near-term headwinds, the 2028 upside is largely priced in, and the best risk/reward entry remains on Q1 2026 weakness rather than chasing the post-results bounce.",
+      "_price_at_analysis": 89.6
+    }
+  ],
+  "thread_narrative": "This is a single-stock Q4 2025 results note on Europris (EPR.OL) by Arctic Securities, written outside their core energy/shipping/offshore coverage. The note is internally consistent and factually well-grounded: the revenue, EBIT, gross margin, DPS, and Sweden pilot data all check out against company disclosures and earnings call transcripts. The broker identifies a classic 'neutral to slightly negative' print — a small EBIT miss driven by Norway OpEx, offset by an above-consensus dividend and encouraging early ÖoB pilot data. The framing is balanced: upside from Sweden is a 2027–28 story already in consensus, while Norway softness creates near-term estimate headwinds. One notable imprecision is the currency denomination of the per-store sales disruption figure (SEK 2m vs CEO's stated NOK 2m), though at near-parity exchange rates the materiality is low. The HOLD-equivalent stance ('Snork 15x') is reasonable and consistent with the previous analysis from March 2026.",
+  "thesis_evolution": "STABLE",
+  "urgency_escalation": false,
+  "overall_email_quality": "HIGH",
+  "overall_email_quality_note": "Well-structured, data-dense Q4 note with verified financials, a clear bull/bear framing and an actionable conclusion. Key claims are largely confirmed by earnings call transcripts and company slides. One minor currency unit inconsistency (SEK vs NOK for per-store sales disruption) and the informal 'Snork' P/E shorthand may confuse non-Arctic readers, but do not undermine the analysis. The note is notably more useful than average given it correctly flags that 2028 Sweden targets are consensus-embedded — a nuance many retail investors miss.",
+  "_email_subject": "** EUROPRIS q4 -> Small EBIT miss, DPS above and encouraging signs\r\n from Sweden.  Snork p/e 15x (HOLD)",
+  "_email_date": "Thu, 29 Jan 2026 07:23:43 +0000 (UTC)",
+  "_thread_length": 1,
+  "_analyzed_at": "2026-03-13T10:12:52.108195",
+  "_image_count": 0
+}

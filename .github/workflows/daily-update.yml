@@ -1,0 +1,54 @@
+name: Daily Broker Tracker Update
+
+on:
+  schedule:
+    # 05:00 CET (04:00 UTC in winter, 03:00 UTC in summer)
+    - cron: '0 4 * * *'
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Create .env from secrets
+        run: |
+          cat <<EOF > .env
+          ICLOUD_EMAIL=${{ secrets.ICLOUD_EMAIL }}
+          ICLOUD_APP_PASSWORD=${{ secrets.ICLOUD_APP_PASSWORD }}
+          BROKER_SENDER=${{ secrets.BROKER_SENDER }}
+          BROKER_NAME=${{ secrets.BROKER_NAME }}
+          ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
+          NOTIFY_EMAIL=${{ secrets.NOTIFY_EMAIL }}
+          POLL_INTERVAL_SEC=300
+          THREAD_LOOKBACK_DAYS=7
+          OUTPUT_DIR=./analyses
+          DATA_DIR=./data
+          EOF
+
+      - name: Run broker tracker (new emails + daily reeval)
+        run: python run.py --once --days 14
+        env:
+          PYTHONUNBUFFERED: "1"
+
+      - name: Commit and push updated data + dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ analyses/ dashboard.html
+          git diff --cached --quiet && echo "No changes to commit" || {
+            git commit -m "Daily update $(date -u +%Y-%m-%d)"
+            git push
+          }

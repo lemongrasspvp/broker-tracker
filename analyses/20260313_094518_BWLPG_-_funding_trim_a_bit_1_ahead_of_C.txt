@@ -1,0 +1,64 @@
+════════════════════════════════════════════════════════════════
+  BROKER SIGNAL ANALYSIS
+════════════════════════════════════════════════════════════════
+  Subject:  * BWLPG -> funding? trim a bit 1) ahead of Chinese new year +
+ seasonality pattern 2) deliveries in H2 3) cold US weather also an issue 
+  Date:     Fri, 23 Jan 2026 08:24:18 +0000
+  Context:  single email  +3 image(s) analyzed
+  Analyzed: 2026-03-13T09:45:18.034664
+  Email quality: HIGH — Well-structured, data-rich note from an analyst who is clearly core-coverage on the LPG shipping sector. Claims are specific (EIA production figures, inventory levels, historical rate troughs), supported by proprietary charts (ARB vs TCE for 2021/2024; VLGC rate vs seasonal avg), and the recommendation is appropriately nuanced (trim, not sell). The broker correctly identifies both the bull case buffer (elevated inventories) and the bear case catalysts (seasonality + orderbook), making this a balanced and intellectually honest call. Minor flags: (1) the EV/EBITDA of 39.3x in financial data is anomalously high relative to P/E of 8.6x and warrants verification; (2) the Brent crude macro data showing $97.37/bbl appears stale/erroneous vs. contemporaneous EIA data of ~$67/bbl; (3) no broker track record on this name limits backtesting the quality of the call.
+────────────────────────────────────────────────────────────────
+  ┌─ BWLPG.OL  BW LPG Limited  [INTL]
+  │  Strength:  🤔 MODERATE  (62/10)
+  │  Action:    👀 MONITOR
+  │    Price at analysis: 132.6
+  │
+  │  THESIS:
+  │  Arctic Securities recommends trimming BWLPG/Dorian LPG exposure ahead of a confluence of near-term headwinds: a potential US cold snap compressing the US–Asia LPG arbitrage, Chinese New Year demand seasonality, and an accelerating VLGC orderbook set to hit the water from H2 2026 onward. With BWLPG trading at ~0.9x P/NAV and VLGC rates currently healthy at ~USD 59k/d, the broker sees asymmetric downside risk over the next 3–6 months as supply-demand dynamics deteriorate. The trim call is tactical rather than a fundamental exit, acknowledging that elevated US propane inventories (26–39% above 2025/5yr levels) may cushion rate declines relative to the 2021 and 2024 collapses.
+  │
+  │  KEY CLAIMS:
+  │  ✅ US propane/propylene production for week ending Jan 16 was 2,859 kbd, down 1.1% w-o-w but up 9.8% y-o-y  [EIA weekly data consistent with strong US production trends confirmed by Argus (Jan 2026) and BW LPG Q4 2025 report noting US LPG exports +5% in 2025 y-o-y]
+  │     → Y-o-y production growth figure of ~9.8% is directionally consistent with industry data. Exact weekly figure cannot be independently cross-checked from available sources, but the trend is credible.
+  │  ✅ Propane/propylene inventories at 96.6 mbbls, 26% above 2025 and 39% above 5yr range  [Argus Jan 2026 data confirms US propane stocks ended Dec 2025 at 100.3 mbbls, 27% above 5yr avg; EIA current data (week ending Mar 6, 2026) shows stocks still 53% above 5yr avg, confirming the elevated inventory environment described]
+  │     → The 26%/39% comparisons in the email (for Jan 16 week) are consistent with the trajectory confirmed by multiple independent sources. BW LPG Q4 2025 earnings call independently confirmed US propane inventories ended 2025 at 100 mbbls vs 85 mbbls at end-2024.
+  │  ✅ A cold snap could drive the US ARB negative, as seen in Feb 2021 (rates to ~USD 5.9k/d wk 10) and 2024 (~USD 5.6k/d wk 5)  [Historical VLGC rate chart provided in email; Argus confirms that Mont Belvieu prices jump on cold snaps (Jan 2025 saw 15% MoM jump) which compresses the ARB; seasonal rate decline pattern is well-documented in LPG shipping literature]
+  │     → Rate floor numbers for 2021/2024 cold snap episodes are directionally supported by chart data provided. However, the broker himself notes that 2026 elevated inventories may cushion the decline. Argus data confirms US inventories 33% above 5yr avg as of second week of January 2026, providing the cushion the broker references.
+  │  ✅ Current VLGC rates at ~USD 59k/d  [BW LPG Q4 2025 report shows VLGC rates averaged USD 50,300/day in Q4 2025; Q1 2026 days fixed at ~USD 54,000/day; spot was firming in early 2026 with one vessel reportedly fixed at ~USD 80,000/day for mid-March (Middle East conflict premium). The ~59k/d figure for late January 2026 is plausible within this range.]
+  │     → A Middle East geopolitical premium (Iran-Israel/US war) has materially boosted spot rates in March 2026, making the Jan 2026 ~59k/d figure look relatively conservative in hindsight.
+  │  ✅ BWLPG trading at ~0.9x P/NAV; Dorian at 0.77x P/NAV  [Financial data confirms BWLPG P/B of 1.1x (P/NAV typically slightly below P/B for shipping). Drewry independently rates Dorian as trading at a discount, consistent with 0.77x estimate. BW LPG itself references NAV-based valuation frameworks in corporate filings.]
+  │     → P/NAV differs from P/B; NAV typically uses vessel market values vs. book. The 0.9x P/NAV for BWLPG is plausible given P/B of 1.1x, as vessel market values may exceed book values in current market. Dorian at 0.77x P/NAV implies deeper discount consistent with smaller fleet and less diversified revenue base.
+  │  ✅ VLGC orderbook will hit the water from H2/26 onwards, with net fleet growth accelerating  [BW LPG Q4 2025 report confirms 30 VLGCs scheduled for delivery in remainder of 2026 (8 already delivered YTD). Drewry confirms 98 vessels slated for delivery in 2026 (incl. 21 VLGCs + 10 VLACs). Drewry forecasts fleet growth accelerating to 7% in 2026 and peaking at 16% in 2027.]
+  │     → The email's H2 delivery concentration is confirmed — with 30 remaining 2026 deliveries as of March 2026, a large share are backloaded. Drewry expects this to exert downward pressure averaging ~5% on VLGC TC rates in 2026 to ~USD 40,000/day.
+  │  ✅ Seasonality: VLGC rates tend to slide from Chinese New Year onwards  [The VLGC rate chart provided (2021-25 avg) and the historical 2021/2024 ARB compression episodes all corroborate a Q1 seasonal pattern. Argus notes that 'easing demand from March may trigger declines.']
+  │     → Well-established seasonal pattern in LPG shipping; Chinese New Year demand lull and reduced PDH plant activity post-winter are textbook headwinds. The broker's seasonality argument is sound.
+  │
+  │  🌐 MARKET SENTIMENT:
+  │  No live hegnar.no/forum or shareville.no threads specifically on BWLPG were surfaced in searches; broader Norwegian financial media (Hegnar/Finansavisen) sentiment on shipping names was neutral-to-cautious heading into 2026 given rate cycle concerns, while the subsequent Middle East escalation has shifted short-term sentiment more positively.
+  │
+  │  📊 VS ANALYST CONSENSUS:
+  │  Broker's trim call is directionally contrarian to the 4-analyst consensus BUY with a target of NOK 181.48 (vs. price of NOK 132.6 at time of email), implying ~37% upside per consensus. Arctic's call is not a sell, merely a tactical trim, so it is softer than a full contra-consensus call. The subsequent Q4 2025 results (March 2026) showed Q4 NPAT of USD 123mn and a 100% dividend payout, suggesting BW LPG's fundamentals remained stronger through end-2025 than the trim thesis implied — though the orderbook overhang thesis for H2 2026 remains valid per Drewry.
+  │
+  │  👤 INSIDER ACTIVITY:
+  │  Recent insider activity shows small share sales by CEO Sørensen (1,000 + 1,000 shares on Dec 19-20, 2024) and CFO Xu (2,000 shares on Dec 20, 2024) — modest in size but directionally consistent with the broker's cautious trim recommendation; no insider buying on record in the past 5 transactions.
+  │
+  │  📉 SHORT INTEREST:
+  │  No specific short interest data surfaced for BWLPG.OL; given the stock's 52-week range of NOK 82.55–185.0 and current price of NOK 132.6 (roughly mid-range), short positioning is likely modest but could build if Q1 seasonality plays out as the broker predicts.
+  │
+  │  📅 CATALYST / TIMING:
+  │  Near-term (0–8 weeks from Jan 23): Chinese New Year demand lull + potential US cold snap ARB compression are the primary catalysts for a rate pullback. Medium-term (H2 2026): VLGC delivery surge is the key structural headwind. Upside catalyst: Middle East geopolitical escalation (Iran-Israel/US war, confirmed in Q4 2025 results) is providing unexpected ton-mile support and rate spikes to ~USD 80,000/day in March 2026 — a material development not anticipated in the Jan 23 email. Next earnings: June 2, 2026.
+  │
+  │  🐂 BULL: US propane inventories are 26–39% above historical norms, providing a substantial cushion that may prevent a repeat of the sharp 2021/2024 rate collapses. BW LPG has proactively hedged 40% of 2026 fleet capacity via time charters and FFAs at ~USD 43,700–47,900/day (well above the ~USD 23,400/day breakeven), providing strong earnings visibility. The Middle East geopolitical conflict (Iran-Israel/US war) has introduced unexpected bullish ton-mile demand, with one spot fixture reportedly done at ~USD 80,000/day in March 2026. India's LPG import growth (+10% in 2025; 2mn tons contracted from US for 2026) and Southeast Asian demand (+11%) provide structural demand offsets. Consensus analyst target of ~NOK 181 implies ~37% upside from the Jan 23 price of NOK 132.6, and the 12.5% annualised dividend yield at Q4 2025 levels provides substantial return support.
+  │  🐻 BEAR: The VLGC orderbook surge is structural and undeniable — 30 vessels scheduled for 2026 delivery alone, with fleet growth forecast to accelerate to 7% in 2026 and peak at 16% in 2027. Drewry projects VLGC TC rates falling 5% to ~USD 40,000/day average in 2026, and a cold snap could push Q1 spot rates materially below that. The US–China trade relationship remains fragile (10% residual tariffs on US propane in China), and Chinese PDH plant economics are weak with new capacity facing potential startup delays. US export terminal expansions (Enterprise, Energy Transfer) are adding export capacity through late 2026, further pressuring FOB prices and potentially narrowing the arbitrage. The EV/EBITDA of 39.3x (per financial data provided) appears elevated and inconsistent with P/E of 8.6x — this warrants scrutiny and may reflect segment-level EBITDA issues or data irregularities.
+  │
+  │  🚩 NOTES ON PRESENTATION:
+  │  • TRIM RECOMMENDATION — tactical, not a full sell
+  │  • Dual coverage: Esten Løkbakken + Kristian Barth Skeie (Arctic Securities)
+  │  • Anecdotal sourcing: 'hearing from LPG shipbrokers' — not a hard data point
+  │  • Recommendation applies to both BWLPG and Dorian LPG simultaneously
+  │  • EV/EBITDA of 39.3x in financial data appears anomalously high vs P/E of 8.6x — possible data error or EBITDA compression; analysts should verify
+  │  • Brent crude data shows $97.37/bbl in financial data — materially higher than EIA's reported $67/bbl average for January 2026; the macro data field may be stale or erroneous
+  │  • No previous BWLPG calls on record for this broker — no track record to assess
+  │  • Insider data shows December 2024 sales by Sørensen (CEO) and Xu (CFO) — mildly negative signal though small size
+  │
+  └─ VERDICT: Tactically sound trim call with well-supported seasonal and supply-side logic, but partially offset by unexpectedly strong spot rates in early 2026 (Middle East premium) and BW LPG's proactive hedging — monitor for rate dip post-Chinese New Year as the entry/exit signal.
+════════════════════════════════════════════════════════════════

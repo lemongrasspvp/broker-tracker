@@ -1,0 +1,80 @@
+{
+  "stocks": [
+    {
+      "ticker": "QATAR.INTL",
+      "company_name": "QatarEnergy (State-Owned Enterprise)",
+      "country": "INTL",
+      "is_core_coverage": false,
+      "investment_thesis": "QatarEnergy, the world's largest LNG producer operating 14 trains at Ras Laffan with ~77 MTPA capacity (~20% of global LNG supply), has halted all LNG and downstream production following Iranian drone strikes on its Ras Laffan and Mesaieed facilities on March 2, 2026. The halt has triggered massive gas price spikes globally (TTF +54% intraday, JKM +39%) and a force majeure declaration on all export contracts. Restart is expected to take weeks to months due to the technical complexity of restarting cryogenic LNG trains and ongoing Strait of Hormuz closure risks, creating a structural global gas supply shock with no near-term substitute.",
+      "thesis_strength": "STRONG",
+      "thesis_strength_score": 85,
+      "key_claims": [
+        {
+          "claim": "QatarEnergy has stopped all LNG production across all 14 trains",
+          "assessment": "CREDIBLE",
+          "verified_via": "Al Jazeera (Mar 2), Bloomberg (Mar 2), CNBC (Mar 2), QatarEnergy official statement, Rigzone (Mar 4)",
+          "note": "Confirmed by QatarEnergy's own statement citing 'military attacks on operating facilities in Ras Laffan and Mesaieed.' QatarEnergy's website confirms 14 trains / 77 MTPA capacity. The email slightly overstates by saying 'if the wording suggests' all 14 trains — the official statement confirms a full production cessation, and Rigzone/OilPrice confirm all 14 trains are offline."
+        },
+        {
+          "claim": "QatarEnergy is the world's largest LNG producer, responsible for ~20% of global LNG output",
+          "assessment": "CREDIBLE",
+          "verified_via": "QatarEnergy LNG official website, Bloomberg, Al Jazeera, CNBC, Kpler data cited by multiple outlets",
+          "note": "Confirmed across all major sources. QatarEnergy's own site states 14 trains / 77 MTPA making it the largest LNG producer globally. Multiple sources (Bloomberg, CNBC, Al Jazeera) confirm ~20% of global supply. Note: Al Jazeera notes the US is now the world's largest LNG EXPORTER — Qatar leads as largest single-company/country producer of LNG specifically."
+        },
+        {
+          "claim": "Shutdown triggered by Iranian military attacks",
+          "assessment": "CREDIBLE",
+          "verified_via": "Al Jazeera, CNBC, Qatar Ministry of Defence statement, Bloomberg",
+          "note": "Qatar's Defence Ministry confirmed two Iranian drones struck facilities — one water tank at Mesaieed power plant and one energy facility at Ras Laffan. Iran launched strikes as retaliation for US-Israel operation targeting Iran, reportedly killing Ayatollah Khamenei on February 28, 2026."
+        },
+        {
+          "claim": "Email subject implies this is immediately actionable / bullish for LNG beneficiaries ('uloose')",
+          "assessment": "CREDIBLE",
+          "verified_via": "CNBC: Cheniere +6%, Venture Global +14% on day of announcement; Seeking Alpha quant ratings on LNG stocks; TTF +54% intraday",
+          "note": "Market reaction strongly validates the directional call. However, as a state-owned enterprise, QatarEnergy itself is not publicly traded. The actionable trades flow to competing LNG exporters (Cheniere, Venture Global), LNG shipping (GLNG, FLEX LNG), European gas utilities, and coal as fuel-switch. Broker does not name specific tradeable tickers."
+        },
+        {
+          "claim": "Force majeure declared on LNG exports",
+          "assessment": "CREDIBLE",
+          "verified_via": "Yahoo Finance/OilPrice (Mar 5), Rigzone, Petronet LNG force majeure letter cited in LNG Global aggregator",
+          "note": "QatarEnergy declared force majeure on LNG exports on approximately March 4–5, 2026, releasing it from contractual delivery obligations. Petronet LNG (India) also filed its own force majeure. This is an escalation beyond the initial production halt."
+        },
+        {
+          "claim": "Restart could take weeks to months; entire Ras Laffan plant has never been fully offline before",
+          "assessment": "CREDIBLE",
+          "verified_via": "OilPrice/Yahoo Finance, CNBC (Rapidan Energy), Rystad Energy, Morningstar analyst Adam Baker cited by Rigzone, Qatar energy minister FT comments",
+          "note": "Technical restart complexity confirmed: cryogenic equipment requires slow sequential restart to avoid thermal shock; storage fills in only ~4 days at full production if export vessels cannot leave. Qatar energy minister told FT restart could take 'weeks or even months.' Rystad estimates ~4-5 week full disruption = ~11.2 Mt loss for 2026. LNG expansion project also delayed to 2027 per Bloomberg."
+        }
+      ],
+      "bull_case": "A prolonged outage lasting weeks-to-months creates a historic global gas supply shock — the worst since Russia cut pipeline gas in 2022, and potentially larger. TTF and JKM spot prices could surge far beyond initial moves if the Strait of Hormuz remains contested. US LNG exporters (Cheniere, Venture Global), LNG shipping names (FLEX LNG, Golar LNG), European LNG terminal operators, and coal producers all benefit directly. Goldman Sachs warned European gas prices could surge 130% if Hormuz is closed for a month. Morgan Stanley says a 1-month outage would eliminate the previously-expected 2026 global LNG surplus. Asian fuel-switchers (coal, oil) also benefit.",
+      "bear_case": "QatarEnergy is a state-owned company with no publicly tradeable stock — there is no direct investable vehicle for this thesis as presented. Geopolitical resolution (ceasefire, Hormuz reopening) could be swift and unpredictable, quickly reversing the supply shock. Rystad Energy noted it does not expect long-term price impacts and views the disruption as temporary. Some storage buffers exist in Europe and Asia. US LNG trains are already running near full capacity with little spare volume (~5% additional) to compensate. If the conflict de-escalates rapidly, gas prices could give back gains violently.",
+      "broker_flags": [
+        "QatarEnergy is a state-owned enterprise with no publicly listed equity — no direct tradeable stock identified in the email",
+        "Email lacks specific ticker recommendations or price targets — calls only the macro directional theme ('uloose' = bullish on gas/LNG beneficiaries)",
+        "Very short, informal email with no financial data attached — low analytical depth for a research note",
+        "Outside broker's core Nordic energy/shipping/offshore coverage universe — requires independent verification (completed)",
+        "All key factual claims have been verified and are credible via major news sources",
+        "The email was sent the same day as the event (March 2, 2026) — timeliness is high but actionability for specific tickers is left entirely to the recipient",
+        "No distinction made between direct QatarEnergy exposure vs. second-order beneficiaries (LNG shippers, US exporters, coal)"
+      ],
+      "forum_sentiment": "Seeking Alpha sentiment is strongly bullish on US LNG exporters (Cheniere, Venture Global) and coal names as direct beneficiaries of the Qatar shutdown, with quant ratings highlighting LNG stocks as a key theme; broader market anxiety is elevated given the unprecedented nature of the supply shock.",
+      "insider_read": "Not applicable — QatarEnergy is a state-owned enterprise with no publicly disclosed insider trading data; the actionable second-order names (Cheniere, Venture Global, FLEX LNG) would need separate insider analysis.",
+      "short_interest_read": "Not applicable for QatarEnergy directly; short interest in US natural gas ETFs (UNG, KOLD) likely spiked as bears were squeezed by the 50%+ TTF move, but specific data for individual LNG equities is not available from current search results.",
+      "catalyst_note": "Immediate catalysts: (1) Duration of Strait of Hormuz closure — each additional week offline raises the probability of a multi-month structural deficit; (2) QatarEnergy's formal damage assessment and restart timeline announcement; (3) Geopolitical trajectory of the US-Israel-Iran conflict (Operation Epic Fury); (4) EU gas coordination group emergency response; (5) Whether additional Iranian strikes target the Ras Laffan complex further ('sitting duck' risk per Rapidan Energy). Longer-term: QatarEnergy's North Field expansion has already been delayed to 2027, compounding supply tightness. Watch Polymarket's 'QatarEnergy resumes LNG by March 14' contract for real-time probability signals.",
+      "vs_consensus": "The email's directional call ('uloose' = gas prices spiking, LNG beneficiaries winning) is fully in line with and slightly ahead of consensus — the event was real-time news on March 2 and the price action validated the call immediately. Rystad and Morningstar are more cautious on duration, while Goldman Sachs (130% TTF upside in 1-month Hormuz closure scenario) and Morgan Stanley (global LNG deficit if shutdown lasts a month) skew more extreme. The broker's informal framing understates the scale but is directionally correct.",
+      "recommended_action": "RESEARCH_FURTHER",
+      "one_line_verdict": "The core macro alert is fully verified and credible — this is a genuine historic LNG supply shock — but the email lacks tradeable ticker recommendations; investors should urgently identify second-order beneficiaries (US LNG exporters, LNG shippers, European gas utilities, coal) rather than trying to trade QatarEnergy itself.",
+      "_price_at_analysis": null
+    }
+  ],
+  "thread_narrative": "Esten Løkbakken sent a single, terse, real-time alert on March 2, 2026 — the same day QatarEnergy announced its unprecedented halt of all LNG production following Iranian drone strikes on Ras Laffan and Mesaieed Industrial Cities. The email correctly identifies QatarEnergy as the world's largest LNG producer and correctly contextualizes the scale (~20% of global supply / 14 trains), and the 'uloose' subject line is a directionally accurate bullish call on gas prices and LNG/energy beneficiaries. All key factual claims have been independently verified via Al Jazeera, Bloomberg, CNBC, Rigzone, OilPrice, and QatarEnergy's own official communications. However, the email is purely a macro alert with no specific ticker recommendations, no price targets, no risk framework, and no identification of tradeable instruments — QatarEnergy itself is a state-owned enterprise with no public equity. The actionable investment implications (long Cheniere, Venture Global, FLEX LNG, coal names; long TTF/JKM gas futures; long LNG shipping rates) are left entirely implicit. A force majeure was declared on approximately March 4–5, escalating the situation further. As of March 13, 2026, the Ras Laffan complex remains offline with restart expected to take weeks-to-months, the Hormuz Strait remains contested, and QatarEnergy has pushed its North Field expansion to 2027.",
+  "thesis_evolution": "N/A",
+  "urgency_escalation": true,
+  "overall_email_quality": "LOW",
+  "overall_email_quality_note": "The directional macro call is timely, correct, and backed by a genuinely historic supply disruption — credit for real-time situational awareness. However, the email is extremely thin: no tradeable tickers, no price targets, no risk/reward framework, no financial data, no distinction between direct and second-order plays, and no identification of the fact that QatarEnergy is not publicly listed. The informal tone ('uloose', a single truncated sentence with an image attachment) falls well below the standard expected of actionable investment research, particularly for a broker operating outside their core Nordic coverage universe. The quality of the underlying news event is HIGH; the quality of the research communication around it is LOW.",
+  "_email_subject": "QATARENERGY TO STOP PRODUCTION OF LNG = uloose",
+  "_email_date": "Mon, 02 Mar 2026 12:14:32 +0000 (UTC)",
+  "_thread_length": 1,
+  "_analyzed_at": "2026-03-13T20:43:00.161548",
+  "_image_count": 0
+}

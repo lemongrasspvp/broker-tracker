@@ -1,0 +1,69 @@
+════════════════════════════════════════════════════════════════
+  BROKER SIGNAL ANALYSIS
+════════════════════════════════════════════════════════════════
+  Subject:  ** ZALARIS -> done deal at 100!
+  Date:     Fri, 13 Mar 2026 06:40:50 +0000 (UTC)
+  Context:  single email
+  Analyzed: 2026-03-13T21:30:44.468779
+  Email quality: HIGH — Løkbakken's note is concise, accurate, and timely — all core financial terms (price, premium, advisors, deal structure, rollover mechanics) have been fully verified. The only material gap is the failure to flag the active Økokrim insider-trading investigation directly touching the Offeror's financial advisor, Arctic Securities, and a pre-bid Zalaris share purchase by a charged investor — a risk that any senior analyst covering this name must immediately assess for deal-completion and reputational implications.
+────────────────────────────────────────────────────────────────
+  ┌─ ZAL.OL  Zalaris ASA  [NO]
+  │  Strength:  💪 STRONG  (82/10)
+  │  Action:    👀 MONITOR
+  │    Price at analysis: 98.0
+  │   ⚠️ OUTSIDE CORE COVERAGE — verify independently
+  │
+  │  THESIS:
+  │  Zalaris is a Norwegian HCM/payroll SaaS provider with a credible growth trajectory underpinned by long-term recurring contracts and a major NAV public-sector win. The investment thesis is now definitively event-driven: Norvestor IX (via Kona BidCo) has launched a recommended voluntary cash tender offer at NOK 100/share, valuing the company at ~NOK 2.2bn. The upside for new buyers is capped at ~2% vs. current market price of NOK 98, pending deal close in May 2026.
+  │
+  │  KEY CLAIMS:
+  │  ✅ Norvestor/Kona BidCo has agreed a recommended voluntary cash tender offer at NOK 100/share  [MarketScreener (13 Mar 2026), Finansavisen (13 Mar 2026), E24 (13 Mar 2026), Law360 (13 Mar 2026), official Zalaris company announcement]
+  │     → Fully corroborated across all major Norwegian financial media and international wire. Board unanimously recommends acceptance after ABG Sundal Collier fairness opinion.
+  │  ✅ Offer Price of NOK 100 represents a 40.1% premium to the 12 March 2026 closing price and 31.9% to 30-day VWAP  [MarketScreener, Finansavisen, E24 — all cite identical figures matching the official announcement]
+  │     → The 12 March closing price confirmed at NOK 71.40. Premium calculations are consistent across all sources.
+  │  ✅ Aggregate equity purchase price of approximately NOK 2.2 billion  [Law360, MarketScreener, E24, Finansavisen — all confirm ~NOK 2.2bn (~$226m USD)]
+  │     → Consistent across all verified sources.
+  │  ✅ Shareholders representing ~17.1% of shares have provided pre-acceptances; total ~30.9% secured including management rollover  [MarketScreener, Finansavisen (32-6), Investornytt (33-9/33-11)]
+  │     → Multiple sources confirm pre-acceptance at 17.1% from external shareholders plus management rollover bringing committed total to ~30.9%. Named rollover shareholders include CEO Hans-Petter Mellerud, CFO Gunnar Manum and other senior executives.
+  │  ✅ Offer conditional on >90% acceptance and regulatory approvals; expected to close May 2026  [Investornytt (33-1/33-2), MarketScreener (1-14), E24 (35-17)]
+  │     → Acceptance period expected to open mid-April following Finanstilsynet approval.
+  │  ✅ ABG Sundal Collier is financial advisor to Zalaris; Arctic Securities is financial advisor to Offeror  [Official announcement text, Finansavisen (32-11), Investornytt (33-25)]
+  │     → Confirmed. However, Arctic Securities is simultaneously embroiled in a live Økokrim insider-trading investigation — an Arctic employee was arrested on 10 March 2026 (days before this bid) and the same insider-charged investor bought Zalaris shares shortly before the announcement. Ongoing investigation; both suspects deny wrongdoing.
+  │  ✅ The proposed 2025 dividend (NOK 2.50/share per E24) will not be paid as a result of the transaction  [E24 (35-1), Finansavisen (32-3 / 12-17/18), Investornytt (33-8)]
+  │     → Confirmed — dividend cancellation is an explicit condition of the Transaction Agreement. Investors should net the lost dividend (~NOK 2.50) against the NOK 100 bid price when assessing total returns.
+  │  ✅ Zalaris Q4 2025 revenue was record-high at NOK 396m; full-year revenue NOK 1.5bn with 12.9% adj. EBIT margin  [Cision/Zalaris official release (6-4/6-5/6-6), MarketScreener Q4 2025 presentation]
+  │     → Confirmed by company's own reporting published 26 Feb 2026.
+  │  ✅ Zalaris won NAV contract to modernise payroll/HR for ~24,000 employees  [Official Zalaris announcement (60-1/60-2), TradingView news (60-5), Reuters newswire Jan 2026]
+  │     → Five-year contract (extendable to 10 years), full rollout planned by 1 September 2027. Confirmed.
+  │  ✅ Arctic Securities financial advisor to the Offeror; an Arctic employee was arrested by Økokrim just days before the bid for insider trading in multiple stocks  [Finansavisen (48-11), E24 (49-4/49-5), DN/Investornytt (42-1/42-3), NRK (44-1)]
+  │     → MATERIAL RISK FLAG: An Arctic Securities employee was arrested 10 March 2026 and charged with gross corruption and insider trading in multiple listed companies. A connected investor from Kristiansand purchased Zalaris shares shortly before the bid announcement. Arctic is the financial advisor to bidder Kona BidCo. Økokrim has confirmed it will investigate this specific angle. Both suspects deny charges. This creates reputational and potential deal-integrity risk, though the bid itself appears separately structured and board-supported.
+  │
+  │  🌐 MARKET SENTIMENT:
+  │  Shareville/Nordnet community commentary (visible via Nordnet's ZAL page) reflects pre-announcement mixed-to-cautious sentiment on Q4 earnings quality — notably scepticism about net income disclosure — but the 13 March bid announcement generated strong volume and sharp upward price action, suggesting broadly positive market reception to the offer.
+  │
+  │  📊 VS ANALYST CONSENSUS:
+  │  Prior analyst consensus (TradingView) showed a max estimate of NOK 115 and min of NOK 105 — both above the NOK 100 bid price — suggesting the market viewed Zalaris as worth more than the bid on fundamentals. The bid partially validates the bullish thesis but likely undervalues the company relative to its NOK 2bn/2028 revenue trajectory with 13-15% EBIT margins.
+  │
+  │  👤 INSIDER ACTIVITY:
+  │  CEO Hans-Petter Mellerud, CFO Gunnar Manum, and multiple senior executives are rolling over their equity stakes into the new Norvestor-owned structure — a clear bullish alignment signal — while separately an Økokrim-charged investor from Kristiansand purchased Zalaris shares via Arctic Securities just days before the bid, constituting a serious ongoing insider-trading investigation.
+  │
+  │  📉 SHORT INTEREST:
+  │  No current short-interest data available from web search; given the stock has been range-bound below NOK 90 prior to the bid and is now pinned near NOK 98 in arb mode, any meaningful short position would be squeezed — residual short interest is likely minimal post-announcement.
+  │
+  │  📅 CATALYST / TIMING:
+  │  IMMEDIATE: Acceptance period expected to open mid-April 2026 after Finanstilsynet approval; transaction targeted to close May 2026. Key watch items: (1) whether Økokrim investigation escalates and threatens deal integrity; (2) any competing or bump bid (the board break-fee of €1m is low, allowing a fiduciary out for a genuinely superior offer); (3) whether Arctic Securities TP of NOK 115 attracts activist/holdout shareholders demanding a higher price; (4) progress toward the 90%+ acceptance threshold.
+  │
+  │  🐂 BULL: Deal is fully recommended by a unanimous board with a fairness opinion from ABG Sundal Collier. ~30.9% of shares already committed. Acceptance period opens mid-April with May 2026 close target. Stock currently trades at NOK 98, implying ~2% spread to NOK 100 — low-risk arb for deal-close holders. Underlying business is fundamentally strong: record Q4 revenue, NAV contract win, and NOK 2bn 2028 revenue target all underscore strategic value. Norvestor is a credible Nordic PE with deep mid-market experience (75 investments, 300+ M&A follow-ons). CEO and senior management rolling over is a strong alignment signal.
+  │  🐻 BEAR: The Økokrim/Arctic Securities insider trading investigation directly touches this deal's financial advisor and a named suspect bought Zalaris shares just before announcement — this could cloud deal completion or trigger regulatory scrutiny of the process. The 90%+ acceptance threshold is a real hurdle; minority holdout investors speculating on a bump could impede completion. No competing bid has emerged and the board has a break-fee provision (up to €1m) limiting switching. The offer price of NOK 100 is below Arctic's own pre-existing buy target of NOK 115, potentially emboldening holdouts. The cancelled NOK 2.50 dividend reduces total shareholder proceeds. Deal risk: deal does not close until May 2026 at earliest.
+  │
+  │  🚩 NOTES ON PRESENTATION:
+  │  • OUT-OF-UNIVERSE: Zalaris is an HR-tech/industrials name — outside broker's core Nordic energy/shipping/offshore coverage; treat as supplementary, not primary, research
+  │  • INSIDER TRADING SHADOW: Arctic Securities (financial advisor to the Offeror, Kona BidCo) has an employee arrested by Økokrim on 10 March 2026 for insider trading in multiple Oslo Børs stocks; a linked investor bought Zalaris shares just before this bid; Økokrim investigating
+  │  • BELOW ARCTIC TP: The NOK 100 bid is below Arctic Securities' own reported buy target of NOK 115 — intellectually validates the thesis but leaves value on the table for public shareholders
+  │  • DIVIDEND CANCELLED: The previously communicated NOK 2.50/share 2025 dividend will not be paid as a condition of the deal — effective all-in consideration is closer to NOK 97.50 vs. pre-announcement hold
+  │  • DEAL ARB DYNAMICS: With stock at NOK 98 and bid at NOK 100, new buyers are in pure arb territory (~2% gross spread); risk/reward is only attractive if a bump or competing bid materialises
+  │
+  └─ VERDICT: Done deal at NOK 100 is real, board-endorsed, and largely de-risked — tender your shares unless you are specifically betting on a bid bump or competing offer materialising above NOK 100, while staying alert to the Arctic Securities/Økokrim insider-trading shadow hanging over the deal process.
+
+  🚨 WARNING: Urgency escalating across emails — possible pressure tactic
+════════════════════════════════════════════════════════════════

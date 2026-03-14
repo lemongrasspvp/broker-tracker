@@ -1,0 +1,78 @@
+{
+  "stocks": [
+    {
+      "ticker": "NHY.OL",
+      "company_name": "Norsk Hydro ASA",
+      "country": "NO",
+      "is_core_coverage": true,
+      "investment_thesis": "Norsk Hydro is a core Nordic aluminium and energy play with a HOLD rating and TP NOK 76 from Arctic Securities. The email flags negative peer read-through from Alcoa's Morgan Stanley downgrade and Century Aluminium's sell-off on its Oklahoma JV news, both of which could pressure NHY near-term despite constructive aluminium spot prices. As of the email date (27 Jan 2026), NHY was trading around NOK 95, well above the broker's NOK 76 TP and the consensus target of NOK 87.5, making the risk/reward asymmetric to the downside.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 5,
+      "key_claims": [
+        {
+          "claim": "Alcoa was down 5.9% on 27 Jan 2026, Morgan Stanley downgraded to Equal Weight with TP raised to USD 64 from USD 52, citing more balanced risk/reward after outperformance",
+          "assessment": "CREDIBLE",
+          "verified_via": "StreetInsider, Yahoo Finance, Investing.com, Seeking Alpha (Jan 27 2026)",
+          "note": "Confirmed: Morgan Stanley downgraded Alcoa from Overweight to Equal Weight on Jan 27 2026, raising TP to $64 from $52. Seeking Alpha noted AA was +1.6% intraday on the downgrade day — broker says -5.9% which may reflect a different session/timing window vs. prior close. Intraday data shows the stock was briefly positive; the -5.9% figure may be stale or measured vs. an earlier reference price."
+        },
+        {
+          "claim": "Century Aluminium was down 7.4% on news of a JDA with EGA to build the first new US primary aluminium plant since 1980, in Oklahoma, 750,000t capacity, EGA 60% / Century 40%",
+          "assessment": "CREDIBLE",
+          "verified_via": "Century Aluminum press release (Jan 26 2026), Oklahoma Dept of Commerce, StockTitan (CENX -7.39% on announcement day)",
+          "note": "Fully confirmed. The JDA was announced Jan 26 2026. CENX fell 7.39% on the day per StockTitan. Plant is in Inola, Oklahoma (not just 'Oklahoma' generically), 750,000t/yr, EGA 60% / Century 40%, construction end-2026, production by end of decade."
+        },
+        {
+          "claim": "Aluminium was up 0.8% to USD 3,199/t on 27 Jan 2026",
+          "assessment": "CREDIBLE",
+          "verified_via": "LME data (Jan 27 2026 page confirmed active), TradingEconomics aluminium history",
+          "note": "Aluminium hit a 3-year high of ~$3,270/t on Jan 28 2026 per TradingEconomics, consistent with a ~$3,199/t level on Jan 27. The 0.8% daily move is plausible and broadly consistent with reported trajectory."
+        },
+        {
+          "claim": "Copper was up 2.1% to USD 13,194/t on 27 Jan 2026",
+          "assessment": "CREDIBLE",
+          "verified_via": "Fastmarkets base metals update, mining.com Jan 2026 coverage",
+          "note": "Fastmarkets noted copper hit record $13,270/t in early 2026 and mining.com confirmed copper above $13,000/t in the bullish January run. A Jan 27 price of $13,194 is internally consistent with reported data."
+        },
+        {
+          "claim": "41% of analysts covering Alcoa rate Buy, 35% Hold, 24% Sell, average TP USD 60, 2.5% above current price",
+          "assessment": "QUESTIONABLE",
+          "verified_via": "Public.com (Mar 2026), Benzinga (Jan 2026), MarketBeat (Mar 2026)",
+          "note": "Current consensus data (Mar 2026) shows a much lower average TP (~$43-47) for Alcoa and a Hold consensus. As of Jan 27, the stock was ~$58-64, so a $60 average TP with 2.5% upside is plausible for that date. However, the Buy/Hold/Sell breakdown (41/35/24) cannot be independently confirmed for that precise date — current data shows different splits. The claim was likely accurate on the email date but cannot be pinpointed exactly."
+        },
+        {
+          "claim": "NHY Hold rating, TP NOK 76 from Arctic/Esten Løkbakken",
+          "assessment": "CREDIBLE",
+          "verified_via": "Financial data provided, CNBC/TipRanks analyst tracker",
+          "note": "Broker's own stated position. NHY consensus TP from provided data is NOK 87.5 (16 analysts), so Arctic's NOK 76 TP is below consensus and well below current price of ~NOK 95. JPMorgan raised TP to NOK 103 (Mar 9 2026) and Danske Bank upgraded to Hold from Sell (Mar 9 2026), suggesting the consensus has moved higher post-email."
+        }
+      ],
+      "bull_case": "LME aluminium is in a sustained bull run — up 18.5% in 2025 and entering 2026 above $3,000/t with Fastmarkets forecasting further gains and a market deficit. NHY trades at a compressed EV/EBITDA of ~4.1x vs. historical ~5.5x, and its internal power generation and NOK 6.5bn improvement programme (tracking ahead of plan) provide structural earnings support. A weakening NOK/USD is also accretive to NOK-reported results. JPMorgan raised its TP to NOK 103 in March 2026, suggesting upside potential if aluminium holds.",
+      "bear_case": "NHY is already trading above both broker TP (NOK 76) and consensus TP (NOK 87.5) at ~NOK 95+, implying stretched valuation. The Alcoa downgrade signals peer outperformance fatigue and a more balanced risk/reward across the sector. Century Aluminium's new 750,000t Oklahoma smelter (EGA JV) — if completed — would increase US supply significantly, pressuring global aluminium prices structurally by end of decade. Near-term, weak extrusion demand, a disappointing 2025 dividend, and high P/E (28x trailing) limit near-term re-rating. Seeking Alpha noted an exit at 88-90 NOK looks reasonable given risk/reward.",
+      "broker_flags": [
+        "TP NOK 76 is 20%+ below current price (~NOK 95-97) — broker appears significantly behind the stock",
+        "Email is primarily a peer-read note, not a fresh NHY initiation or update — no new NHY-specific catalyst provided",
+        "Morgan Stanley Alcoa downgrade cited as negative read-through, but Alcoa was reportedly UP 1.6% intraday on that downgrade day (Seeking Alpha), weakening the bear case",
+        "Broker does not explicitly update or revise TP/rating in this email despite stock being materially above stated levels",
+        "Century Aluminium plant location is Inola, Oklahoma — described only as 'Oklahoma' in the email, which is factually acceptable but imprecise"
+      ],
+      "forum_sentiment": "Hegnar.no and broader online sentiment on NHY reflects constructive long-term views on aluminium prices supporting the stock, though retail investors note the disconnect between high aluminium prices and NHY's recent underperformance vs. sector peers.",
+      "insider_read": "No insider trading activity flagged in available sources for NHY around this period; no material insider buy/sell disclosures identified via web search.",
+      "short_interest_read": "No elevated short interest signals identified for NHY.OL in the available data; stock's low weekly volatility (~3%) suggests no unusual short-side pressure.",
+      "catalyst_note": "Next key catalyst is Q1 2026 earnings on 29 April 2026. Aluminium price trajectory (currently elevated at ~$3,100-3,200/t), NOK/USD movements, and any update on Hydro's cost-reduction programme (targeting NOK 1bn savings from 2026) will be the primary drivers. The Century/EGA Oklahoma smelter is a long-dated (end-of-decade) supply risk — not a near-term catalyst.",
+      "vs_consensus": "NHY is trading at NOK 95-97, approximately 9-11% above the consensus TP of NOK 87.5 (16 analysts) and 25%+ above Arctic's own NOK 76 TP. JPMorgan raised its TP to NOK 103 in March 2026, and Danske Bank upgraded to Hold from Sell, suggesting the consensus is drifting upward. The stock's Fwd P/E of 12.3x and EV/EBITDA of 4.1x remain undemanding if aluminium holds above $3,000/t.",
+      "recommended_action": "MONITOR",
+      "one_line_verdict": "NHY's peer read-through is mildly negative but aluminium fundamentals remain constructive; stock is above both broker TP and consensus — hold existing positions and monitor Q1 earnings (Apr 29) before adding exposure.",
+      "_price_at_analysis": 95.38
+    }
+  ],
+  "thread_narrative": "This is a single-email peer-monitoring note from Arctic Securities' Esten Løkbakken, flagging two negative US aluminium sector developments on 27 January 2026: (1) Morgan Stanley's downgrade of Alcoa to Equal Weight (TP raised to $64 from $52) citing outperformance and balanced risk/reward, and (2) Century Aluminium's -7.4% sell-off on its JDA with EGA to build a 750,000t Oklahoma smelter — the first new US primary aluminium plant since 1980. Both are presented as potential negative read-throughs for NHY. Aluminium and copper spot prices were both positive on the day, partially offsetting the peer pressure. The note is informational in nature and does not update the existing HOLD/TP76 stance on NHY. With NHY trading ~95-97 NOK at time of analysis — well above both the broker's 76 NOK TP and consensus 87.5 NOK — the thesis remains in tension with current price action.",
+  "thesis_evolution": "STABLE",
+  "urgency_escalation": false,
+  "overall_email_quality": "MEDIUM",
+  "overall_email_quality_note": "The email is factually well-grounded — key claims on the Morgan Stanley Alcoa downgrade and the Century/EGA JDA are fully verified via primary sources. Commodity price levels cited (aluminium $3,199/t, copper $13,194/t) are consistent with reported January 2026 data. However, the note's value to NHY investors is limited: it offers no updated TP or rating revision despite NHY trading ~25% above broker TP, no NHY-specific fundamental analysis, and the Alcoa sell-off figure (-5.9%) appears inconsistent with Seeking Alpha's report of AA being up 1.6% intraday on the downgrade day. The broker's own HOLD/TP76 is significantly stale relative to current price, which is the most important gap in this communication.",
+  "_email_subject": "**NORSK HYDRO (HOLD og TP76) -> peers trading down last night",
+  "_email_date": "Tue, 27 Jan 2026 07:35:38 +0000",
+  "_thread_length": 1,
+  "_analyzed_at": "2026-03-13T09:58:49.846971",
+  "_image_count": 1
+}

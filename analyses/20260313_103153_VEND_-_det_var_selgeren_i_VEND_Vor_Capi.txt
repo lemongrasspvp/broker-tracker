@@ -1,0 +1,57 @@
+════════════════════════════════════════════════════════════════
+  BROKER SIGNAL ANALYSIS
+════════════════════════════════════════════════════════════════
+  Subject:  ** VEND -> det var selgeren i VEND. Vor Capital flagger under 5%.
+  Date:     Fri, 30 Jan 2026 13:16:51 +0000 (UTC)
+  Context:  single email
+  Analyzed: 2026-03-13T10:31:53.536096
+  Email quality: LOW — The email is a raw news relay (NewswWeb link forward) with zero analytical commentary beyond the subject line — no price target, no recommendation, no sizing guidance, and no context on Vor Capital's historical position size or conviction level. While the underlying event (sub-5% flagging) is a legitimate and verifiable regulatory disclosure, the broker adds no value-added interpretation, and this is further compounded by VEND being outside the broker's stated coverage universe. The score inconsistency in prior analyses (a '30/10' score) also raises data integrity concerns. Useful as a news alert, but not as investment-grade research.
+────────────────────────────────────────────────────────────────
+  ┌─ VEND.OL  Vend Marketplaces ASA  [NO]
+  │  Strength:  ⚠️ WEAK  (3/10)
+  │  Action:    👀 MONITOR
+  │    Price at analysis: 261.6
+  │   ⚠️ OUTSIDE CORE COVERAGE — verify independently
+  │
+  │  THESIS:
+  │  Vend Marketplaces (formerly Schibsted ASA) is the dominant Nordic digital marketplace operator running FINN.no, Blocket, and adjacent platforms, now repositioned as a pure-play marketplace after a series of portfolio disposals. A confirmed NOK 4.5bn capital return programme (combining Lendo/Mittanbud/Adevinta Spain proceeds) is the near-term re-rating catalyst, partly offset by the binary overhang of an NCA dawn-raid investigation at subsidiary Nettbil. At 261.6 NOK vs. consensus target of 325.25 NOK, the stock trades at a ~19% discount to analyst fair value, though the HOLD consensus and ongoing regulatory uncertainty limit actionability.
+  │
+  │  KEY CLAIMS:
+  │  ✅ Vor Capital flagged below 5% in VEND  [NewswWeb filing referenced in email (oslobors.no/message/664544); consistent with the pattern of active institutional ownership changes in VEND during Jan-Feb 2026]
+  │     → No direct third-party news source confirmed the Vor Capital sub-5% filing in search results, but the NewswWeb URL is a credible regulatory disclosure source and the claim is internally consistent with known ownership dynamics. Vor Capital is a marketplace-specialist investor and their exit is a mild negative signal on specialist conviction.
+  │  ✅ NOK 4.5bn capital return to shareholders from Q1 2026 asset sales  [Vend IR press release (vend.com), TipRanks, MarketScreener, TradingView — multiple independent sources confirm NOK 4.5bn from Lendo, Mittanbud and Adevinta Spain exits in Q1 2026]
+  │     → Vend's own CFO confirmed a NOK 2bn buyback programme already in execution (NOK 1.5bn repurchased to date as of early March 2026), with remaining proceeds to be returned; the NOK 4.5bn figure is fully corroborated.
+  │  ✅ NCA conducted a dawn raid / unannounced inspection at Nettbil (illegal cooperation investigation)  [Vend official press release (January 29 2026), TradingView, AIM Group, TipRanks — all confirm NCA inspections at Nettbil premises on 29 Jan 2026]
+  │     → Vend confirmed the NCA inspected Nettbil only, NOT FINN. Scope and potential penalties remain undisclosed — this is a binary regulatory risk. Historical context: the NCA previously sought to block Schibsted's acquisition of Nettbil in 2020, though the Supreme Court ruled in Schibsted's favour in 2023.
+  │  ❓ Nettbil generated NOK 51m EBITDA at 19% margin  [Not independently confirmed in public Q4 2025 results; Q4 2025 Mobility segment EBITDA was NOK 336m at 54% margin (group level). Nettbil-specific segmentation not publicly broken out.]
+  │     → The broker's claim of NOK 51m EBITDA/19% margin for Nettbil specifically cannot be verified from public filings. Q4 transactional revenues grew 23% YoY driven by Nettbil per Vend's Q4 2025 report, which is broadly supportive but does not confirm the specific EBITDA figure.
+  │  ✅ Price at 19% discount to consensus target of 325.25 NOK  [Investing.com/MarketScreener confirm consensus target of 325.25 NOK; price of 261.6 NOK implies ~19.5% upside — mathematically consistent]
+  │     → 12 analysts covering with HOLD consensus; range 258–417 NOK. The low end of the range (258 NOK) is near current price, indicating some analysts already see limited downside protection.
+  │
+  │  🌐 MARKET SENTIMENT:
+  │  No direct r/Norway finance, Shareville, or Hegnar forum data retrieved for VEND in this search cycle; broader market tone on VEND appears cautiously constructive on capital return execution but wary of NCA risk based on financial press coverage.
+  │
+  │  📊 VS ANALYST CONSENSUS:
+  │  Trading at 261.6 NOK vs. 325.25 NOK consensus target (~19% upside); HOLD consensus from 12 analysts with low-end target of 258 NOK offering minimal downside buffer. The gap to target is attractive on paper but the HOLD consensus suggests most analysts are already incorporating both the capital return catalyst and the NCA risk into their models.
+  │
+  │  👤 INSIDER ACTIVITY:
+  │  Management is actively executing the NOK 2bn buyback programme (NOK 1.5bn repurchased as of early March 2026), which constitutes a strong insider-aligned capital return signal, though Vor Capital's flagging below 5% represents a notable specialist institutional exit.
+  │
+  │  📉 SHORT INTEREST:
+  │  No specific short interest data retrieved for VEND.OL; with the stock -6.7% YTD and sitting near the lower end of analyst target range (low target: 258 NOK vs. current 261.6 NOK), some short pressure or at minimum low buyer conviction is evident.
+  │
+  │  📅 CATALYST / TIMING:
+  │  Key near-term catalysts: (1) Q1 2026 full-year earnings release on 2026-04-30 — watch for Nettbil EBITDA disclosure and NCA update; (2) announcement of capital return structure beyond the existing NOK 2bn buyback (NOK 3.2bn from Adevinta Spain still to be returned per structure TBD); (3) any NCA announcement on the scope or outcome of the Nettbil investigation. The Adevinta stake (14% in remaining Permira-controlled entity) is a medium-term optionality via Mobile.de IPO/sale.
+  │
+  │  🐂 BULL: NOK 4.5bn confirmed capital return (buyback programme already executing at NOK ~1.5bn repurchased) provides a hard near-term earnings-per-share uplift and signals management confidence. Vend dominates Nordic online classifieds with >80% reach in Norway/Sweden and #1 positions across all four core verticals. Q4 2025 EBITDA up 53% YoY; Mobility margin at 54%. At Fwd P/E 26.6x and ~19% discount to consensus, re-rating potential is meaningful if NCA investigation resolves favourably.
+  │  🐻 BEAR: NCA investigation at Nettbil is a binary regulatory overhang with no scope or timeline disclosed — Vend has history of drawn-out NCA proceedings (the acquisition dispute took 3 years to reach Supreme Court). Vor Capital's exit below 5% removes a marketplace-specialist anchor investor whose conviction was a positive signal. Stock is -6.7% YTD and has missed consensus targets historically. The Fwd P/E of 26.6x and EV/EBITDA of 26.4x leave limited valuation cushion if EBITDA growth decelerates or investigation escalates to FINN.
+  │
+  │  🚩 NOTES ON PRESENTATION:
+  │  • VEND is outside broker Esten Løkbakken's core Nordic energy/shipping/offshore coverage universe — structural competency gap on internet/marketplace names
+  │  • Score inconsistency in prior analyses (e.g., '30/10' score is an apparent data entry error, not a valid score)
+  │  • Broker has not issued a formal BUY/SELL/HOLD recommendation on VEND in any of the tracked analyses — all verdicts are process signals (MONITOR/RESEARCH_FURTHER), limiting actionability
+  │  • Prior track record note flags 'missed calls' on VEND — broker's own caveat on reliability
+  │  • Nettbil-specific EBITDA claim (NOK 51m / 19% margin) is unverifiable from public sources and may be from a non-public channel
+  │
+  └─ VERDICT: Vor Capital's exit is a mild incremental negative on top of the existing NCA investigation overhang, but the verified NOK 4.5bn capital return (already in active execution) and ~19% discount to consensus keep VEND on active MONITOR — outside broker's competency universe and NCA binary risk preclude upgrading to actionable.
+════════════════════════════════════════════════════════════════
