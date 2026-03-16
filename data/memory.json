@@ -133,6 +133,15 @@
       "action": null,
       "verdict": "STABLE — Near 52w high, UP momentum, but long-cycle story with no new catalysts. 4x STABLE streak continues.",
       "price_at_analysis": 148.9
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak continues; price near top of range, no new catalysts, long-cycle story unchanged.",
+      "price_at_analysis": 148.9
     }
   ],
   "BOL.SS": [
@@ -233,6 +242,15 @@
       "action": null,
       "verdict": "WEAKENING — No price data, M&A catalyst collapsed, stock above targets, 4x WEAKENING streak. Thesis fully broken.",
       "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 5x WEAKENING streak, M&A catalyst collapsed, no price data, no target, trading above consensus.",
+      "price_at_analysis": null
     }
   ],
   "LUMI.SS": [
@@ -332,6 +350,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — No price data or new information. Thin thesis unchanged. 4x STABLE streak continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data, no target, thin thesis unchanged. 5x STABLE streak continues.",
       "price_at_analysis": null
     }
   ],
@@ -560,6 +587,15 @@
       "action": null,
       "verdict": "WEAKENING — Price now above analyst target of $189.6, P/E stretched at 29.7x, YTD +27.5%. 4x WEAKENING streak, thesis eroded.",
       "price_at_analysis": 196.82
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 5x WEAKENING streak; price above analyst target of 189.6, valuation stretched, prev signal TAKE_PROFIT still valid.",
+      "price_at_analysis": 196.82
     }
   ],
   "COP": [
@@ -726,6 +762,15 @@
       "action": null,
       "verdict": "WEAKENING — Price $30.18 vs rec $291 — likely currency/split distortion. Momentum DOWN, was STRENGTHENING. Shift detected.",
       "price_at_analysis": 30.18
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Price appears to reflect stock split; current 30.18 vs 291 entry likely split-adjusted. Momentum DOWN, near support.",
+      "price_at_analysis": 30.18
     }
   ],
   "DHT": [
@@ -841,6 +886,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — DOWN momentum, still below $19.44 target, YTD +47%. No material change. 4x STABLE streak continues.",
+      "price_at_analysis": 16.85
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak; price 16.85 below target 19.44, +47% YTD but momentum turning DOWN.",
       "price_at_analysis": 16.85
     }
   ],
@@ -958,6 +1012,15 @@
       "action": null,
       "verdict": "STABLE — DOWN momentum, below target, score only 6. Insider selling caution remains. 4x STABLE streak continues.",
       "price_at_analysis": 65.91
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak; price 65.91 below target 75.2, momentum DOWN, insider selling caution persists.",
+      "price_at_analysis": 65.91
     }
   ],
   "HAL": [
@@ -1066,6 +1129,15 @@
       "action": null,
       "verdict": "WEAKENING — Down 6.2% from rec, momentum DOWN, near analyst target with no edge. 4x STABLE now shifting on price action.",
       "price_at_analysis": 33.69
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Price -6.2% from entry, momentum DOWN, near analyst target, low score 30/10. Thesis not strengthening.",
+      "price_at_analysis": 33.69
     }
   ],
   "SLB": [
@@ -1173,6 +1245,15 @@
       "score": null,
       "action": null,
       "verdict": "WEAKENING — Down 7.2% from rec, momentum DOWN, Q1 warning stands. 2x WEAKENING streak extending, approaching 10% loss threshold.",
+      "price_at_analysis": 44.72
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 3x WEAKENING streak; -7.2% from entry, momentum DOWN, Q1 warning outstanding, approaching 10% loss threshold.",
       "price_at_analysis": 44.72
     }
   ],
@@ -1300,6 +1381,15 @@
       "action": null,
       "verdict": "STABLE — Down 7.6% from rec, momentum DOWN, but not yet at 10% threshold. Score low at 6. No signal change.",
       "price_at_analysis": 43.86
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — -7.6% from entry, momentum DOWN, but 5x STABLE streak and score low. Not yet breaking thesis.",
+      "price_at_analysis": 43.86
     }
   ],
   "BRUT.OL": [
@@ -1400,6 +1490,15 @@
       "action": null,
       "verdict": "STABLE — Score 4/10, momentum DOWN, insufficient thesis detail. Below target but low conviction. 4x STABLE continues.",
       "price_at_analysis": 51.5
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak; insufficient info remains, price well below 52w high, momentum DOWN.",
+      "price_at_analysis": 51.5
     }
   ],
   "BRUT": [
@@ -1434,6 +1533,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — No price data. Pre-revenue, illiquid. No new information to shift thesis.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. Pre-revenue, illiquid. No change to thesis.",
       "price_at_analysis": null
     }
   ],
@@ -1567,6 +1675,15 @@
       "action": null,
       "verdict": "WEAKENING — Flat near rec price but YTD -17.2%, broken chart, fuel shock, MNPI risk all persist. 4x WEAKENING streak continues.",
       "price_at_analysis": 14.58
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 5x WEAKENING streak; -17.2% YTD, broken chart, fuel shock ongoing, no technical floor confirmed.",
+      "price_at_analysis": 14.58
     }
   ],
   "NHY.OL": [
@@ -1682,6 +1799,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — UP momentum but stock above broker TP and consensus hold. YTD +20.9%. No change to thesis. 4x STABLE.",
+      "price_at_analysis": 96.1
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak; price above broker TP, consensus hold, +20.9% YTD. No new action warranted.",
       "price_at_analysis": 96.1
     }
   ],
@@ -1847,6 +1973,15 @@
       "action": null,
       "verdict": "WEAKENING — Near 52w high, above analyst target of 444, consensus hold. 2x WEAKENING + TAKE_PROFIT already signalled.",
       "price_at_analysis": 567.0
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 3x WEAKENING streak; price near 52w high 577.6, above analyst target 444, prev signal TAKE_PROFIT valid.",
+      "price_at_analysis": 567.0
     }
   ],
   "MSFT": [
@@ -1971,6 +2106,15 @@
       "action": null,
       "verdict": "WEAKENING — Down 1.6%, YTD -16.2%, capex/FCF compression unresolved. 4x WEAKENING streak, April earnings still pending.",
       "price_at_analysis": 395.55
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 5x WEAKENING streak; -16.2% YTD, capex/FCF compression story unresolved, await Q3 earnings.",
+      "price_at_analysis": 395.55
     }
   ],
   "SPX": [
@@ -2070,6 +2214,15 @@
       "score": null,
       "action": null,
       "verdict": "WEAKENING — No price data. Iran thesis fully negated by subsequent events. 4x WEAKENING streak continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 5x WEAKENING streak; original Iran peace thesis fully negated by subsequent events.",
       "price_at_analysis": null
     }
   ],
@@ -2171,6 +2324,15 @@
       "action": null,
       "verdict": "STABLE — Down 6.3% from rec, momentum DOWN, but 4x STABLE streak. Score 62, strong_buy consensus. No thesis break.",
       "price_at_analysis": 613.71
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak; -6.3% from entry, momentum DOWN, but still well below target 862. Note factual errors in research.",
+      "price_at_analysis": 613.71
     }
   ],
   "AVGO": [
@@ -2270,6 +2432,15 @@
       "score": null,
       "action": null,
       "verdict": "STRENGTHENING — Down 5.7% from rec at $322, now entering $300-315 accumulation zone flagged in original verdict. Entry conditions met.",
+      "price_at_analysis": 322.16
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — 5x STRENGTHENING streak; now -5.7% from entry, entering $300-315 accumulation zone flagged in verdict. BUY confirmed.",
       "price_at_analysis": 322.16
     }
   ],
@@ -2387,6 +2558,15 @@
       "action": null,
       "verdict": "STABLE — Flat momentum, modest upside to PT, FY2025 results still pending. 4x STABLE streak continues.",
       "price_at_analysis": 24.95
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak; price 24.95 near PT 26.15, modest upside, monitor FY2025 results.",
+      "price_at_analysis": 24.95
     }
   ],
   "ADNOCLS.AD": [
@@ -2486,6 +2666,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — No actionable data on ADNOC itself. Thesis redirected to listed VLCC owners. 4x STABLE continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak; no price data, actionable play remains in listed VLCC owners not ADNOC.",
       "price_at_analysis": null
     }
   ],
@@ -2595,6 +2784,15 @@
       "action": null,
       "verdict": "WEAKENING — Down 1.9%, YTD -20.1%, momentum DOWN. 4x WEAKENING streak, Q1 guidance clarity still needed.",
       "price_at_analysis": 4241.26
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 5x WEAKENING streak; -20.1% YTD, momentum DOWN, thesis not confirmed by earnings data yet.",
+      "price_at_analysis": 4241.26
     }
   ],
   "VEND": [
@@ -2695,17 +2893,18 @@
       "action": null,
       "verdict": "STABLE — No price data. Capital return story intact but unconfirmed. 4x STABLE streak continues.",
       "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak; no price data, capital return story intact, await buyback confirmation.",
+      "price_at_analysis": null
     }
   ],
   "VEND.OL": [
-    {
-      "date": "2026-03-12",
-      "thesis_strength": "STRONG",
-      "score": 78,
-      "action": "RESEARCH_FURTHER",
-      "verdict": "Confirmed NOK 4.5bn capital return engine and verified OpenAI tailwind make the core thesis credible at a depressed valuation, but the unsubstantiated PE takeout claim, broker's outside-universe coverage, and prior missed-call track record demand fundamental diligence before sizing up.",
-      "price_at_analysis": 260.2
-    },
     {
       "date": "2026-03-12",
       "type": "reeval",
@@ -2867,6 +3066,15 @@
       "action": null,
       "verdict": "STABLE — Flat momentum, YTD -8%, April 30 earnings catalyst still pending. 4x STABLE streak continues.",
       "price_at_analysis": 258.2
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak; -8% YTD, near lows, await April 30 earnings before upgrading conviction.",
+      "price_at_analysis": 258.2
     }
   ],
   "SHOP": [
@@ -2966,6 +3174,15 @@
       "score": null,
       "action": null,
       "verdict": "WEAKENING — Down 5.1% from rec, YTD -21.8%, momentum DOWN. 4x WEAKENING streak, valuation still stretched at 56x.",
+      "price_at_analysis": 122.96
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 5x WEAKENING streak; -21.8% YTD, Fwd P/E 132x still stretched, no AI monetisation evidence yet.",
       "price_at_analysis": 122.96
     }
   ],
@@ -3067,6 +3284,15 @@
       "action": null,
       "verdict": "WEAKENING — Down 3.6%, YTD -11.4%, pilot strike and ME suspensions ongoing. 4x WEAKENING streak extends.",
       "price_at_analysis": 7.61
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — 5x WEAKENING streak; -11.4% YTD, pilot strike active, ME suspensions ongoing, no labor clarity.",
+      "price_at_analysis": 7.61
     }
   ],
   "DELIA.OL": [
@@ -3166,6 +3392,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — Flat momentum, YTD +34.3%, near 52w high. Thesis intact but broker accuracy concerns remain. 4x STABLE.",
+      "price_at_analysis": 425.0
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak; price 425 near 52w high 464.5, thesis unchanged, debt/margin risks persist.",
       "price_at_analysis": 425.0
     }
   ],
@@ -3267,6 +3502,15 @@
       "action": null,
       "verdict": "STABLE — No price data, consensus sell, weak structural backdrop. 4x STABLE streak continues.",
       "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak; no price data, consensus Sell, no housing recovery signal.",
+      "price_at_analysis": null
     }
   ],
   "DFENS.OL": [
@@ -3366,6 +3610,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — Momentum DOWN, pre-coverage micro-cap, loss-making. No new information. 4x STABLE streak continues.",
+      "price_at_analysis": 14.92
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak; pre-coverage micro-cap, +14.8% YTD, loss-making, awaiting lunch/diligence.",
       "price_at_analysis": 14.92
     }
   ],
@@ -3477,6 +3730,15 @@
       "action": null,
       "verdict": "STABLE — UP momentum, near 52w high at 107.4, still below 95-100 entry zone. Thesis intact, entry not yet met.",
       "price_at_analysis": 107.4
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak; 107.4 still above 95-100 target entry zone, momentum UP but not at dip entry yet.",
+      "price_at_analysis": 107.4
     }
   ],
   "KOG.OL": [
@@ -3577,6 +3839,15 @@
       "action": null,
       "verdict": "STABLE — UP momentum, near all-time high, YTD +53.3%. Still above PT of 401. Wait for pullback thesis intact. 4x STABLE.",
       "price_at_analysis": 412.75
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — 5x STABLE streak; +53.3% YTD, price above analyst PT 401, near 52w high, await 10-15% pullback.",
+      "price_at_analysis": 412.75
     }
   ],
   "GENOC.OL": [
@@ -3676,6 +3947,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — No price data available; no prospectus yet; thesis unchanged pending full disclosure verification.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data available, no material change to thesis. Still awaiting full prospectus.",
       "price_at_analysis": null
     }
   ],
@@ -3793,6 +4073,15 @@
       "action": null,
       "verdict": "STABLE — Flat since rec, +38% YTD, trades above consensus target 902.5, Q1 NAV update still pending Apr 23. STABLE streak continues.",
       "price_at_analysis": 1074.0
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat since rec, but +38% YTD, trades above consensus TP 902.5, Q1 NAV update pending Apr 23.",
+      "price_at_analysis": 1074.0
     }
   ],
   "HKEX / CHINA EQUITY MACRO (CSI 300 / HSI / HANG SENG CHINA ENTERPRISES)": [
@@ -3840,6 +4129,15 @@
       "action": null,
       "verdict": "WEAKENING — YTD -11.5%, momentum DOWN, 2x consecutive WEAKENING streak. Entry conditions partially met but thesis under pressure from IPO weakness.",
       "price_at_analysis": 85.53
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — YTD -11.5%, momentum DOWN, WEAKENING 3x streak continues. Dip forming but thesis not confirmed.",
+      "price_at_analysis": 85.53
     }
   ],
   "GLEN.L": [
@@ -3858,6 +4156,15 @@
       "score": null,
       "action": null,
       "verdict": "WEAKENING — M&A catalyst collapsed, standalone story at stretched P/E 259x, 6-month lockout, rising short interest. Near entry range but thesis impaired.",
+      "price_at_analysis": 518.4
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — M&A catalyst gone, near 52w high, P/E 259x stretched, short interest rising, momentum now UP but thesis weak.",
       "price_at_analysis": 518.4
     }
   ],
@@ -3878,6 +4185,15 @@
       "action": null,
       "verdict": "STABLE — Merger catalyst gone, standalone thesis intact. Down 2.6%, consensus HOLD, near fair value. No material change.",
       "price_at_analysis": 6665.0
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Merger dead, standalone thesis intact. -2.9% from rec, near consensus HOLD, no material change.",
+      "price_at_analysis": 6647.33
     }
   ],
   "GLCNF": [
@@ -3897,6 +4213,15 @@
       "action": null,
       "verdict": "WEAKENING — Score only 3/10, M&A catalyst gone, P/E 228.7x stretched, no consensus coverage. Thesis structurally impaired.",
       "price_at_analysis": 6.86
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Score 3/10, M&A catalyst gone, P/E 228x, no consensus target, WEAKENING 2nd consecutive eval.",
+      "price_at_analysis": 6.86
     }
   ],
   "RIO": [
@@ -3915,6 +4240,15 @@
       "score": null,
       "action": null,
       "verdict": "WEAKENING — Merger catalyst dead, broker downgrades post-results, price down 3.2%, momentum DOWN. Entry conditions not yet compelling.",
+      "price_at_analysis": 87.83
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Merger gone, broker downgrades post-results, -3.2% from rec, momentum DOWN, WEAKENING 2nd streak.",
       "price_at_analysis": 87.83
     }
   ],
@@ -3951,6 +4285,15 @@
       "action": null,
       "verdict": "STABLE — No price data; TSMC IoT deceleration risk flagged. Thesis neither confirmed nor broken. Awaiting further data.",
       "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. TSMC IoT deceleration still unresolved. No change to thesis.",
+      "price_at_analysis": null
     }
   ],
   "SBLK": [
@@ -3977,6 +4320,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — Down 1.4%, momentum DOWN, still above dip entry. Sector headwinds persist. No material change from initial thesis.",
+      "price_at_analysis": 21.84
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Slight dip -1.4%, momentum DOWN. Seasonal dip forming but not confirmed yet. Thesis unchanged.",
       "price_at_analysis": 21.84
     }
   ],
@@ -4021,6 +4373,15 @@
       "action": null,
       "verdict": "WEAKENING — CagriSema failure, guided sales declines, Lilly competition intensifying. No price data but fundamentals deteriorating.",
       "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — CagriSema failure, guided sales declines, Lilly competition, insider selling. WEAKENING 2nd streak.",
+      "price_at_analysis": null
     }
   ],
   "FRO.OL": [
@@ -4064,6 +4425,15 @@
       "action": null,
       "verdict": "STABLE — Flat since rec, +41% YTD, thesis validated but re-rated. Monitoring for ceasefire-driven pullback. Hold appropriate.",
       "price_at_analysis": 293.1
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat at rec price, +41% YTD, thesis validated but fully priced. Momentum DOWN short-term.",
+      "price_at_analysis": 293.1
     }
   ],
   "NORBT.OL": [
@@ -4106,6 +4476,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — Flat, insider buying confirmed, contracts verified, but premium 32x P/E and DNB contrarian HOLD. No change.",
+      "price_at_analysis": 202.0
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat at rec, premium 32x P/E, DNB contrarian HOLD still unread. No material change.",
       "price_at_analysis": 202.0
     }
   ],
@@ -4162,6 +4541,15 @@
       "action": null,
       "verdict": "STABLE — Down 1.7%, strong_buy consensus, 31% discount to target, buybacks active. Thesis intact, needs H2 rate diligence.",
       "price_at_analysis": 59.03
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Slight -1.7% drift, momentum DOWN. High conviction value with 31% discount to consensus still intact.",
+      "price_at_analysis": 59.03
     }
   ],
   "LINK.OL": [
@@ -4189,6 +4577,15 @@
       "action": null,
       "verdict": "STABLE — Down 1.3%, YTD -33.5%, momentum UP. Posten bid speculative, earnings weak. No new evidence to shift thesis.",
       "price_at_analysis": 22.15
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat near rec, momentum UP, but speculative thesis, weak earnings, outside core coverage.",
+      "price_at_analysis": 22.15
     }
   ],
   "SWON": [
@@ -4215,6 +4612,15 @@
       "score": null,
       "action": null,
       "verdict": "STRENGTHENING — Q4 +11% cc LFL beat validated thesis materially. Awaiting Mar 31 full results for 2026 guidance. Risk/reward improved.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — Q4 +11% cc LFL beat validates thesis. Awaiting Mar 31 full results. STRENGTHENING 2nd streak.",
       "price_at_analysis": null
     }
   ],
@@ -4250,6 +4656,15 @@
       "score": null,
       "action": null,
       "verdict": "STRENGTHENING — Price surged +37.3% on Norvestor tender at NOK 100. M&A thesis validated. Price hit 52w high near bid level.",
+      "price_at_analysis": 98.0
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — Price +37.3% — M&A tender at NOK 100 confirmed, at 52w high. TAKE_PROFIT signal stands.",
       "price_at_analysis": 98.0
     }
   ],
@@ -4328,6 +4743,15 @@
       "action": null,
       "verdict": "STABLE — Flat since rec, momentum UP, waiting for Q1 May 13 cost confirmation. No change to WAIT_FOR_DIPS stance.",
       "price_at_analysis": 221.0
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat at rec, -8.9% YTD, Q1 cost data pending May 13. No change to thesis.",
+      "price_at_analysis": 221.0
     }
   ],
   "DNO.OL": [
@@ -4354,6 +4778,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — Essentially flat, near 52w high, production beat verified, Kurdistan ramp ongoing. Thesis intact pending deeper diligence.",
+      "price_at_analysis": 16.95
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Near 52w high, momentum UP, strong_buy consensus, Kurdistan risk intact. No change.",
       "price_at_analysis": 16.95
     }
   ],
@@ -4382,6 +4815,15 @@
       "action": null,
       "verdict": "STABLE — Flat, trades above consensus target 38.5, YTD +28%. Monitor stance unchanged; no new catalyst.",
       "price_at_analysis": 41.22
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat, +28% YTD, trades above consensus TP 38.4. No catalyst change.",
+      "price_at_analysis": 41.22
     }
   ],
   "AAL": [
@@ -4409,6 +4851,15 @@
       "action": null,
       "verdict": "WEAKENING — Down 2.4%, YTD -33.5%, momentum DOWN. Triple threat of debt/oil/earnings unresolved. Score only 28/10.",
       "price_at_analysis": 10.3
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — YTD -33.5%, momentum DOWN, score 28, acute debt/oil/earnings risk. WEAKENING 2nd streak.",
+      "price_at_analysis": 10.3
     }
   ],
   "C": [
@@ -4435,6 +4886,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — Flat +0.2%, YTD -10.5%, approaching $100-105 entry zone flagged in verdict. Apr 14 earnings key inflection.",
+      "price_at_analysis": 105.69
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat at rec, YTD -10.5%, Q1 earnings Apr 14 key inflection. Entry zone $100-105 not yet hit.",
       "price_at_analysis": 105.69
     }
   ],
@@ -4479,6 +4939,15 @@
       "action": null,
       "verdict": "WEAKENING — Down 2.2%, YTD -7.6%, momentum DOWN. Approaching $240-250 support zone flagged in verdict. Execution risk high.",
       "price_at_analysis": 250.12
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Price dipping into $250 support zone flagged in verdict. Momentum DOWN, WEAKENING 2nd streak.",
+      "price_at_analysis": 250.12
     }
   ],
   "INTC": [
@@ -4505,6 +4974,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — Up 1.1%, near recommendation price, momentum FLAT. Q2 supply recovery evidence still needed. No change.",
+      "price_at_analysis": 45.77
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Slight +1.1%, consensus HOLD, 45x fwd P/E unattractive. No new evidence of Q2 recovery yet.",
       "price_at_analysis": 45.77
     }
   ],
@@ -4549,6 +5027,15 @@
       "action": null,
       "verdict": "STABLE — Down 3.5% but above consensus target 65.08, YTD +12.7%, momentum UP. Wait for Q1 dip still valid.",
       "price_at_analysis": 63.59
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Slight dip -3.5% from rec, momentum UP, near consensus TP. Wait for Q1 softness confirmed.",
+      "price_at_analysis": 63.59
     }
   ],
   "DNB.OL": [
@@ -4591,6 +5078,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — Essentially flat +0.5%, trades near consensus, Q1 fee sustainability unresolved. Monitor stance unchanged.",
+      "price_at_analysis": 290.9
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat at rec, consensus HOLD, fee sustainability and NII trajectory still pending Q1.",
       "price_at_analysis": 290.9
     }
   ],
@@ -4635,6 +5131,15 @@
       "action": null,
       "verdict": "STRENGTHENING — At ~132 vs TP 170, 20%+ correction from peak validates downgrade. Now trading well below target; dip-buy case emerging.",
       "price_at_analysis": 131.3
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — At ~131 vs TP 170, 20%+ correction from peak met dip-buy entry condition. Score 78, consensus buy.",
+      "price_at_analysis": 131.3
     }
   ],
   "LPG": [
@@ -4653,6 +5158,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — Momentum DOWN, YTD +20.4%, still below analyst target 36.1. CEO insider buy supportive. Awaiting independent research.",
+      "price_at_analysis": 29.15
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat thesis, momentum DOWN, 0.77x P/NAV still relevant. CEO insider buy still supportive.",
       "price_at_analysis": 29.15
     }
   ],
@@ -4680,6 +5194,15 @@
       "score": null,
       "action": null,
       "verdict": "STRENGTHENING — Up 3.3%, YTD +14.8%, momentum UP. HHI turnaround progressing. But leverage and valuation concerns remain.",
+      "price_at_analysis": 111.6
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — Price +3.3%, momentum UP, STRENGTHENING 2nd streak, HHI turnaround confirmed. Still needs diligence.",
       "price_at_analysis": 111.6
     }
   ],
@@ -4710,6 +5233,15 @@
       "action": null,
       "verdict": "STABLE — No price data; CEO transition thesis intact, US ramp confirmed. Awaiting new CEO clarity and Q1 results.",
       "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data, no change to non-event CEO thesis. Awaiting Q1 or new CEO clarity.",
+      "price_at_analysis": null
     }
   ],
   "ELOPAK.OL": [
@@ -4728,6 +5260,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — No price data; CEO departure non-event thesis unchanged. Monitor for new CEO announcement as real catalyst.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data, CEO departure non-event thesis intact. Awaiting new CEO announcement.",
       "price_at_analysis": null
     }
   ],
@@ -4756,6 +5297,15 @@
       "action": null,
       "verdict": "STRENGTHENING — YTD +61.4%, near 52w high at 46.3 vs stale $42.2 target. Re-rating underway but target urgently needs revision.",
       "price_at_analysis": 46.3
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Price at 46.3 near 52w high, above stale $42.2 target. Prev STRENGTHENING fading—momentum slowing at resistance.",
+      "price_at_analysis": 46.3
     }
   ],
   "OKEA.OL": [
@@ -4782,6 +5332,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — Stock at 32.35, still 13% above consensus and above NOK 27-29 entry zone. Thesis intact but entry conditions not met.",
+      "price_at_analysis": 32.35
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Still 13% above entry zone NOK27-29. No dip materialised; thesis intact but entry condition unmet.",
       "price_at_analysis": 32.35
     }
   ],
@@ -4810,6 +5369,15 @@
       "action": null,
       "verdict": "STABLE — Flat since rec (+0.4%), momentum turning DOWN. Q1 confirmation catalyst still pending. No change to thesis.",
       "price_at_analysis": 190.78
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat since rec, 5d momentum DOWN. Awaiting Q1 confirmation of above-seasonal guidance. No change.",
+      "price_at_analysis": 190.78
     }
   ],
   "LOGI": [
@@ -4836,6 +5404,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — Essentially flat (-0.2%), momentum FLAT, gaming headwinds persist. No new catalyst. Thesis unchanged.",
+      "price_at_analysis": 92.75
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat price, FLAT momentum, elevated short interest persists. No new catalyst to shift thesis.",
       "price_at_analysis": 92.75
     }
   ],
@@ -4874,6 +5451,15 @@
       "action": null,
       "verdict": "WEAKENING — YTD -24.8%, near 52w low. Factual flaws in note, no target, bear case from MS Underweight unresolved. Thesis under pressure.",
       "price_at_analysis": 85.46
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — YTD -24.8%, WEAKENING streak continues. Near 52w low zone. Thesis execution risk mounting.",
+      "price_at_analysis": 85.46
     }
   ],
   "ATEA.OL": [
@@ -4892,6 +5478,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — Flat (+0.1%), YTD -8.5%. NATO/AI tailwinds intact, Q4 beat confirmed. Awaiting deeper diligence. No change.",
+      "price_at_analysis": 141.4
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat price, FLAT momentum. NATO/AI tailwinds intact, 19% upside to target. Awaiting deeper work.",
       "price_at_analysis": 141.4
     }
   ],
@@ -4920,6 +5515,15 @@
       "action": null,
       "verdict": "STABLE — Up 1.2%, still below entry zone. Consensus buy, 12% below target. Q1 weakness entry thesis intact.",
       "price_at_analysis": 90.7
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Slight uptick but no Q1 weakness dip yet. Entry condition (Q1 weakness) unmet. Thesis unchanged.",
+      "price_at_analysis": 90.7
     }
   ],
   "SWON.ST": [
@@ -4939,6 +5543,15 @@
       "action": null,
       "verdict": "WEAKENING — No price data, but MS Underweight and structural MSFT pressure unresolved. Capital Markets Day catalyst still months away.",
       "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — WEAKENING streak 2x. Awaiting March 31 results and June CMD. No price data available.",
+      "price_at_analysis": null
     }
   ],
   "STM": [
@@ -4957,6 +5570,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — Slight decline (-1.1%), YTD +20.1%. EPS miss and restructuring costs remain overhangs. Read-across confirmed but stock-specific issues persist.",
+      "price_at_analysis": 32.87
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat/slightly down, high P/E 182x reflects EPS miss. Buy consensus but restructuring ongoing.",
       "price_at_analysis": 32.87
     }
   ],
@@ -4987,6 +5609,15 @@
       "action": null,
       "verdict": "STABLE — No price data available. Valuation premium vs peers unchanged. No new catalyst to reassess.",
       "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. Valuation premium vs peers unchanged. No catalyst to reset thesis.",
+      "price_at_analysis": null
     }
   ],
   "NDA.ST": [
@@ -5005,6 +5636,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — No price data. In-line print, NII stabilisation still awaited. No material change.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. In-line print, NII stabilisation pending. No change.",
       "price_at_analysis": null
     }
   ],
@@ -5025,6 +5665,15 @@
       "action": null,
       "verdict": "STABLE — No price data. Weak earnings miss flagged, waiting for dip below SEK 175-180. Entry conditions not confirmed.",
       "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. Entry condition (dip below SEK175-180) unconfirmed. Monitoring.",
+      "price_at_analysis": null
     }
   ],
   "SWED.ST": [
@@ -5043,6 +5692,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — No price data. Ex-div retracement risk flagged. Buy-on-dips strategy unchanged.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. Post-ex-div entry strategy unchanged. Best Q4 thesis intact.",
       "price_at_analysis": null
     }
   ],
@@ -5070,6 +5728,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — Down slightly (-0.5%), momentum UP. Fundamentals improving (record biomass, lower cost). Near consensus, no confirmation yet.",
+      "price_at_analysis": 581.5
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Slight dip, 5d UP. Near consensus target. Awaiting harvest reduction confirmation.",
       "price_at_analysis": 581.5
     }
   ],
@@ -5108,6 +5775,15 @@
       "action": null,
       "verdict": "STABLE — No tradeable ticker. LNG supply shock thesis intact. No actionable update.",
       "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No tradeable ticker. Macro LNG shock thesis intact. No actionable signal.",
+      "price_at_analysis": null
     }
   ],
   "SNTIA.OL": [
@@ -5126,6 +5802,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — YTD +12.5%, at 69.96 vs NOK 81 target. Annual Report confirmation on Mar 27 pending. Ratos overhang remains.",
+      "price_at_analysis": 69.96
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD +12.5%, near 52w high. Annual Report March 27 catalyst pending. Thesis intact.",
       "price_at_analysis": 69.96
     }
   ],
@@ -5146,6 +5831,15 @@
       "action": null,
       "verdict": "STABLE — No current price. Already re-rated +46% over 12m. Analyst downgrades and negative Ocean EBIT weigh. Thesis unclear.",
       "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. Crisis duration uncertain, downgrades noted. No change.",
+      "price_at_analysis": null
     }
   ],
   "9107.T": [
@@ -5165,6 +5859,15 @@
       "action": null,
       "verdict": "WEAKENING — YTD +21.4%, now above consensus target of 2176. Price above target, overcapacity risk, Hormuz crisis duration uncertain.",
       "price_at_analysis": 2643.5
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Price 2645 above consensus target 2176. WEAKENING streak 2x. Trading above target with declining forecasts.",
+      "price_at_analysis": 2645.5
     }
   ],
   "9104.T": [
@@ -5184,6 +5887,15 @@
       "action": null,
       "verdict": "WEAKENING — YTD +29.1%, stock at 6116 vs consensus target 5625. Trading above target, sub-IG credit, crisis duration unclear.",
       "price_at_analysis": 6116.0
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "WEAKENING — Price 6039 above consensus 5625. WEAKENING streak 2x. Already above target, hold consensus.",
+      "price_at_analysis": 6039.0
     }
   ],
   "9101.T": [
@@ -5203,6 +5915,15 @@
       "action": null,
       "verdict": "STABLE — YTD +10.2%, at 5640 vs target 5261. Slightly above consensus target. Hormuz premium likely priced. Monitor.",
       "price_at_analysis": 5640.0
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Price 5624 above target 5261, YTD +9.8%. FLAT momentum. Monitoring de-escalation signals.",
+      "price_at_analysis": 5624.0
     }
   ],
   "9107.T / KAIKY": [
@@ -5262,6 +5983,15 @@
       "action": null,
       "verdict": "STABLE — No price data. Unverifiable financials, ticker data gap. No new information available.",
       "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data. Unverifiable financials. Thesis unchanged pending independent verification.",
+      "price_at_analysis": null
     }
   ],
   "SUBC.OL": [
@@ -5288,6 +6018,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — YTD +23.7%, near 52w high. CEO transition ongoing. Consensus buy, modest upside to target. Monitor integration.",
+      "price_at_analysis": 257.4
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD +23.7%, near 52w high. CEO transition ongoing. Buy consensus, slight upside to target.",
       "price_at_analysis": 257.4
     }
   ],
@@ -5316,6 +6055,15 @@
       "action": null,
       "verdict": "STABLE — YTD +39.3%, near 52w high at 25.3 vs target 26.0. Dividend pause reconciliation pending Mar 26 earnings.",
       "price_at_analysis": 25.3
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Near 52w high, 5d DOWN. March 26 earnings catalyst pending. Dividend pause needs verification.",
+      "price_at_analysis": 25.3
     }
   ],
   "LSG.OL": [
@@ -5343,6 +6091,15 @@
       "action": null,
       "verdict": "STABLE — Flat YTD (-1.9%). Q2 biological improvement unconfirmed. Entry conditions not met. Thesis unchanged.",
       "price_at_analysis": 50.45
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD -1.9%, FLAT momentum. Q2 biological data unconfirmed. Entry condition unmet.",
+      "price_at_analysis": 50.45
     }
   ],
   "ENH.OL": [
@@ -5361,6 +6118,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — YTD +13.9%, at 8.96 vs target 10.75. Conflict of interest unresolved. Independent verification still needed.",
+      "price_at_analysis": 8.96
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD +13.9%, below target NOK10.75. Conflict of interest flag persists. Monitoring.",
       "price_at_analysis": 8.96
     }
   ],
@@ -5381,6 +6147,15 @@
       "action": null,
       "verdict": "STABLE — Pre-IPO, no price. Bookrunner conflict unresolved. Awaiting prospectus.",
       "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Pre-IPO, no market price. Awaiting prospectus. Conflict of interest unresolved.",
+      "price_at_analysis": null
     }
   ],
   "GENERALS.OL": [
@@ -5399,6 +6174,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — No price data. IPO conflict of interest unresolved. Prospectus and PDIE meeting still needed.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — No price data post-IPO. Bookrunner conflict unresolved. Awaiting prospectus.",
       "price_at_analysis": null
     }
   ],
@@ -5427,6 +6211,15 @@
       "action": null,
       "verdict": "STABLE — Flat since rec, YTD +31.2% near consensus target. Momentum DOWN. March trading update still pending.",
       "price_at_analysis": 123.6
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat, 5d DOWN. Near consensus target at +31% YTD. March trading update pending.",
+      "price_at_analysis": 123.6
     }
   ],
   "KMX": [
@@ -5454,6 +6247,15 @@
       "action": null,
       "verdict": "STABLE — Flat since rec. Price above analyst target (41.84 vs 39.92). Barclays/JPM Underweight unchanged. April 14 earnings key.",
       "price_at_analysis": 41.84
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — Flat, below analyst target. April 14 earnings catalyst pending. Structural headwinds persist.",
+      "price_at_analysis": 41.84
     }
   ],
   "GOCE.OL": [
@@ -5472,6 +6274,15 @@
       "score": null,
       "action": null,
       "verdict": "STABLE — IPO thesis unchanged; no price data available to assess entry or movement. Conflict-of-interest caveat still applies.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — IPO stage, no price data available, thesis unchanged. Conflict of interest caution remains. No actionable signal.",
       "price_at_analysis": null
     }
   ],
@@ -5500,6 +6311,15 @@
       "action": null,
       "verdict": "STABLE — YTD -6.1% but price at 28.7 still above 52w low; WAIT_FOR_DIPS thesis intact, H1 weakness persists, no demand inflection yet.",
       "price_at_analysis": 28.7
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STABLE — YTD -6.1% but no clear demand inflection. H1 weakness thesis intact. P/E 61.1 still stretched. Wait-for-dips condition not compellingly met.",
+      "price_at_analysis": 28.7
     }
   ],
   "TOM.OL": [
@@ -5526,6 +6346,15 @@
       "score": null,
       "action": null,
       "verdict": "STRENGTHENING — YTD -18.2% puts price near 52w low ~111.4, well below 149 target (>25% upside). Dip entry condition from original thesis now met.",
+      "price_at_analysis": 111.7
+    },
+    {
+      "date": "2026-03-16",
+      "type": "reeval",
+      "thesis_strength": null,
+      "score": null,
+      "action": null,
+      "verdict": "STRENGTHENING — YTD -18.2% puts price near 52w low ~111.4, well below 149 target (~25% upside). Dip thesis now actively met. Score 7, consensus buy.",
       "price_at_analysis": 111.7
     }
   ],
