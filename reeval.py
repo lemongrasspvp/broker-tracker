@@ -112,7 +112,7 @@ Set "alert" to true if any of:
 - Evolution shifted direction from previous re-eval
 
 ACTION SIGNAL (be strict — only signal when evidence is clear):
-- STRONG_BUY: thesis strengthening + price in/below entry zone flagged in verdict + score >= 7 + consensus buy/strong_buy. Multiple confirming signals.
+- STRONG_BUY: thesis STRENGTHENING + score >= 7 + consensus buy/strong_buy + price well below analyst target (>20% upside). Must have 3+ confirming signals from: strong fundamentals, rising momentum, catalyst intact, attractive valuation vs peers.
 - BUY: thesis strengthening + price below analyst target by >15% + score >= 6. At least 2 confirming signals.
 - HOLD: default. No clear action, or mixed signals.
 - TAKE_PROFIT: in profit (return > 0) AND edge is fading — any of: price hit/exceeded analyst target, momentum turning DOWN after big run (>25% gain), thesis no longer strengthening after extended rally, valuation stretched above peers, or the original catalyst has fully played out.
