@@ -23,7 +23,6 @@ TRACKER_FILE = os.path.join(DATA_DIR, "broker_track.json")
 OUTPUT_FILE  = "dashboard.html"
 
 NEW_THRESHOLD_HOURS  = 48
-STALE_THRESHOLD_DAYS = 10
 
 
 # ── HELPERS ───────────────────────────────────────────────────────────────────
@@ -256,7 +255,6 @@ def build_rows(ticker_data: dict):
             if email_dt else 9999
         )
         is_new   = hours_old < NEW_THRESHOLD_HOURS
-        is_stale = hours_old > STALE_THRESHOLD_DAYS * 24
 
         track      = tracker.get(ticker, {})
         return_pct = track.get("return_pct")
@@ -268,10 +266,6 @@ def build_rows(ticker_data: dict):
 
         if is_new:
             section = "NEW"
-        elif is_stale and reeval_info.get("action_signal") == "STRONG_BUY":
-            section = "HIGH CONVICTION"
-        elif is_stale:
-            section = "OLDER"
         elif norm_score > 7:
             section = "HIGH CONVICTION"
         elif norm_score >= 5:
@@ -289,7 +283,6 @@ def build_rows(ticker_data: dict):
             "return_pct":        return_pct,
             "signals":           info.get("signals", []),
             "section":           section,
-            "is_stale":          is_stale,
             "is_new":            is_new,
             "hours_old":         hours_old,
             "email_subject":     info.get("email_subject", ""),
@@ -338,13 +331,12 @@ CLAIM_ICONS = {
     "FALSE":        ("✗", "#ef4444"),
     "MISLEADING":   ("✗", "#ef4444"),
 }
-SECTION_ORDER = ["NEW", "HIGH CONVICTION", "WATCHLIST", "IGNORE", "OLDER"]
+SECTION_ORDER = ["NEW", "HIGH CONVICTION", "WATCHLIST", "IGNORE"]
 SECTION_META  = {
     "NEW":            ("🆕", "Last 48 hours",     False),
     "HIGH CONVICTION":("◆",  "Score > 7.0",       False),
     "WATCHLIST":      ("◇",  "Score 5.0 – 7.0",   False),
     "IGNORE":         ("–",  "Score < 5.0",        True),
-    "OLDER":          ("⏷",  "> 10 days old",      True),
 }
 
 
@@ -391,11 +383,8 @@ def render_popup(r: dict) -> str:
 def render_card(r: dict) -> str:
     score    = r["score"]
     bar_pct  = min(100, score * 10)
-    is_stale = r["is_stale"]
 
-    bar_color    = "#94a3b8" if is_stale else STRENGTH_COLORS.get(r["strength"], "#94a3b8")
-    card_opacity = "0.55"   if is_stale else "1"
-    stale_html   = '<span class="stale-badge">stale</span>' if is_stale else ""
+    bar_color    = STRENGTH_COLORS.get(r["strength"], "#94a3b8")
 
     action_label = ACTION_LABELS.get(r["action"], r["action"])
     action_color = ACTION_COLORS.get(r["action"], "#94a3b8")
@@ -457,7 +446,7 @@ def render_card(r: dict) -> str:
     comp        = esc(r.get("company_name", ""))
     popup_html = render_popup(r)
 
-    out = ['<div class="card" data-ticker="' + t + '" style="opacity:' + card_opacity + '" ' + glow + '>']
+    out = ['<div class="card" data-ticker="' + t + '" ' + glow + '>']
     out.append(popup_html)
     out.append('<div class="card-header">')
     out.append('<div class="card-title-group">')
@@ -467,8 +456,6 @@ def render_card(r: dict) -> str:
     if comp:
         out.append(f'<span class="company-name">{comp}</span>')
     out.append('</div>')
-    if stale_html:
-        out.append(stale_html)
     out.append(f'<span class="action-badge" style="background:{action_color}18;color:{action_color};border:1px solid {action_color}44">{action_label}</span>')
     out.append(f'<span class="age">{esc(r["age_label"])}</span>')
     out.append(f'<button class="star-btn" data-ticker="{t}" title="Track this stock">☆</button>')
@@ -873,7 +860,6 @@ details[open] > summary .section-chevron { transform: rotate(90deg); }
 .card-title-group { display: flex; align-items: baseline; gap: 6px; flex: 1; min-width: 0; }
 .ticker         { font-weight: 700; font-size: .9rem; color: #0f172a; white-space: nowrap; }
 .company-name   { font-size: .66rem; color: #94a3b8; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.stale-badge    { font-size: .57rem; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; background: #f1f5f9; color: #94a3b8; border: 1px solid #e2e8f0; padding: 1px 5px; border-radius: 3px; flex-shrink: 0; }
 .action-badge   { font-size: .58rem; font-weight: 600; letter-spacing: .04em; padding: 2px 6px; border-radius: 4px; text-transform: uppercase; white-space: nowrap; flex-shrink: 0; }
 .age            { font-size: .66rem; color: #94a3b8; white-space: nowrap; flex-shrink: 0; }
 .star-btn {

@@ -11,14 +11,18 @@ import re
 import time
 import anthropic
 import yfinance as yf
-from datetime import datetime, timedelta
+from datetime import datetime
 
 from broker_tracker import _load as load_tracker, _save as save_tracker
 from enricher import fetch_stock_data, format_stock_data_for_prompt, resolve_ticker, guess_country
 from memory import store_reeval
 
 REEVAL_FILE = "./data/reeval.json"
-STALE_DAYS = 10  # match dashboard threshold
+
+# Action signals worth re-checking. HOLD and missing signals are skipped on
+# subsequent passes — except first-time tickers, which always get one
+# bootstrap re-eval so they can earn a real signal.
+ACTIONABLE_SIGNALS = {"STRONG_BUY", "BUY", "TAKE_PROFIT", "SELL"}
 
 
 # ── LAYER A: FREE PRICE REFRESH ──────────────────────────────────────────────
@@ -26,14 +30,13 @@ STALE_DAYS = 10  # match dashboard threshold
 def refresh_prices() -> dict:
     """
     Refresh yfinance prices for all tracked tickers.
-    Returns dict of active (non-IGNORE, non-stale) tickers with their data.
+    Returns dict of non-IGNORE tickers with their data.
     """
     records = load_tracker()
     if not records:
         return {}
 
     today = datetime.now().strftime("%Y-%m-%d")
-    cutoff = (datetime.now() - timedelta(days=STALE_DAYS)).strftime("%Y-%m-%d")
     updated = False
     active = {}
 
@@ -42,8 +45,7 @@ def refresh_prices() -> dict:
 
         # Skip if already checked today
         if r.get("last_checked") == today:
-            # Still include in active set if non-stale and non-IGNORE
-            if r.get("action") != "IGNORE" and r.get("date", "") >= cutoff:
+            if r.get("action") != "IGNORE":
                 active[ticker] = r
             continue
 
@@ -84,8 +86,7 @@ def refresh_prices() -> dict:
         except Exception:
             continue
 
-        # Include non-IGNORE, non-stale tickers in active set
-        if r.get("action") != "IGNORE" and r.get("date", "") >= cutoff:
+        if r.get("action") != "IGNORE":
             active[ticker] = r
 
     if updated:
@@ -145,9 +146,27 @@ def batch_reeval(active_tickers: dict, api_key: str) -> dict:
         except Exception:
             pass
 
+    # Gate: re-check a ticker if any of:
+    #   - no prior reeval entry yet (bootstrap pass)
+    #   - last action_signal is actionable (BUY/SELL/etc — situation may shift)
+    #   - broker's recommendation was WAIT_FOR_DIPS (entry condition may trigger)
+    to_check = {}
+    skipped = 0
+    for ticker, rec in active_tickers.items():
+        prev = prev_reeval.get(ticker)
+        is_bootstrap   = prev is None
+        has_signal     = prev is not None and prev.get("action_signal") in ACTIONABLE_SIGNALS
+        waiting_for_dip = rec.get("action") == "WAIT_FOR_DIPS"
+        if is_bootstrap or has_signal or waiting_for_dip:
+            to_check[ticker] = rec
+        else:
+            skipped += 1
+    if skipped:
+        print(f"  [RE-EVAL] Skipping {skipped} HOLD ticker(s); checking {len(to_check)}")
+
     # Build per-ticker blocks with enricher data
     ticker_blocks = {}  # ticker -> block string
-    for ticker, rec in active_tickers.items():
+    for ticker, rec in to_check.items():
         price_at = rec.get("price_at_rec")
         cur_price = rec.get("current_price")
         ret = rec.get("return_pct")
@@ -159,7 +178,10 @@ def batch_reeval(active_tickers: dict, api_key: str) -> dict:
         data = fetch_stock_data(resolved, country)
         target = data.get("analyst_target", "N/A")
         pe = data.get("pe_ratio")
-        pe_str = f"{pe:.1f}" if pe else "N/A"
+        try:
+            pe_str = f"{float(pe):.1f}" if pe is not None else "N/A"
+        except (TypeError, ValueError):
+            pe_str = "N/A"
         low52 = data.get("52w_low", "N/A")
         high52 = data.get("52w_high", "N/A")
         rec_str = data.get("recommendation", "N/A")
