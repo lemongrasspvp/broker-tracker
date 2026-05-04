@@ -13,7 +13,7 @@ import json
 import anthropic
 from datetime import datetime
 
-from enricher import fetch_stock_data, fetch_macro_context, format_stock_data_for_prompt, guess_country
+from enricher import fetch_stock_data, fetch_macro_context, format_stock_data_for_prompt, guess_country, canonical_ticker
 from memory import format_history_for_prompt, store_analysis
 from broker_tracker import log_recommendation, get_ticker_track_record
 
@@ -324,9 +324,18 @@ def analyze_thread(thread: list[dict], broker_name: str, api_key: str) -> dict |
     analysis["_image_count"]    = len(images)
 
     for stock_analysis in analysis.get("stocks", []):
-        ticker = stock_analysis.get("ticker", "")
-        data   = _match_stock_data(ticker, stock_data_map)
-        price  = data.get("current_price")
+        raw_ticker = stock_analysis.get("ticker", "")
+        # Canonicalise so memory.json / broker_track.json / reeval.json
+        # all key the same security under the same string. Country comes
+        # from Claude's analysis output, with a guess as fallback.
+        country = stock_analysis.get("country") or guess_country(
+            raw_ticker, stock_analysis.get("company_name", "")
+        )
+        ticker = canonical_ticker(raw_ticker, country)
+        stock_analysis["ticker"] = ticker  # keep the analysis JSON consistent too
+
+        data  = _match_stock_data(ticker, stock_data_map)
+        price = data.get("current_price")
         stock_analysis["_price_at_analysis"] = price
 
         store_analysis(ticker, stock_analysis)

@@ -99,6 +99,38 @@ def resolve_ticker(raw_ticker: str, country: str) -> str:
     return t + suffix
 
 
+# Share-class designators that vary across emails for the same security
+# (e.g. "NOVO-B.CO" and "NOVO.CO" both refer to Novo Nordisk B share).
+_SHARE_CLASS_RE = re.compile(r"-[A-D]$")
+
+
+def canonical_ticker(raw_ticker: str, country: str) -> str:
+    """
+    Stable storage key for a ticker. Used by the analyzer and migration
+    so memory.json / broker_track.json / reeval.json all agree.
+
+    - Country known (NO/SE/DK/FI/US): normalise via resolve_ticker, then
+      strip a single share-class designator (e.g. "-B") from the base so
+      "NOVO-B.CO" and "NOVO.CO" collapse to one key.
+    - Country INTL/missing: leave the raw ticker alone (just upper/strip)
+      to preserve disambiguators on listings we cannot safely normalise
+      (e.g. "0700.HK").
+    """
+    if not country or country == "INTL":
+        return raw_ticker.upper().strip()
+
+    canonical = resolve_ticker(raw_ticker, country)
+    suffix = COUNTRY_CONFIG.get(country, {}).get("suffix", "")
+    base = canonical[:-len(suffix)] if suffix and canonical.endswith(suffix) else canonical
+
+    # Only strip share class when the base after stripping is still ≥3 chars,
+    # so we don't mangle short tickers.
+    if _SHARE_CLASS_RE.search(base) and len(base) - 2 >= 3:
+        base = base[:-2]
+
+    return base + suffix
+
+
 def safe_get(d: dict, *keys, default=None):
     """Safely navigate nested dict."""
     for k in keys:
