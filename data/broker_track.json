@@ -9,7 +9,7 @@
     "price_at_rec": null,
     "current_price": 189.0,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -58,7 +58,7 @@
     "price_at_rec": 191.79,
     "current_price": 190.63,
     "return_pct": -0.6,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -71,7 +71,7 @@
     "price_at_rec": null,
     "current_price": 37.01,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -84,7 +84,7 @@
     "price_at_rec": null,
     "current_price": 18.87,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -97,7 +97,7 @@
     "price_at_rec": null,
     "current_price": 85.14,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -110,7 +110,7 @@
     "price_at_rec": 35.93,
     "current_price": 41.66,
     "return_pct": 15.9,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -123,7 +123,7 @@
     "price_at_rec": 48.17,
     "current_price": 56.92,
     "return_pct": 18.2,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -136,7 +136,7 @@
     "price_at_rec": 47.45,
     "current_price": 55.11,
     "return_pct": 16.1,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -149,7 +149,7 @@
     "price_at_rec": null,
     "current_price": 50.8,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -162,7 +162,7 @@
     "price_at_rec": 14.525,
     "current_price": 14.49,
     "return_pct": -0.2,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -175,7 +175,7 @@
     "price_at_rec": 96.06,
     "current_price": 102.25,
     "return_pct": 6.4,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -188,7 +188,7 @@
     "price_at_rec": 528.2,
     "current_price": 539.0,
     "return_pct": 2.0,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -199,9 +199,9 @@
     "score": 78,
     "verdict": "Structurally compelling valuation reset story with verified fundamentals, but broker overstates cheapness (20x uses FY2027E), mischaracterizes Copilot rollout scale (15M seats, not 400M), and underweights the capex/FCF compression risk that is the actual cause of the selloff — do your own FCF work before acting on the 'MSFT here' call.",
     "price_at_rec": 404.88,
-    "current_price": 414.44,
-    "return_pct": 2.4,
-    "last_checked": "2026-05-03",
+    "current_price": 414.19,
+    "return_pct": 2.3,
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -226,7 +226,7 @@
     "price_at_rec": 654.86,
     "current_price": 608.75,
     "return_pct": -7.0,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -239,7 +239,7 @@
     "price_at_rec": 341.57,
     "current_price": 421.28,
     "return_pct": 23.3,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -252,7 +252,7 @@
     "price_at_rec": 25.25,
     "current_price": 23.85,
     "return_pct": -5.5,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -277,7 +277,7 @@
     "price_at_rec": 4322.42,
     "current_price": 169.63,
     "return_pct": -96.1,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -302,7 +302,7 @@
     "price_at_rec": null,
     "current_price": 254.8,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -315,7 +315,7 @@
     "price_at_rec": 129.52,
     "current_price": 127.67,
     "return_pct": -1.4,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -328,7 +328,7 @@
     "price_at_rec": 7.888,
     "current_price": 7.33,
     "return_pct": -7.1,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -341,7 +341,7 @@
     "price_at_rec": null,
     "current_price": 364.0,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -366,7 +366,7 @@
     "price_at_rec": null,
     "current_price": 13.7,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -379,7 +379,7 @@
     "price_at_rec": 108.8,
     "current_price": 114.8,
     "return_pct": 5.5,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -392,7 +392,7 @@
     "price_at_rec": 410.3,
     "current_price": 310.0,
     "return_pct": -24.4,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -417,7 +417,7 @@
     "price_at_rec": 1082.0,
     "current_price": 1074.0,
     "return_pct": -0.7,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -442,7 +442,7 @@
     "price_at_rec": null,
     "current_price": 91.32,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -455,7 +455,7 @@
     "price_at_rec": 558.8,
     "current_price": 539.0,
     "return_pct": -3.5,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -468,7 +468,7 @@
     "price_at_rec": 531.2,
     "current_price": 563.0,
     "return_pct": 6.0,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -481,7 +481,7 @@
     "price_at_rec": 6845.0,
     "current_price": 7391.0,
     "return_pct": 8.0,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -494,7 +494,7 @@
     "price_at_rec": 7.05,
     "current_price": 7.65,
     "return_pct": 8.5,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -507,7 +507,7 @@
     "price_at_rec": 90.7,
     "current_price": 100.58,
     "return_pct": 10.9,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -532,7 +532,7 @@
     "price_at_rec": 22.15,
     "current_price": 25.28,
     "return_pct": 14.1,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -557,7 +557,7 @@
     "price_at_rec": 301.2,
     "current_price": 337.0,
     "return_pct": 11.9,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -570,7 +570,7 @@
     "price_at_rec": 202.5,
     "current_price": 227.6,
     "return_pct": 12.4,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -583,7 +583,7 @@
     "price_at_rec": 60.03,
     "current_price": 71.27,
     "return_pct": 18.7,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -596,7 +596,7 @@
     "price_at_rec": 22.45,
     "current_price": 24.74,
     "return_pct": 10.2,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -621,7 +621,7 @@
     "price_at_rec": 14.47,
     "current_price": 14.49,
     "return_pct": 0.2,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -634,7 +634,7 @@
     "price_at_rec": 71.4,
     "current_price": 99.2,
     "return_pct": 38.9,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -659,7 +659,7 @@
     "price_at_rec": 222.6,
     "current_price": 205.4,
     "return_pct": -7.7,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -672,7 +672,7 @@
     "price_at_rec": 16.96,
     "current_price": 19.83,
     "return_pct": 16.9,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -685,7 +685,7 @@
     "price_at_rec": 41.27,
     "current_price": 46.93,
     "return_pct": 13.7,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -696,9 +696,9 @@
     "score": 28,
     "verdict": "The GLP-1 thesis is a real but distant, aggregate, and heavily caveated tailwind that does nothing to address AAL's acute triple threat of oil-price shock, massive debt, and an earnings miss — MONITOR for macro stabilization before acting.",
     "price_at_rec": 10.55,
-    "current_price": 11.84,
-    "return_pct": 12.2,
-    "last_checked": "2026-05-03",
+    "current_price": 11.85,
+    "return_pct": 12.3,
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -711,7 +711,7 @@
     "price_at_rec": 105.5,
     "current_price": 127.44,
     "return_pct": 20.8,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -722,9 +722,9 @@
     "score": 60,
     "verdict": "Campos/Google Gemini AI pivot is strategically credible and well-verified, but the thesis is fully in the public domain, the stock trades at a premium, execution risk is high until September 2026, and this email adds zero proprietary analytical value — accumulate on weakness toward the $240–$250 support zone rather than chasing at current levels.",
     "price_at_rec": 255.76,
-    "current_price": 280.14,
-    "return_pct": 9.5,
-    "last_checked": "2026-05-03",
+    "current_price": 280.25,
+    "return_pct": 9.6,
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -735,9 +735,9 @@
     "score": 52,
     "verdict": "A legitimate Q4 beat buried by a worse-than-expected Q1 guide — supply constraints are real and self-inflicted; wait for evidence of Q2 supply recovery and 18A yield improvement before building a position, as the risk/reward at 45x forward P/E with sub-35% gross margins remains unattractive near-term.",
     "price_at_rec": 45.25,
-    "current_price": 99.62,
-    "return_pct": 120.2,
-    "last_checked": "2026-05-03",
+    "current_price": 99.61,
+    "return_pct": 120.1,
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -750,7 +750,7 @@
     "price_at_rec": 65.93,
     "current_price": 62.63,
     "return_pct": -5.0,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -763,7 +763,7 @@
     "price_at_rec": 289.5,
     "current_price": 280.6,
     "return_pct": -3.1,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -776,7 +776,7 @@
     "price_at_rec": 132.6,
     "current_price": 185.1,
     "return_pct": 39.6,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -789,7 +789,7 @@
     "price_at_rec": null,
     "current_price": 39.18,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -802,7 +802,7 @@
     "price_at_rec": 108.0,
     "current_price": 100.4,
     "return_pct": -7.0,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -815,7 +815,7 @@
     "price_at_rec": 291.0,
     "current_price": 37.01,
     "return_pct": -87.3,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -864,7 +864,7 @@
     "price_at_rec": null,
     "current_price": 50.54,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -877,7 +877,7 @@
     "price_at_rec": 31.95,
     "current_price": 39.2,
     "return_pct": 22.7,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -890,7 +890,7 @@
     "price_at_rec": 95.38,
     "current_price": 102.25,
     "return_pct": 7.2,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -901,9 +901,9 @@
     "score": 55,
     "verdict": "Credible read-across tool for NOD with a broadly neutral signal; TXN itself is a quality analog recovery story but richly valued—monitor for Q1 confirmation of above-seasonal guidance before upgrading view.",
     "price_at_rec": 190.05,
-    "current_price": 281.02,
-    "return_pct": 47.9,
-    "last_checked": "2026-05-03",
+    "current_price": 280.95,
+    "return_pct": 47.8,
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -916,7 +916,7 @@
     "price_at_rec": 92.93,
     "current_price": 99.49,
     "return_pct": 7.1,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -929,7 +929,7 @@
     "price_at_rec": null,
     "current_price": 82.1,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -942,7 +942,7 @@
     "price_at_rec": 141.2,
     "current_price": 156.2,
     "return_pct": 10.6,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -955,7 +955,7 @@
     "price_at_rec": 89.6,
     "current_price": 94.6,
     "return_pct": 5.6,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -966,9 +966,9 @@
     "score": 52,
     "verdict": "MSFT Q2 fundamentals were verified as broadly accurate by the broker, but the stock's -14.8% YTD de-rating reflects a genuine capex/FCF compression story the broker consistently underweights — wait for April Q3 earnings to confirm Azure re-acceleration and capex sequentially declining before acting on the reseller read-across narrative.",
     "price_at_rec": 401.86,
-    "current_price": 414.44,
+    "current_price": 414.19,
     "return_pct": 3.1,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -993,7 +993,7 @@
     "price_at_rec": 33.24,
     "current_price": 55.75,
     "return_pct": 67.7,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -1018,7 +1018,7 @@
     "price_at_rec": null,
     "current_price": 254.8,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -1079,7 +1079,7 @@
     "price_at_rec": 584.5,
     "current_price": 559.0,
     "return_pct": -4.4,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -1116,7 +1116,7 @@
     "price_at_rec": null,
     "current_price": 79.3,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -1141,7 +1141,7 @@
     "price_at_rec": null,
     "current_price": 2503.5,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -1154,7 +1154,7 @@
     "price_at_rec": null,
     "current_price": 5917.0,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -1167,7 +1167,7 @@
     "price_at_rec": null,
     "current_price": 5629.0,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -1228,7 +1228,7 @@
     "price_at_rec": 293.1,
     "current_price": 337.0,
     "return_pct": 15.0,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -1253,7 +1253,7 @@
     "price_at_rec": null,
     "current_price": 333.2,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -1266,7 +1266,7 @@
     "price_at_rec": null,
     "current_price": 28.7,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -1279,7 +1279,7 @@
     "price_at_rec": null,
     "current_price": 45.44,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -1292,7 +1292,7 @@
     "price_at_rec": null,
     "current_price": 185.1,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -1305,7 +1305,7 @@
     "price_at_rec": null,
     "current_price": 8.66,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -1330,7 +1330,7 @@
     "price_at_rec": null,
     "current_price": 254.8,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -1343,7 +1343,7 @@
     "price_at_rec": null,
     "current_price": 539.0,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -1356,7 +1356,7 @@
     "price_at_rec": null,
     "current_price": 23.85,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -1381,7 +1381,7 @@
     "price_at_rec": 221.0,
     "current_price": 205.4,
     "return_pct": -7.1,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -1394,7 +1394,7 @@
     "price_at_rec": 1074.0,
     "current_price": 1074.0,
     "return_pct": 0.0,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
@@ -1407,7 +1407,7 @@
     "price_at_rec": 123.6,
     "current_price": 132.5,
     "return_pct": 7.2,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -1420,7 +1420,7 @@
     "price_at_rec": 41.84,
     "current_price": 38.53,
     "return_pct": -7.9,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "FLAT"
   },
   {
@@ -1445,7 +1445,7 @@
     "price_at_rec": null,
     "current_price": 27.1,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "DOWN"
   },
   {
@@ -1458,7 +1458,7 @@
     "price_at_rec": null,
     "current_price": 93.75,
     "return_pct": null,
-    "last_checked": "2026-05-03",
+    "last_checked": "2026-05-04",
     "momentum": "UP"
   },
   {
