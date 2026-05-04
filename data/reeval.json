@@ -1,407 +1,13 @@
 {
-  "NOD.OL": {
+  "9101.T": {
     "evolution": "STABLE",
-    "note": "No material change; near 52w high, buy consensus, but P/E 182x and no near-term catalysts. Long-cycle story unchanged.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 12,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": 146.0,
-    "return_pct": null
-  },
-  "BOL.SS": {
-    "evolution": "WEAKENING",
-    "note": "M&A catalyst collapsed, no price data, WEAKENING streak 11x continues. No actionable entry.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 12,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "LUMI.SS": {
-    "evolution": "STABLE",
-    "note": "No price data, thin thesis unchanged, STABLE streak continues. Nothing to act on.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 12,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "NVO / NOVO.B": {
-    "evolution": "WEAKENING",
-    "note": "Down 27.4% YTD, near 52w low, guidance cut, competitive headwinds unresolved. Falling knife risk persists.",
-    "alert": true,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 2,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-12"
-      }
-    ],
-    "timestamp": "2026-03-12T23:41:22.640280",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "CVX": {
-    "evolution": "WEAKENING",
-    "note": "Price exceeded analyst target of $193.75, YTD +30.7%, valuation stretched. WEAKENING streak continues, edge gone.",
-    "alert": false,
-    "action_signal": "TAKE_PROFIT",
-    "prev_action_signal": "TAKE_PROFIT",
-    "streak": 12,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": 201.73,
-    "return_pct": 5.2
-  },
-  "FRO": {
-    "evolution": "WEAKENING",
-    "note": "Price shows -88.9% — likely data anomaly (NOK/USD split). Prior WEAKENING shift noted. Monitor for Q1 confirmation near support.",
-    "alert": true,
-    "action_signal": "HOLD",
-    "prev_action_signal": "BUY",
-    "streak": 2,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 32.17,
-    "return_pct": -88.9
-  },
-  "DHT": {
-    "evolution": "STABLE",
-    "note": "YTD +50.8%, near analyst target $19.44, momentum flat. No new catalysts. Stable hold near highs.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 12,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": 17.27,
-    "return_pct": null
-  },
-  "INSW": {
-    "evolution": "STABLE",
-    "note": "YTD +48.6%, insider selling flagged, price below $75.2 target. Score 6, momentum flat. No clear action.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 12,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": 67.75,
-    "return_pct": null
-  },
-  "HAL": {
-    "evolution": "WEAKENING",
-    "note": "Price $36.53 vs target $36.94, nearly at ceiling. WEAKENING streak 7x. Rally priced in, no edge.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 8,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": 36.53,
-    "return_pct": 1.7
-  },
-  "SLB": {
-    "evolution": "WEAKENING",
-    "note": "Down 3.2%, momentum recovering but WEAKENING streak 9x. Q1 warning intact. 18.6% to target insufficient given risks.",
+    "note": "Price 5691 above target 5288, momentum DOWN, YTD +11%. No new catalyst; thesis unchanged. Consensus hold.",
     "alert": false,
     "action_signal": "HOLD",
     "prev_action_signal": "HOLD",
     "streak": 10,
     "history": [
       {
-        "evolution": "WEAKENING",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": 46.63,
-    "return_pct": -3.2
-  },
-  "ECO": {
-    "evolution": "STABLE",
-    "note": "Slight pullback -2.8%, momentum flat, stable fundamentals. Secondary tanker pick, no change in thesis.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 12,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
         "evolution": "STABLE",
         "date": "2026-03-18"
       },
@@ -420,142 +26,27 @@
       {
         "evolution": "STABLE",
         "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-24"
       }
     ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": 46.12,
-    "return_pct": -2.8
-  },
-  "BRUT.OL": {
-    "evolution": "STABLE",
-    "note": "Score 4, no coverage, momentum down. Insufficient info still. No change.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 12,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": 48.8,
+    "timestamp": "2026-03-24T05:22:48.584623",
+    "price_at_reeval": 5691.0,
     "return_pct": null
   },
-  "NAS.OL": {
+  "9104.T": {
     "evolution": "WEAKENING",
-    "note": "12x WEAKENING streak, YTD -18.3%, momentum DOWN, Iran fuel shock unresolved, broken chart, MNPI flag. Thesis deteriorating.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 13,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 14.39,
-    "return_pct": -0.5
-  },
-  "NHY.OL": {
-    "evolution": "WEAKENING",
-    "note": "Down 9.9% approaching 10% threshold, trading above broker TP, hold consensus, 4x WEAKENING streak. Near SELL trigger.",
+    "note": "Price 6398 well above consensus target 5707, WEAKENING 9x streak, YTD +35%, momentum flat. Overextended.",
     "alert": true,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 5,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 85.92,
-    "return_pct": -9.9
-  },
-  "YAR.OL": {
-    "evolution": "WEAKENING",
-    "note": "Price 493.6 above target 458.5, momentum DOWN, WEAKENING 11x streak. TAKE_PROFIT already signalled; thesis fading.",
-    "alert": false,
     "action_signal": "TAKE_PROFIT",
     "prev_action_signal": "TAKE_PROFIT",
-    "streak": 12,
+    "streak": 10,
     "history": [
       {
         "evolution": "WEAKENING",
@@ -587,16 +78,98 @@
       }
     ],
     "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 493.6,
+    "price_at_reeval": 6398.0,
     "return_pct": null
   },
-  "MSFT": {
+  "9107.T": {
     "evolution": "WEAKENING",
-    "note": "YTD -19.1%, down 5% from entry, 12x WEAKENING streak. Capex/FCF compression ongoing. Approaching critical support.",
+    "note": "Momentum DOWN, price 2575 above analyst target 2204, WEAKENING 9x streak, consensus hold. Thesis structurally challenged.",
+    "alert": false,
+    "action_signal": "SELL",
+    "prev_action_signal": "SELL",
+    "streak": 10,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-24"
+      }
+    ],
+    "timestamp": "2026-03-24T05:22:48.584623",
+    "price_at_reeval": 2575.0,
+    "return_pct": null
+  },
+  "AA": {
+    "evolution": "WEAKENING",
+    "note": "Down 14.4% — alert triggered. 3x WEAKENING streak, price well below entry. Q1 softness playing out as warned. Thesis breaking.",
     "alert": true,
     "action_signal": "HOLD",
     "prev_action_signal": "HOLD",
-    "streak": 13,
+    "streak": 4,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 56.45,
+    "return_pct": -14.4
+  },
+  "AAL": {
+    "evolution": "WEAKENING",
+    "note": "8x WEAKENING streak, YTD -32.6%, triple threat of oil shock/debt/earnings miss unresolved. Prior SELL signal warranted review.",
+    "alert": false,
+    "action_signal": "SELL",
+    "prev_action_signal": "SELL",
+    "streak": 9,
     "history": [
       {
         "evolution": "WEAKENING",
@@ -628,21 +201,17 @@
       }
     ],
     "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 381.85,
-    "return_pct": -5.0
+    "price_at_reeval": 10.43,
+    "return_pct": -1.1
   },
-  "SPX": {
+  "AAPL": {
     "evolution": "WEAKENING",
-    "note": "Iran peace thesis fully negated by subsequent events. WEAKENING 11x. No actionable signal.",
+    "note": "Down 3%, entering $240-250 support zone per thesis. 8x WEAKENING streak but entry condition partially met. Momentum FLAT.",
     "alert": false,
     "action_signal": "HOLD",
     "prev_action_signal": "HOLD",
-    "streak": 12,
+    "streak": 9,
     "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-16"
-      },
       {
         "evolution": "WEAKENING",
         "date": "2026-03-17"
@@ -665,6 +234,51 @@
       },
       {
         "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 247.99,
+    "return_pct": -3.0
+  },
+  "ADNOCLS.AD": {
+    "evolution": "STABLE",
+    "note": "No price data, unverified rumour context unchanged. Actionable only via listed VLCC names. STABLE.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 12,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-16"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
         "date": "2026-03-22"
       }
     ],
@@ -672,18 +286,96 @@
     "price_at_reeval": null,
     "return_pct": null
   },
-  "META": {
+  "AKBM.OL": {
     "evolution": "WEAKENING",
-    "note": "Down -9.3% approaching 10% alert threshold. Momentum DOWN, broker errors uncorrected. WEAKENING trend accelerating.",
-    "alert": true,
+    "note": "Down 4.6%, momentum DOWN, 2x WEAKENING streak. Expensive vs targets, leverage concerns, omitted HHI strategic process.",
+    "alert": false,
     "action_signal": "HOLD",
     "prev_action_signal": "HOLD",
+    "streak": 3,
+    "history": [
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 103.0,
+    "return_pct": -4.6
+  },
+  "AKER.OL": {
+    "evolution": "WEAKENING",
+    "note": "Price flat vs entry but above consensus target 982, WEAKENING now 2x streak. +38% YTD; NAV gap unresolved, TAKE_PROFIT intact.",
+    "alert": true,
+    "action_signal": "TAKE_PROFIT",
+    "prev_action_signal": "TAKE_PROFIT",
     "streak": 2,
     "history": [
       {
         "evolution": "STABLE",
-        "date": "2026-03-16"
+        "date": "2026-03-18"
       },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-24"
+      }
+    ],
+    "timestamp": "2026-03-24T05:22:48.584623",
+    "price_at_reeval": 1072.0,
+    "return_pct": -0.2
+  },
+  "ATEA.OL": {
+    "evolution": "STABLE",
+    "note": "-2.8%, 8x STABLE streak, no consensus, awaiting deeper fundamental work. No change to thesis.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
       {
         "evolution": "STABLE",
         "date": "2026-03-17"
@@ -701,17 +393,21 @@
         "date": "2026-03-20"
       },
       {
-        "evolution": "WEAKENING",
+        "evolution": "STABLE",
         "date": "2026-03-21"
       },
       {
-        "evolution": "WEAKENING",
+        "evolution": "STABLE",
         "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
       }
     ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": 593.66,
-    "return_pct": -9.3
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 137.2,
+    "return_pct": -2.8
   },
   "AVGO": {
     "evolution": "STRENGTHENING",
@@ -795,47 +491,6 @@
     "price_at_reeval": 23.25,
     "return_pct": null
   },
-  "ADNOCLS.AD": {
-    "evolution": "STABLE",
-    "note": "No price data, unverified rumour context unchanged. Actionable only via listed VLCC names. STABLE.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 12,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
   "BKNG": {
     "evolution": "WEAKENING",
     "note": "Flat price but -18.6% YTD, AI pop already in, WEAKENING 11x. Q1 guidance clarity still needed.",
@@ -877,40 +532,40 @@
     "price_at_reeval": 4324.04,
     "return_pct": 0.0
   },
-  "VEND": {
-    "evolution": "STABLE",
-    "note": "No price data, capital return thesis intact, awaiting buyback confirmation. STABLE streak continues.",
+  "BOL": {
+    "evolution": "WEAKENING",
+    "note": "M&A catalyst collapsed, no price data, WEAKENING streak 11x continues. No actionable entry.",
     "alert": false,
     "action_signal": "HOLD",
     "prev_action_signal": "HOLD",
     "streak": 12,
     "history": [
       {
-        "evolution": "STABLE",
+        "evolution": "WEAKENING",
         "date": "2026-03-16"
       },
       {
-        "evolution": "STABLE",
+        "evolution": "WEAKENING",
         "date": "2026-03-17"
       },
       {
-        "evolution": "STABLE",
+        "evolution": "WEAKENING",
         "date": "2026-03-18"
       },
       {
-        "evolution": "STABLE",
+        "evolution": "WEAKENING",
         "date": "2026-03-19"
       },
       {
-        "evolution": "STABLE",
+        "evolution": "WEAKENING",
         "date": "2026-03-20"
       },
       {
-        "evolution": "STABLE",
+        "evolution": "WEAKENING",
         "date": "2026-03-21"
       },
       {
-        "evolution": "STABLE",
+        "evolution": "WEAKENING",
         "date": "2026-03-22"
       }
     ],
@@ -918,14 +573,18 @@
     "price_at_reeval": null,
     "return_pct": null
   },
-  "VEND.OL": {
+  "BRUT.OL": {
     "evolution": "STABLE",
-    "note": "Price 242.6, momentum DOWN, YTD -13.5%. April 30 earnings not yet due. STABLE 13x streak. Thesis unchanged.",
+    "note": "No price data, 8x STABLE streak, pre-revenue illiquid vehicle. No change.",
     "alert": false,
     "action_signal": "HOLD",
     "prev_action_signal": "HOLD",
-    "streak": 14,
+    "streak": 9,
     "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
       {
         "evolution": "STABLE",
         "date": "2026-03-18"
@@ -949,63 +608,100 @@
       {
         "evolution": "STABLE",
         "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "BWLPG.OL": {
+    "evolution": "STRENGTHENING",
+    "note": "Price 154.3 vs target 171.1, momentum UP, YTD +21.3%. Dip from 185 peak has occurred; entry condition (wait for dips) now met.",
+    "alert": true,
+    "action_signal": "BUY",
+    "prev_action_signal": "HOLD",
+    "streak": 1,
+    "history": [
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-20"
       },
       {
         "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      },
+      {
+        "evolution": "STRENGTHENING",
         "date": "2026-03-24"
       }
     ],
     "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 242.6,
+    "price_at_reeval": 154.3,
     "return_pct": null
   },
-  "SHOP": {
-    "evolution": "WEAKENING",
-    "note": "Down -9.8% near 10% alert threshold, -25.7% YTD, momentum DOWN. Fwd P/E 56x still stretched. WEAKENING 11x.",
-    "alert": true,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 12,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": 116.78,
-    "return_pct": -9.8
-  },
-  "LHA.DE": {
-    "evolution": "WEAKENING",
-    "note": "Down -6.9%, pilot strike active, ME suspensions ongoing. WEAKENING 11x. Labor clarity still absent.",
+  "C": {
+    "evolution": "STABLE",
+    "note": "Up 3.8% toward $109, above the $100-105 dip target. Momentum UP but entry condition for dip not met. 8x STABLE streak.",
     "alert": false,
     "action_signal": "HOLD",
     "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 109.52,
+    "return_pct": 3.8
+  },
+  "CVX": {
+    "evolution": "WEAKENING",
+    "note": "Price exceeded analyst target of $193.75, YTD +30.7%, valuation stretched. WEAKENING streak continues, edge gone.",
+    "alert": false,
+    "action_signal": "TAKE_PROFIT",
+    "prev_action_signal": "TAKE_PROFIT",
     "streak": 12,
     "history": [
       {
@@ -1038,8 +734,8 @@
       }
     ],
     "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": 7.34,
-    "return_pct": -6.9
+    "price_at_reeval": 201.73,
+    "return_pct": 5.2
   },
   "DELIA.OL": {
     "evolution": "STABLE",
@@ -1080,47 +776,6 @@
     ],
     "timestamp": "2026-03-22T05:20:48.890843",
     "price_at_reeval": 386.0,
-    "return_pct": null
-  },
-  "HEMNET.OL": {
-    "evolution": "STABLE",
-    "note": "No price data, consensus sell, no housing recovery signal. STABLE streak 11x. No action.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 12,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": null,
     "return_pct": null
   },
   "DFENS.OL": {
@@ -1164,9 +819,9 @@
     "price_at_reeval": 15.0,
     "return_pct": null
   },
-  "ENDUR.OL": {
+  "DHT": {
     "evolution": "STABLE",
-    "note": "Down -5.1%, moving toward target entry zone 95-100 NOK. Thesis intact, not yet at ideal entry. STABLE.",
+    "note": "YTD +50.8%, near analyst target $19.44, momentum flat. No new catalysts. Stable hold near highs.",
     "alert": false,
     "action_signal": "HOLD",
     "prev_action_signal": "HOLD",
@@ -1202,1033 +857,8 @@
       }
     ],
     "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": 103.2,
-    "return_pct": -5.1
-  },
-  "KOG.OL": {
-    "evolution": "STABLE",
-    "note": "Price $400 near analyst PT $401, momentum DOWN, P/E 84.8x. YTD +48.7%, near-perfection priced in. STABLE.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 12,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": 400.3,
-    "return_pct": -2.4
-  },
-  "GENOC.OL": {
-    "evolution": "STABLE",
-    "note": "No price data available; prospectus still pending. Thesis unchanged, awaiting verification triggers.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 12,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": null,
+    "price_at_reeval": 17.27,
     "return_pct": null
-  },
-  "AKER.OL": {
-    "evolution": "WEAKENING",
-    "note": "Price flat vs entry but above consensus target 982, WEAKENING now 2x streak. +38% YTD; NAV gap unresolved, TAKE_PROFIT intact.",
-    "alert": true,
-    "action_signal": "TAKE_PROFIT",
-    "prev_action_signal": "TAKE_PROFIT",
-    "streak": 2,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-24"
-      }
-    ],
-    "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 1072.0,
-    "return_pct": -0.2
-  },
-  "NDAQ": {
-    "evolution": "WEAKENING",
-    "note": "YTD -10.4%, WEAKENING streak now 9x. Entry condition 'wait for dips' partially met but momentum still flat, no stabilisation.",
-    "alert": true,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 10,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-16"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      }
-    ],
-    "timestamp": "2026-03-22T05:20:48.890843",
-    "price_at_reeval": 86.34,
-    "return_pct": null
-  },
-  "GLEN.L": {
-    "evolution": "WEAKENING",
-    "note": "M&A catalyst collapsed, 8x WEAKENING streak, high P/E 260, 6-month M&A lockout, rising short interest. Dip condition not meaningfully met.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 520.1,
-    "return_pct": -2.1
-  },
-  "RIO.L": {
-    "evolution": "WEAKENING",
-    "note": "Down 8.8% near 10% threshold, merger catalyst dead, momentum DOWN, 3x WEAKENING streak. Standalone story intact but headwinds building.",
-    "alert": true,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 4,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 6246.0,
-    "return_pct": -8.8
-  },
-  "GLCNF": {
-    "evolution": "WEAKENING",
-    "note": "Score 3/10, M&A catalyst gone, stretched P/E 229, 8x WEAKENING streak, prior signal SELL. No recovery signal.",
-    "alert": false,
-    "action_signal": "SELL",
-    "prev_action_signal": "SELL",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 6.88,
-    "return_pct": -2.4
-  },
-  "RIO": {
-    "evolution": "WEAKENING",
-    "note": "Down 8.3% approaching 10% threshold, merger catalyst gone, momentum DOWN, 8x WEAKENING streak. Entry condition partially met but thesis still weak.",
-    "alert": true,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 83.15,
-    "return_pct": -8.3
-  },
-  "NOD": {
-    "evolution": "STABLE",
-    "note": "No price data available, TSMC IoT deceleration concern unchanged, 8x STABLE streak. No new information to shift thesis.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "SBLK": {
-    "evolution": "STABLE",
-    "note": "Price barely moved +0.8%, momentum FLAT, 2x STABLE streak. Entry dip condition not yet triggered; China demand headwinds unresolved.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 3,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 22.33,
-    "return_pct": 0.8
-  },
-  "NOVO.CO": {
-    "evolution": "WEAKENING",
-    "note": "CagriSema failure, guided sales declines, Lilly competition intensifying, insider selling. 8x WEAKENING streak continues.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "FRO.OL": {
-    "evolution": "STABLE",
-    "note": "Price +11.6% from entry, now at/above analyst target 325. TAKE_PROFIT signal intact; momentum UP but edge fully priced.",
-    "alert": true,
-    "action_signal": "TAKE_PROFIT",
-    "prev_action_signal": "TAKE_PROFIT",
-    "streak": 10,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-24"
-      }
-    ],
-    "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 327.1,
-    "return_pct": 11.6
-  },
-  "NORBT.OL": {
-    "evolution": "STABLE",
-    "note": "Down 3.4%, momentum DOWN, premium 32x P/E, DNB contrarian HOLD. 8x STABLE streak, no material thesis change.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 195.6,
-    "return_pct": -3.4
-  },
-  "NMM": {
-    "evolution": "STRENGTHENING",
-    "note": "Up 7.6%, momentum UP, 6x STRENGTHENING streak, 31% discount to target 87, score 78, strong_buy momentum building.",
-    "alert": false,
-    "action_signal": "BUY",
-    "prev_action_signal": "BUY",
-    "streak": 7,
-    "history": [
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 64.62,
-    "return_pct": 7.6
-  },
-  "LINK.OL": {
-    "evolution": "WEAKENING",
-    "note": "Down 6%, YTD -36.6%, momentum DOWN, 6x WEAKENING streak, speculative thesis, weak fundamentals P/E 75.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 7,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 21.1,
-    "return_pct": -6.0
-  },
-  "SWON": {
-    "evolution": "STRENGTHENING",
-    "note": "8x STRENGTHENING streak, Q4 +11% cc LFL beat validates thesis. Awaiting 31 Mar full results for guidance confirmation.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "ZAL.OL": {
-    "evolution": "STRENGTHENING",
-    "note": "Up 37.3% — alert triggered. M&A tender at NOK 100 validates thesis. Current holders should tender; new buyers face capped upside.",
-    "alert": true,
-    "action_signal": "TAKE_PROFIT",
-    "prev_action_signal": "TAKE_PROFIT",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 98.0,
-    "return_pct": 37.3
-  },
-  "MOWI.OL": {
-    "evolution": "STABLE",
-    "note": "Price 212.4 down 3.9% from entry, momentum DOWN, YTD -12.5%. Dip condition partially met but no Q1 cost confirmation yet.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 10,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-24"
-      }
-    ],
-    "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 212.4,
-    "return_pct": -3.9
-  },
-  "DNO.OL": {
-    "evolution": "STRENGTHENING",
-    "note": "Up 15.3% — alert triggered. 6x STRENGTHENING streak, momentum UP, score 82, strong_buy consensus, near target 21.",
-    "alert": true,
-    "action_signal": "BUY",
-    "prev_action_signal": "BUY",
-    "streak": 7,
-    "history": [
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 19.55,
-    "return_pct": 15.3
-  },
-  "VAR.OL": {
-    "evolution": "STRENGTHENING",
-    "note": "Up 16.3% — alert triggered. Price 47.99 now above target 40.70, YTD +48.9%. Prev TAKE_PROFIT signal now reinforced by overrun.",
-    "alert": true,
-    "action_signal": "TAKE_PROFIT",
-    "prev_action_signal": "TAKE_PROFIT",
-    "streak": 2,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 47.99,
-    "return_pct": 16.3
-  },
-  "AAL": {
-    "evolution": "WEAKENING",
-    "note": "8x WEAKENING streak, YTD -32.6%, triple threat of oil shock/debt/earnings miss unresolved. Prior SELL signal warranted review.",
-    "alert": false,
-    "action_signal": "SELL",
-    "prev_action_signal": "SELL",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 10.43,
-    "return_pct": -1.1
-  },
-  "C": {
-    "evolution": "STABLE",
-    "note": "Up 3.8% toward $109, above the $100-105 dip target. Momentum UP but entry condition for dip not met. 8x STABLE streak.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 109.52,
-    "return_pct": 3.8
-  },
-  "AAPL": {
-    "evolution": "WEAKENING",
-    "note": "Down 3%, entering $240-250 support zone per thesis. 8x WEAKENING streak but entry condition partially met. Momentum FLAT.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 247.99,
-    "return_pct": -3.0
-  },
-  "INTC": {
-    "evolution": "STABLE",
-    "note": "Down 3%, momentum DOWN, 8x STABLE streak. Q2 supply recovery and 18A yield still unconfirmed. No change to cautious stance.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 43.87,
-    "return_pct": -3.0
-  },
-  "AA": {
-    "evolution": "WEAKENING",
-    "note": "Down 14.4% — alert triggered. 3x WEAKENING streak, price well below entry. Q1 softness playing out as warned. Thesis breaking.",
-    "alert": true,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 4,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 56.45,
-    "return_pct": -14.4
   },
   "DNB.OL": {
     "evolution": "STABLE",
@@ -2271,14 +901,18 @@
     "price_at_reeval": 289.6,
     "return_pct": 0.0
   },
-  "BWLPG.OL": {
+  "DNO.OL": {
     "evolution": "STRENGTHENING",
-    "note": "Price 154.3 vs target 171.1, momentum UP, YTD +21.3%. Dip from 185 peak has occurred; entry condition (wait for dips) now met.",
+    "note": "Up 15.3% — alert triggered. 6x STRENGTHENING streak, momentum UP, score 82, strong_buy consensus, near target 21.",
     "alert": true,
     "action_signal": "BUY",
-    "prev_action_signal": "HOLD",
-    "streak": 1,
+    "prev_action_signal": "BUY",
+    "streak": 7,
     "history": [
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-17"
+      },
       {
         "evolution": "STRENGTHENING",
         "date": "2026-03-18"
@@ -2292,107 +926,103 @@
         "date": "2026-03-20"
       },
       {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 19.55,
+    "return_pct": 15.3
+  },
+  "ECO": {
+    "evolution": "STABLE",
+    "note": "Slight pullback -2.8%, momentum flat, stable fundamentals. Secondary tanker pick, no change in thesis.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 12,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-16"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
         "evolution": "STABLE",
         "date": "2026-03-21"
       },
       {
         "evolution": "STABLE",
         "date": "2026-03-22"
+      }
+    ],
+    "timestamp": "2026-03-22T05:20:48.890843",
+    "price_at_reeval": 46.12,
+    "return_pct": -2.8
+  },
+  "ELK.OL": {
+    "evolution": "WEAKENING",
+    "note": "Momentum DOWN, YTD -11.1%, WEAKENING 7x streak, prior SELL signal. H1 weakness ongoing; no recovery signal.",
+    "alert": false,
+    "action_signal": "SELL",
+    "prev_action_signal": "SELL",
+    "streak": 8,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
       },
       {
-        "evolution": "STABLE",
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
         "date": "2026-03-23"
       },
       {
-        "evolution": "STRENGTHENING",
+        "evolution": "WEAKENING",
         "date": "2026-03-24"
       }
     ],
     "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 154.3,
+    "price_at_reeval": 27.2,
     "return_pct": null
-  },
-  "LPG": {
-    "evolution": "STABLE",
-    "note": "Up to 32.80, momentum UP, 8x STABLE streak. Below target 36. CEO insider buy and upgrade intact but no evolution shift.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 32.8,
-    "return_pct": null
-  },
-  "AKBM.OL": {
-    "evolution": "WEAKENING",
-    "note": "Down 4.6%, momentum DOWN, 2x WEAKENING streak. Expensive vs targets, leverage concerns, omitted HHI strategic process.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 3,
-    "history": [
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 103.0,
-    "return_pct": -4.6
   },
   "ELOP.OL": {
     "evolution": "STABLE",
@@ -2476,96 +1106,18 @@
     "price_at_reeval": null,
     "return_pct": null
   },
-  "NE": {
-    "evolution": "WEAKENING",
-    "note": "Price 46.71 vs 42.2 target — trading above stale target, 2x WEAKENING streak continues, no consensus support.",
-    "alert": true,
-    "action_signal": "TAKE_PROFIT",
-    "prev_action_signal": "TAKE_PROFIT",
-    "streak": 3,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 46.71,
-    "return_pct": null
-  },
-  "OKEA.OL": {
-    "evolution": "WEAKENING",
-    "note": "+19.2% above entry, now 4.4% above consensus target of 36.5, 6x WEAKENING streak — thesis fully priced, rally extended.",
-    "alert": true,
-    "action_signal": "TAKE_PROFIT",
-    "prev_action_signal": "TAKE_PROFIT",
-    "streak": 7,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 38.1,
-    "return_pct": 19.2
-  },
-  "TXN": {
+  "ENDUR.OL": {
     "evolution": "STABLE",
-    "note": "Flat -1.5%, 8x STABLE streak, hold consensus, awaiting Q1 confirmation. No change.",
+    "note": "Down -5.1%, moving toward target entry zone 95-100 NOK. Thesis intact, not yet at ideal entry. STABLE.",
     "alert": false,
     "action_signal": "HOLD",
     "prev_action_signal": "HOLD",
-    "streak": 9,
+    "streak": 12,
     "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-16"
+      },
       {
         "evolution": "STABLE",
         "date": "2026-03-17"
@@ -2589,917 +1141,11 @@
       {
         "evolution": "STABLE",
         "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
       }
     ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 187.19,
-    "return_pct": -1.5
-  },
-  "LOGI": {
-    "evolution": "STABLE",
-    "note": "-5.4% from entry, YTD -12.3%, gaming headwinds persist, 8x STABLE streak. Hold consensus, no new catalysts.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 87.92,
-    "return_pct": -5.4
-  },
-  "SWON.OL": {
-    "evolution": "WEAKENING",
-    "note": "YTD -30%, near 52w low, 8x WEAKENING streak, prev signal SELL — thesis remains broken, no recovery evidence.",
-    "alert": false,
-    "action_signal": "SELL",
-    "prev_action_signal": "SELL",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 79.47,
-    "return_pct": null
-  },
-  "ATEA.OL": {
-    "evolution": "STABLE",
-    "note": "-2.8%, 8x STABLE streak, no consensus, awaiting deeper fundamental work. No change to thesis.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 137.2,
-    "return_pct": -2.8
-  },
-  "EPR.OL": {
-    "evolution": "STABLE",
-    "note": "-2.1%, 8x STABLE streak, Q1 weakness entry point thesis intact. No material change.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 87.7,
-    "return_pct": -2.1
-  },
-  "SWON.ST": {
-    "evolution": "WEAKENING",
-    "note": "No price data, 8x WEAKENING streak, prev SELL. MS Underweight intact, no resolution of bear case.",
-    "alert": false,
-    "action_signal": "SELL",
-    "prev_action_signal": "SELL",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "STM": {
-    "evolution": "WEAKENING",
-    "note": "-7.2%, P/E 171x stretched, EPS miss unresolved, 2x WEAKENING streak. Approaching SELL threshold.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 3,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 30.86,
-    "return_pct": -7.2
-  },
-  "GJNSE.OL": {
-    "evolution": "STABLE",
-    "note": "No price data, 8x STABLE streak, valuation premium vs peers unchanged. No action.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "NDA.ST": {
-    "evolution": "STABLE",
-    "note": "No price data, 8x STABLE streak, NII stabilisation awaited. No change.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "SEBA.ST": {
-    "evolution": "STABLE",
-    "note": "No price data, 8x STABLE streak, dip entry thesis unchanged. No action until SEK 175-180.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "SWED.ST": {
-    "evolution": "STABLE",
-    "note": "No price data, 8x STABLE streak, ex-div entry strategy intact. No change.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "SALM.OL": {
-    "evolution": "WEAKENING",
-    "note": "Down 5% from entry, YTD -10.3%, momentum DOWN, thesis weakening 1x. Below consensus target — monitor closely.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 2,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 555.0,
-    "return_pct": -5.0
-  },
-  "BRUT": {
-    "evolution": "STABLE",
-    "note": "No price data, 8x STABLE streak, pre-revenue illiquid vehicle. No change.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "QATAR.INTL": {
-    "evolution": "STABLE",
-    "note": "No tradeable ticker, macro LNG thesis intact, 8x STABLE streak. No change.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 9,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "SNTIA.OL": {
-    "evolution": "STRENGTHENING",
-    "note": "YTD +12.3%, 4x STRENGTHENING streak, 8%+ yield, record Q4, growing backlog. Annual report due Mar 27 is key catalyst.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 5,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-17"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-23"
-      }
-    ],
-    "timestamp": "2026-03-23T05:32:37.048199",
-    "price_at_reeval": 69.84,
-    "return_pct": null
-  },
-  "MAERSK.CO": {
-    "evolution": "STABLE",
-    "note": "No price data to assess; crisis ongoing but no new fundamental shift. Analyst downgrades and trapped vessels persist.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 10,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-24"
-      }
-    ],
-    "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "9107.T": {
-    "evolution": "WEAKENING",
-    "note": "Momentum DOWN, price 2575 above analyst target 2204, WEAKENING 9x streak, consensus hold. Thesis structurally challenged.",
-    "alert": false,
-    "action_signal": "SELL",
-    "prev_action_signal": "SELL",
-    "streak": 10,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-24"
-      }
-    ],
-    "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 2575.0,
-    "return_pct": null
-  },
-  "9104.T": {
-    "evolution": "WEAKENING",
-    "note": "Price 6398 well above consensus target 5707, WEAKENING 9x streak, YTD +35%, momentum flat. Overextended.",
-    "alert": true,
-    "action_signal": "TAKE_PROFIT",
-    "prev_action_signal": "TAKE_PROFIT",
-    "streak": 10,
-    "history": [
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-23"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-24"
-      }
-    ],
-    "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 6398.0,
-    "return_pct": null
-  },
-  "9101.T": {
-    "evolution": "STABLE",
-    "note": "Price 5691 above target 5288, momentum DOWN, YTD +11%. No new catalyst; thesis unchanged. Consensus hold.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 10,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-24"
-      }
-    ],
-    "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 5691.0,
-    "return_pct": null
-  },
-  "SED.OL": {
-    "evolution": "STABLE",
-    "note": "No price data; research gaps unresolved. No change to cautious stance.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 10,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-24"
-      }
-    ],
-    "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": null,
-    "return_pct": null
-  },
-  "SUBC.OL": {
-    "evolution": "STABLE",
-    "note": "Price 263.8 near target 274.8, momentum UP, YTD +26.8%. CEO risk manageable; thesis intact but limited upside remaining.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 10,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-24"
-      }
-    ],
-    "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 263.8,
-    "return_pct": null
-  },
-  "SOMA.OL": {
-    "evolution": "STRENGTHENING",
-    "note": "Price 26.95 at target 27.0, momentum UP, YTD +48.3%, strong_buy consensus. Near target limits further upside; TAKE_PROFIT appropriate.",
-    "alert": false,
-    "action_signal": "TAKE_PROFIT",
-    "prev_action_signal": "TAKE_PROFIT",
-    "streak": 6,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-23"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-24"
-      }
-    ],
-    "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 26.95,
-    "return_pct": null
-  },
-  "LSG.OL": {
-    "evolution": "WEAKENING",
-    "note": "Momentum DOWN, YTD -6.8%. Q2 biological improvement unconfirmed. WAIT_FOR_DIPS condition met but thesis weakening, not strengthening.",
-    "alert": false,
-    "action_signal": "HOLD",
-    "prev_action_signal": "HOLD",
-    "streak": 1,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      },
-      {
-        "evolution": "WEAKENING",
-        "date": "2026-03-24"
-      }
-    ],
-    "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 47.94,
-    "return_pct": null
+    "timestamp": "2026-03-22T05:20:48.890843",
+    "price_at_reeval": 103.2,
+    "return_pct": -5.1
   },
   "ENH.OL": {
     "evolution": "STABLE",
@@ -3542,7 +1188,89 @@
     "price_at_reeval": 8.7,
     "return_pct": null
   },
-  "GENERAL OCEANS (PRE-IPO)": {
+  "EPR.OL": {
+    "evolution": "STABLE",
+    "note": "-2.1%, 8x STABLE streak, Q1 weakness entry point thesis intact. No material change.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 87.7,
+    "return_pct": -2.1
+  },
+  "FRO.OL": {
+    "evolution": "STABLE",
+    "note": "Price +11.6% from entry, now at/above analyst target 325. TAKE_PROFIT signal intact; momentum UP but edge fully priced.",
+    "alert": true,
+    "action_signal": "TAKE_PROFIT",
+    "prev_action_signal": "TAKE_PROFIT",
+    "streak": 10,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-24"
+      }
+    ],
+    "timestamp": "2026-03-24T05:22:48.584623",
+    "price_at_reeval": 327.1,
+    "return_pct": 11.6
+  },
+  "GENERAL OCEANS (PRE-IPO).OL": {
     "evolution": "STABLE",
     "note": "Pre-IPO, no price data. Conflict of interest and prospectus pending. No change.",
     "alert": false,
@@ -3624,55 +1352,59 @@
     "price_at_reeval": null,
     "return_pct": null
   },
-  "HAUTO.OL": {
+  "GENOC.OL": {
     "evolution": "STABLE",
-    "note": "Price 131.4 above target 128.4, momentum UP, YTD +39.5%. Price exceeded target; TAKE_PROFIT remains correct call.",
-    "alert": false,
-    "action_signal": "TAKE_PROFIT",
-    "prev_action_signal": "TAKE_PROFIT",
-    "streak": 2,
-    "history": [
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-18"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-19"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-20"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-21"
-      },
-      {
-        "evolution": "STRENGTHENING",
-        "date": "2026-03-22"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-23"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-24"
-      }
-    ],
-    "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 131.4,
-    "return_pct": 6.3
-  },
-  "KMX": {
-    "evolution": "STABLE",
-    "note": "Price 42.89 above analyst target 40.08, momentum flat. Activist catalyst intact but structural headwinds persist. No change.",
+    "note": "No price data available; prospectus still pending. Thesis unchanged, awaiting verification triggers.",
     "alert": false,
     "action_signal": "HOLD",
     "prev_action_signal": "HOLD",
-    "streak": 10,
+    "streak": 12,
     "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-16"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      }
+    ],
+    "timestamp": "2026-03-22T05:20:48.890843",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "GJNSE.OL": {
+    "evolution": "STABLE",
+    "note": "No price data, 8x STABLE streak, valuation premium vs peers unchanged. No action.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
       {
         "evolution": "STABLE",
         "date": "2026-03-18"
@@ -3696,15 +1428,93 @@
       {
         "evolution": "STABLE",
         "date": "2026-03-23"
-      },
-      {
-        "evolution": "STABLE",
-        "date": "2026-03-24"
       }
     ],
-    "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 42.89,
-    "return_pct": 2.5
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "GLCNF": {
+    "evolution": "WEAKENING",
+    "note": "Score 3/10, M&A catalyst gone, stretched P/E 229, 8x WEAKENING streak, prior signal SELL. No recovery signal.",
+    "alert": false,
+    "action_signal": "SELL",
+    "prev_action_signal": "SELL",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 6.88,
+    "return_pct": -2.4
+  },
+  "GLEN.L": {
+    "evolution": "WEAKENING",
+    "note": "M&A catalyst collapsed, 8x WEAKENING streak, high P/E 260, 6-month M&A lockout, rising short interest. Dip condition not meaningfully met.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 520.1,
+    "return_pct": -2.1
   },
   "GOCE.OL": {
     "evolution": "STABLE",
@@ -3747,14 +1557,346 @@
     "price_at_reeval": null,
     "return_pct": null
   },
-  "ELK.OL": {
+  "HAL": {
     "evolution": "WEAKENING",
-    "note": "Momentum DOWN, YTD -11.1%, WEAKENING 7x streak, prior SELL signal. H1 weakness ongoing; no recovery signal.",
+    "note": "Price $36.53 vs target $36.94, nearly at ceiling. WEAKENING streak 7x. Rally priced in, no edge.",
     "alert": false,
-    "action_signal": "SELL",
-    "prev_action_signal": "SELL",
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
     "streak": 8,
     "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-16"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      }
+    ],
+    "timestamp": "2026-03-22T05:20:48.890843",
+    "price_at_reeval": 36.53,
+    "return_pct": 1.7
+  },
+  "HAUTO.OL": {
+    "evolution": "STABLE",
+    "note": "Price 131.4 above target 128.4, momentum UP, YTD +39.5%. Price exceeded target; TAKE_PROFIT remains correct call.",
+    "alert": false,
+    "action_signal": "TAKE_PROFIT",
+    "prev_action_signal": "TAKE_PROFIT",
+    "streak": 2,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-24"
+      }
+    ],
+    "timestamp": "2026-03-24T05:22:48.584623",
+    "price_at_reeval": 131.4,
+    "return_pct": 6.3
+  },
+  "HEMNET.OL": {
+    "evolution": "STABLE",
+    "note": "No price data, consensus sell, no housing recovery signal. STABLE streak 11x. No action.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 12,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-16"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      }
+    ],
+    "timestamp": "2026-03-22T05:20:48.890843",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "INSW": {
+    "evolution": "STABLE",
+    "note": "YTD +48.6%, insider selling flagged, price below $75.2 target. Score 6, momentum flat. No clear action.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 12,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-16"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      }
+    ],
+    "timestamp": "2026-03-22T05:20:48.890843",
+    "price_at_reeval": 67.75,
+    "return_pct": null
+  },
+  "INTC": {
+    "evolution": "STABLE",
+    "note": "Down 3%, momentum DOWN, 8x STABLE streak. Q2 supply recovery and 18A yield still unconfirmed. No change to cautious stance.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 43.87,
+    "return_pct": -3.0
+  },
+  "KMX": {
+    "evolution": "STABLE",
+    "note": "Price 42.89 above analyst target 40.08, momentum flat. Activist catalyst intact but structural headwinds persist. No change.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 10,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-24"
+      }
+    ],
+    "timestamp": "2026-03-24T05:22:48.584623",
+    "price_at_reeval": 42.89,
+    "return_pct": 2.5
+  },
+  "KOG.OL": {
+    "evolution": "STABLE",
+    "note": "Price $400 near analyst PT $401, momentum DOWN, P/E 84.8x. YTD +48.7%, near-perfection priced in. STABLE.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 12,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-16"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      }
+    ],
+    "timestamp": "2026-03-22T05:20:48.890843",
+    "price_at_reeval": 400.3,
+    "return_pct": -2.4
+  },
+  "LHA.DE": {
+    "evolution": "WEAKENING",
+    "note": "Down -6.9%, pilot strike active, ME suspensions ongoing. WEAKENING 11x. Labor clarity still absent.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 12,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-16"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      }
+    ],
+    "timestamp": "2026-03-22T05:20:48.890843",
+    "price_at_reeval": 7.34,
+    "return_pct": -6.9
+  },
+  "LINK.OL": {
+    "evolution": "WEAKENING",
+    "note": "Down 6%, YTD -36.6%, momentum DOWN, 6x WEAKENING streak, speculative thesis, weak fundamentals P/E 75.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 7,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
       {
         "evolution": "WEAKENING",
         "date": "2026-03-18"
@@ -3778,6 +1920,125 @@
       {
         "evolution": "WEAKENING",
         "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 21.1,
+    "return_pct": -6.0
+  },
+  "LOGI": {
+    "evolution": "STABLE",
+    "note": "-5.4% from entry, YTD -12.3%, gaming headwinds persist, 8x STABLE streak. Hold consensus, no new catalysts.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 87.92,
+    "return_pct": -5.4
+  },
+  "LPG": {
+    "evolution": "STABLE",
+    "note": "Up to 32.80, momentum UP, 8x STABLE streak. Below target 36. CEO insider buy and upgrade intact but no evolution shift.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 32.8,
+    "return_pct": null
+  },
+  "LSG.OL": {
+    "evolution": "WEAKENING",
+    "note": "Momentum DOWN, YTD -6.8%. Q2 biological improvement unconfirmed. WAIT_FOR_DIPS condition met but thesis weakening, not strengthening.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 1,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
       },
       {
         "evolution": "WEAKENING",
@@ -3785,7 +2046,1336 @@
       }
     ],
     "timestamp": "2026-03-24T05:22:48.584623",
-    "price_at_reeval": 27.2,
+    "price_at_reeval": 47.94,
+    "return_pct": null
+  },
+  "LUMI": {
+    "evolution": "STABLE",
+    "note": "No price data, thin thesis unchanged, STABLE streak continues. Nothing to act on.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 12,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-16"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      }
+    ],
+    "timestamp": "2026-03-22T05:20:48.890843",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "MAERSK.CO": {
+    "evolution": "STABLE",
+    "note": "No price data to assess; crisis ongoing but no new fundamental shift. Analyst downgrades and trapped vessels persist.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 10,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-24"
+      }
+    ],
+    "timestamp": "2026-03-24T05:22:48.584623",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "META": {
+    "evolution": "WEAKENING",
+    "note": "Down -9.3% approaching 10% alert threshold. Momentum DOWN, broker errors uncorrected. WEAKENING trend accelerating.",
+    "alert": true,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 2,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-16"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      }
+    ],
+    "timestamp": "2026-03-22T05:20:48.890843",
+    "price_at_reeval": 593.66,
+    "return_pct": -9.3
+  },
+  "MOWI.OL": {
+    "evolution": "STABLE",
+    "note": "Price 212.4 down 3.9% from entry, momentum DOWN, YTD -12.5%. Dip condition partially met but no Q1 cost confirmation yet.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 10,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-24"
+      }
+    ],
+    "timestamp": "2026-03-24T05:22:48.584623",
+    "price_at_reeval": 212.4,
+    "return_pct": -3.9
+  },
+  "MSFT": {
+    "evolution": "WEAKENING",
+    "note": "YTD -19.1%, down 5% from entry, 12x WEAKENING streak. Capex/FCF compression ongoing. Approaching critical support.",
+    "alert": true,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 13,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 381.85,
+    "return_pct": -5.0
+  },
+  "NAS.OL": {
+    "evolution": "WEAKENING",
+    "note": "12x WEAKENING streak, YTD -18.3%, momentum DOWN, Iran fuel shock unresolved, broken chart, MNPI flag. Thesis deteriorating.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 13,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 14.39,
+    "return_pct": -0.5
+  },
+  "NDA.ST": {
+    "evolution": "STABLE",
+    "note": "No price data, 8x STABLE streak, NII stabilisation awaited. No change.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "NDAQ": {
+    "evolution": "WEAKENING",
+    "note": "YTD -10.4%, WEAKENING streak now 9x. Entry condition 'wait for dips' partially met but momentum still flat, no stabilisation.",
+    "alert": true,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 10,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-16"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      }
+    ],
+    "timestamp": "2026-03-22T05:20:48.890843",
+    "price_at_reeval": 86.34,
+    "return_pct": null
+  },
+  "NE": {
+    "evolution": "WEAKENING",
+    "note": "Price 46.71 vs 42.2 target — trading above stale target, 2x WEAKENING streak continues, no consensus support.",
+    "alert": true,
+    "action_signal": "TAKE_PROFIT",
+    "prev_action_signal": "TAKE_PROFIT",
+    "streak": 3,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 46.71,
+    "return_pct": null
+  },
+  "NHY.OL": {
+    "evolution": "WEAKENING",
+    "note": "Down 9.9% approaching 10% threshold, trading above broker TP, hold consensus, 4x WEAKENING streak. Near SELL trigger.",
+    "alert": true,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 5,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 85.92,
+    "return_pct": -9.9
+  },
+  "NMM": {
+    "evolution": "STRENGTHENING",
+    "note": "Up 7.6%, momentum UP, 6x STRENGTHENING streak, 31% discount to target 87, score 78, strong_buy momentum building.",
+    "alert": false,
+    "action_signal": "BUY",
+    "prev_action_signal": "BUY",
+    "streak": 7,
+    "history": [
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 64.62,
+    "return_pct": 7.6
+  },
+  "NOD.OL": {
+    "evolution": "STABLE",
+    "note": "No price data available, TSMC IoT deceleration concern unchanged, 8x STABLE streak. No new information to shift thesis.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "NORBT.OL": {
+    "evolution": "STABLE",
+    "note": "Down 3.4%, momentum DOWN, premium 32x P/E, DNB contrarian HOLD. 8x STABLE streak, no material thesis change.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 195.6,
+    "return_pct": -3.4
+  },
+  "NOVO.CO": {
+    "evolution": "WEAKENING",
+    "note": "CagriSema failure, guided sales declines, Lilly competition intensifying, insider selling. 8x WEAKENING streak continues.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "NVO": {
+    "evolution": "WEAKENING",
+    "note": "Down 27.4% YTD, near 52w low, guidance cut, competitive headwinds unresolved. Falling knife risk persists.",
+    "alert": true,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 2,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-12"
+      }
+    ],
+    "timestamp": "2026-03-12T23:41:22.640280",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "OKEA.OL": {
+    "evolution": "WEAKENING",
+    "note": "+19.2% above entry, now 4.4% above consensus target of 36.5, 6x WEAKENING streak — thesis fully priced, rally extended.",
+    "alert": true,
+    "action_signal": "TAKE_PROFIT",
+    "prev_action_signal": "TAKE_PROFIT",
+    "streak": 7,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 38.1,
+    "return_pct": 19.2
+  },
+  "QATAR": {
+    "evolution": "STABLE",
+    "note": "No tradeable ticker, macro LNG thesis intact, 8x STABLE streak. No change.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "RIO": {
+    "evolution": "WEAKENING",
+    "note": "Down 8.3% approaching 10% threshold, merger catalyst gone, momentum DOWN, 8x WEAKENING streak. Entry condition partially met but thesis still weak.",
+    "alert": true,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 83.15,
+    "return_pct": -8.3
+  },
+  "RIO.L": {
+    "evolution": "WEAKENING",
+    "note": "Down 8.8% near 10% threshold, merger catalyst dead, momentum DOWN, 3x WEAKENING streak. Standalone story intact but headwinds building.",
+    "alert": true,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 4,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 6246.0,
+    "return_pct": -8.8
+  },
+  "SALM.OL": {
+    "evolution": "WEAKENING",
+    "note": "Down 5% from entry, YTD -10.3%, momentum DOWN, thesis weakening 1x. Below consensus target — monitor closely.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 2,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 555.0,
+    "return_pct": -5.0
+  },
+  "SBLK": {
+    "evolution": "STABLE",
+    "note": "Price barely moved +0.8%, momentum FLAT, 2x STABLE streak. Entry dip condition not yet triggered; China demand headwinds unresolved.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 3,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 22.33,
+    "return_pct": 0.8
+  },
+  "SEBA.ST": {
+    "evolution": "STABLE",
+    "note": "No price data, 8x STABLE streak, dip entry thesis unchanged. No action until SEK 175-180.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "SED.OL": {
+    "evolution": "STABLE",
+    "note": "No price data; research gaps unresolved. No change to cautious stance.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 10,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-24"
+      }
+    ],
+    "timestamp": "2026-03-24T05:22:48.584623",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "SHOP": {
+    "evolution": "WEAKENING",
+    "note": "Down -9.8% near 10% alert threshold, -25.7% YTD, momentum DOWN. Fwd P/E 56x still stretched. WEAKENING 11x.",
+    "alert": true,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 12,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-16"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      }
+    ],
+    "timestamp": "2026-03-22T05:20:48.890843",
+    "price_at_reeval": 116.78,
+    "return_pct": -9.8
+  },
+  "SLB": {
+    "evolution": "WEAKENING",
+    "note": "Down 3.2%, momentum recovering but WEAKENING streak 9x. Q1 warning intact. 18.6% to target insufficient given risks.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 10,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-16"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      }
+    ],
+    "timestamp": "2026-03-22T05:20:48.890843",
+    "price_at_reeval": 46.63,
+    "return_pct": -3.2
+  },
+  "SNTIA.OL": {
+    "evolution": "STRENGTHENING",
+    "note": "YTD +12.3%, 4x STRENGTHENING streak, 8%+ yield, record Q4, growing backlog. Annual report due Mar 27 is key catalyst.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 5,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 69.84,
+    "return_pct": null
+  },
+  "SOMA.OL": {
+    "evolution": "STRENGTHENING",
+    "note": "Price 26.95 at target 27.0, momentum UP, YTD +48.3%, strong_buy consensus. Near target limits further upside; TAKE_PROFIT appropriate.",
+    "alert": false,
+    "action_signal": "TAKE_PROFIT",
+    "prev_action_signal": "TAKE_PROFIT",
+    "streak": 6,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-23"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-24"
+      }
+    ],
+    "timestamp": "2026-03-24T05:22:48.584623",
+    "price_at_reeval": 26.95,
+    "return_pct": null
+  },
+  "SPX": {
+    "evolution": "WEAKENING",
+    "note": "Iran peace thesis fully negated by subsequent events. WEAKENING 11x. No actionable signal.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 12,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-16"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      }
+    ],
+    "timestamp": "2026-03-22T05:20:48.890843",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "STM": {
+    "evolution": "WEAKENING",
+    "note": "-7.2%, P/E 171x stretched, EPS miss unresolved, 2x WEAKENING streak. Approaching SELL threshold.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 3,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 30.86,
+    "return_pct": -7.2
+  },
+  "SUBC.OL": {
+    "evolution": "STABLE",
+    "note": "Price 263.8 near target 274.8, momentum UP, YTD +26.8%. CEO risk manageable; thesis intact but limited upside remaining.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 10,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-24"
+      }
+    ],
+    "timestamp": "2026-03-24T05:22:48.584623",
+    "price_at_reeval": 263.8,
+    "return_pct": null
+  },
+  "SWED.ST": {
+    "evolution": "STABLE",
+    "note": "No price data, 8x STABLE streak, ex-div entry strategy intact. No change.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "SWON.OL": {
+    "evolution": "STRENGTHENING",
+    "note": "8x STRENGTHENING streak, Q4 +11% cc LFL beat validates thesis. Awaiting 31 Mar full results for guidance confirmation.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": null,
+    "return_pct": null
+  },
+  "SWON.ST": {
+    "evolution": "WEAKENING",
+    "note": "No price data, 8x WEAKENING streak, prev SELL. MS Underweight intact, no resolution of bear case.",
+    "alert": false,
+    "action_signal": "SELL",
+    "prev_action_signal": "SELL",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": null,
     "return_pct": null
   },
   "TOM.OL": {
@@ -3828,5 +3418,210 @@
     "timestamp": "2026-03-24T05:22:48.584623",
     "price_at_reeval": 111.3,
     "return_pct": null
+  },
+  "TXN": {
+    "evolution": "STABLE",
+    "note": "Flat -1.5%, 8x STABLE streak, hold consensus, awaiting Q1 confirmation. No change.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 187.19,
+    "return_pct": -1.5
+  },
+  "VAR.OL": {
+    "evolution": "STRENGTHENING",
+    "note": "Up 16.3% — alert triggered. Price 47.99 now above target 40.70, YTD +48.9%. Prev TAKE_PROFIT signal now reinforced by overrun.",
+    "alert": true,
+    "action_signal": "TAKE_PROFIT",
+    "prev_action_signal": "TAKE_PROFIT",
+    "streak": 2,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 47.99,
+    "return_pct": 16.3
+  },
+  "VEND.OL": {
+    "evolution": "STABLE",
+    "note": "Price 242.6, momentum DOWN, YTD -13.5%. April 30 earnings not yet due. STABLE 13x streak. Thesis unchanged.",
+    "alert": false,
+    "action_signal": "HOLD",
+    "prev_action_signal": "HOLD",
+    "streak": 14,
+    "history": [
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-23"
+      },
+      {
+        "evolution": "STABLE",
+        "date": "2026-03-24"
+      }
+    ],
+    "timestamp": "2026-03-24T05:22:48.584623",
+    "price_at_reeval": 242.6,
+    "return_pct": null
+  },
+  "YAR.OL": {
+    "evolution": "WEAKENING",
+    "note": "Price 493.6 above target 458.5, momentum DOWN, WEAKENING 11x streak. TAKE_PROFIT already signalled; thesis fading.",
+    "alert": false,
+    "action_signal": "TAKE_PROFIT",
+    "prev_action_signal": "TAKE_PROFIT",
+    "streak": 12,
+    "history": [
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-23"
+      },
+      {
+        "evolution": "WEAKENING",
+        "date": "2026-03-24"
+      }
+    ],
+    "timestamp": "2026-03-24T05:22:48.584623",
+    "price_at_reeval": 493.6,
+    "return_pct": null
+  },
+  "ZAL.OL": {
+    "evolution": "STRENGTHENING",
+    "note": "Up 37.3% — alert triggered. M&A tender at NOK 100 validates thesis. Current holders should tender; new buyers face capped upside.",
+    "alert": true,
+    "action_signal": "TAKE_PROFIT",
+    "prev_action_signal": "TAKE_PROFIT",
+    "streak": 9,
+    "history": [
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-17"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-18"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-19"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-20"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-21"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-22"
+      },
+      {
+        "evolution": "STRENGTHENING",
+        "date": "2026-03-23"
+      }
+    ],
+    "timestamp": "2026-03-23T05:32:37.048199",
+    "price_at_reeval": 98.0,
+    "return_pct": 37.3
   }
 }

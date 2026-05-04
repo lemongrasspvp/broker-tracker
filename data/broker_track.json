@@ -13,7 +13,7 @@
     "momentum": "FLAT"
   },
   {
-    "ticker": "BOL.SS",
+    "ticker": "BOL",
     "date": "2026-03-12",
     "action": "MONITOR",
     "thesis_strength": "MODERATE",
@@ -25,7 +25,7 @@
     "last_checked": "2026-03-12"
   },
   {
-    "ticker": "LUMI.SS",
+    "ticker": "LUMI",
     "date": "2026-03-12",
     "action": "MONITOR",
     "thesis_strength": "MODERATE",
@@ -37,7 +37,7 @@
     "last_checked": "2026-03-12"
   },
   {
-    "ticker": "NVO / NOVO.B",
+    "ticker": "NVO",
     "date": "2026-03-12",
     "action": "MONITOR",
     "thesis_strength": "MODERATE",
@@ -62,7 +62,7 @@
     "momentum": "UP"
   },
   {
-    "ticker": "FRO",
+    "ticker": "FRO.OL",
     "date": "2026-03-12",
     "action": "MONITOR",
     "thesis_strength": "STRONG",
@@ -281,7 +281,7 @@
     "momentum": "DOWN"
   },
   {
-    "ticker": "VEND",
+    "ticker": "VEND.OL",
     "date": "2026-03-12",
     "action": "RESEARCH_FURTHER",
     "thesis_strength": "STRONG",
@@ -421,7 +421,7 @@
     "momentum": "UP"
   },
   {
-    "ticker": "HKEX / CHINA EQUITY MACRO (CSI 300 / HSI / HANG SENG CHINA ENTERPRISES)",
+    "ticker": "HKEX",
     "date": "2026-03-12",
     "action": "MONITOR",
     "thesis_strength": "MODERATE",
@@ -511,7 +511,7 @@
     "momentum": "FLAT"
   },
   {
-    "ticker": "NOD",
+    "ticker": "NOD.OL",
     "date": "2026-03-13",
     "action": "RESEARCH_FURTHER",
     "thesis_strength": "MODERATE",
@@ -600,7 +600,7 @@
     "momentum": "FLAT"
   },
   {
-    "ticker": "SWON",
+    "ticker": "SWON.OL",
     "date": "2026-03-13",
     "action": "RESEARCH_FURTHER",
     "thesis_strength": "MODERATE",
@@ -638,7 +638,7 @@
     "momentum": "FLAT"
   },
   {
-    "ticker": "NOVO-B.CO / NVO",
+    "ticker": "NOVO.CO",
     "date": "2026-03-13",
     "action": "MONITOR",
     "thesis_strength": "WEAK",
@@ -806,7 +806,7 @@
     "momentum": "FLAT"
   },
   {
-    "ticker": "FRO",
+    "ticker": "FRO.OL",
     "date": "2026-03-13",
     "action": "MONITOR",
     "thesis_strength": "STRONG",
@@ -997,7 +997,7 @@
     "momentum": "UP"
   },
   {
-    "ticker": "GJNSE.OL / GJF.OL",
+    "ticker": "GJNSE.OL",
     "date": "2026-03-13",
     "action": "MONITOR",
     "thesis_strength": "MODERATE",
@@ -1083,7 +1083,7 @@
     "momentum": "UP"
   },
   {
-    "ticker": "BRUT",
+    "ticker": "BRUT.OL",
     "date": "2026-03-13",
     "action": "RESEARCH_FURTHER",
     "thesis_strength": "STRONG",
@@ -1095,7 +1095,7 @@
     "last_checked": "2026-03-13"
   },
   {
-    "ticker": "QATAR.INTL",
+    "ticker": "QATAR",
     "date": "2026-03-13",
     "action": "RESEARCH_FURTHER",
     "thesis_strength": "STRONG",
@@ -1207,7 +1207,7 @@
     "last_checked": "2026-03-14"
   },
   {
-    "ticker": "MAERSK-B.CO / MAERSK-A.CO",
+    "ticker": "MAERSK.CO",
     "date": "2026-03-14",
     "action": "RESEARCH_FURTHER",
     "thesis_strength": "MODERATE",
@@ -1309,7 +1309,7 @@
     "momentum": "FLAT"
   },
   {
-    "ticker": "GENERAL OCEANS (PRE-IPO)",
+    "ticker": "GENERAL OCEANS (PRE-IPO).OL",
     "date": "2026-03-14",
     "action": "RESEARCH_FURTHER",
     "thesis_strength": "MODERATE",
@@ -1486,7 +1486,7 @@
     "last_checked": "2026-05-04"
   },
   {
-    "ticker": "NOD",
+    "ticker": "NOD.OL",
     "date": "2026-05-04",
     "action": "RESEARCH_FURTHER",
     "thesis_strength": "STRONG",
