@@ -1472,5 +1472,65 @@
     "current_price": null,
     "return_pct": null,
     "last_checked": "2026-03-14"
+  },
+  {
+    "ticker": "TXN",
+    "date": "2026-05-04",
+    "action": "MONITOR",
+    "thesis_strength": "STRONG",
+    "score": 8,
+    "verdict": "Exceptionally strong Q1 print with verified claims; functions as a high-quality read-across for NOD with directly confirmed personal electronics commentary — monitor TXN as a leading indicator but note the stock has re-rated sharply to/above prior consensus targets.",
+    "price_at_rec": 280.01,
+    "current_price": 280.01,
+    "return_pct": null,
+    "last_checked": "2026-05-04"
+  },
+  {
+    "ticker": "NOD",
+    "date": "2026-05-04",
+    "action": "RESEARCH_FURTHER",
+    "thesis_strength": "STRONG",
+    "score": 7,
+    "verdict": "Thesis strengthening: TXN read-across is fully verified and NOD's own Q1 print ($192M, +24% YoY, GM 52.1%) has empirically resolved the prior TSMC IoT deceleration concern — upgrade monitoring intensity and reassess price target framework with Q2 2026 data.",
+    "price_at_rec": null,
+    "current_price": null,
+    "return_pct": null,
+    "last_checked": "2026-05-04"
+  },
+  {
+    "ticker": "VEND.OL",
+    "date": "2026-05-04",
+    "action": "MONITOR",
+    "thesis_strength": "MODERATE",
+    "score": 54,
+    "verdict": "Credible EBITDA beat masked by a confirmed Mobility guidance cut and large Adevinta writedown — stock likely overshoots on downside short-term, but the new NOK 4bn buyback and recovering non-Mobility verticals create a medium-term floor; monitor Sweden pricing execution in Q2 before adding.",
+    "price_at_rec": 257.8,
+    "current_price": 257.8,
+    "return_pct": null,
+    "last_checked": "2026-05-04"
+  },
+  {
+    "ticker": "INTC",
+    "date": "2026-05-04",
+    "action": "WAIT_FOR_DIPS",
+    "thesis_strength": "MODERATE",
+    "score": 6,
+    "verdict": "Thesis trigger confirmed — Q2 supply recovery and 18A progress are materializing exactly as Esten called in March — but at $99 the stock is deeply overbought (RSI ~87), priced 25–57% above analyst consensus targets, and carrying a fwd P/E likely north of 100x; existing holders should hold/trim into strength, new buyers should wait for a meaningful pullback toward the $70–80 range before building positions.",
+    "price_at_rec": 98.99,
+    "current_price": 98.99,
+    "return_pct": null,
+    "last_checked": "2026-05-04"
+  },
+  {
+    "ticker": "NOVO.CO",
+    "date": "2026-05-04",
+    "action": "WAIT_FOR_DIPS",
+    "thesis_strength": "WEAK",
+    "score": 3,
+    "verdict": "Credible science, real optionality, but the AUD study is an early-stage academic signal on 108 patients — not a near-term commercial catalyst — and does nothing to fix guided sales declines, Lilly's market share dominance, insider selling, or CagriSema's failure; accumulate only on further weakness with a minimum 3-5 year horizon and watch May 6 earnings closely.",
+    "price_at_rec": null,
+    "current_price": null,
+    "return_pct": null,
+    "last_checked": "2026-05-04"
   }
 ]

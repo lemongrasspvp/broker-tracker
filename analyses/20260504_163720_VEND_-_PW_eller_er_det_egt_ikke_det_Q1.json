@@ -1,0 +1,91 @@
+{
+  "stocks": [
+    {
+      "ticker": "VEND.OL",
+      "company_name": "Vend Marketplaces ASA",
+      "country": "NO",
+      "is_core_coverage": false,
+      "investment_thesis": "Vend (formerly Schibsted ASA) is a pure-play Nordic online classifieds leader across Mobility, Real Estate, Jobs, and Recommerce. Q1 2026 delivered a strong EBITDA beat driven by cost discipline, but this was overshadowed by a material Mobility revenue guidance cut and a large Adevinta carrying-value writedown driven by peer multiple compression. The net effect is modest FY'26 EBITDA downside, partially offset by a new NOK 4bn buyback program and improving non-Mobility verticals.",
+      "thesis_strength": "MODERATE",
+      "thesis_strength_score": 54,
+      "key_claims": [
+        {
+          "claim": "Q1 Revenue NOK 1,543m, -4/-1% vs ARCe/consensus",
+          "assessment": "CREDIBLE",
+          "verified_via": "Euronext/Inderes official company release + MarketScreener earnings data",
+          "note": "Confirmed: Q1 group revenues were NOK 1,543m, up 2% YoY (1% in constant currency). Slight miss vs consensus on topline is consistent with the trading update language and Q1 earnings call highlights."
+        },
+        {
+          "claim": "EBITDA adj. NOK 563m, +3/+10% vs ARCe/cons — beat driven by lower HQ cost, better Jobs EBITDA, less Recommerce cost",
+          "assessment": "CREDIBLE",
+          "verified_via": "Yahoo Finance Q1 earnings call highlights; Inderes and Globe & Mail reports",
+          "note": "EBITDA of NOK 563m confirmed, representing a 36% YoY improvement and margin expansion to 36% from 27%. OpEx ex-COGS declined 12% YoY. Driver breakdown (HQ cost, Jobs, Recommerce) is consistent with management commentary."
+        },
+        {
+          "claim": "Mobility misses ARCe/cons. on topline -9/-6%, EBITDA -18/-14%",
+          "assessment": "CREDIBLE",
+          "verified_via": "Euronext release; Q1 earnings call transcript summary (Yahoo Finance/GuruFocus)",
+          "note": "Confirmed mobility miss: Sweden platform migration issues and Denmark volume declines explicitly called out by CEO. Mobility grew only ~4-5% in Q1 vs 12-17% medium-term target. Specific vs-consensus miss percentages are broker estimates but directionally confirmed."
+        },
+        {
+          "claim": "Company guides FY'26 Mobility revenue growth at 5-10% y/y vs prior 12-17%",
+          "assessment": "CREDIBLE",
+          "verified_via": "Official company release (Euronext/Inderes); Globe & Mail summary",
+          "note": "Confirmed: company revised Mobility outlook to 'mid-to-high single digit' growth, explicitly below the 12-17% medium-term range. Driven by Sweden platform migration lag and Denmark new-business-model adaptation headwinds."
+        },
+        {
+          "claim": "Company guides FY'26 cost base down NOK 100m vs 2025, vs prior guidance of flat costs",
+          "assessment": "CREDIBLE",
+          "verified_via": "Official company release (Euronext, Inderes, Q4 2025 reference)",
+          "note": "Confirmed exactly: 'The Company is now preparing further measures, expecting the 2026 full-year cost base (OPEX excluding COGS) to decline by approximately NOK 100 million compared to the 2025 level.' Revision from prior flat guidance confirmed."
+        },
+        {
+          "claim": "Adevinta stake written down to NOK 7.2bn (ARCe was 10.5bn), driven by ~25% peer multiple contraction",
+          "assessment": "CREDIBLE",
+          "verified_via": "Euronext official release; Yahoo Finance Q1 call summary",
+          "note": "Confirmed: 'the carrying value of Vend's 14% stake in Adevinta has been revised to NOK 7.2 billion.' Net decline of NOK 5.7bn was 'driven by peer group multiple contraction of approximately 25%' after adjusting for the NOK 3.2bn cash distribution received. Broker's ARCe of 10.5bn is not independently confirmable, but the writedown itself and its magnitude are confirmed."
+        },
+        {
+          "claim": "Net FY'26 EBITDA impact is -4/-8%, with 2-5% net downside after offsetting effects",
+          "assessment": "UNVERIFIABLE",
+          "verified_via": "Internal broker estimate — no independent consensus EBITDA delta available",
+          "note": "The quantitative EBITDA sensitivity math (90% gross margin assumption, -6/-1% topline → -6/-1% EBITDA delta, partially offset by cost saves) is internally consistent but cannot be cross-checked against published consensus revisions. Directionally reasonable given confirmed inputs."
+        },
+        {
+          "claim": "Company communication described as 'confusing' by broker",
+          "assessment": "CREDIBLE",
+          "verified_via": "Cross-checking official release language vs quantitative guidance",
+          "note": "The release provides qualitative mobility guidance (5-10%) without explicit group EBITDA guidance update, while simultaneously announcing a cost reduction revision. The lack of explicit group P&L guidance update despite material input changes supports the 'confusing communication' assessment."
+        }
+      ],
+      "bull_case": "The EBITDA beat is large (+36% YoY, +10% vs consensus) and operationally high-quality (cost discipline, Real Estate ARPA +20%, Recommerce revenue +20%, Jobs +8%). The new NOK 4bn buyback program (NOK 2bn tranche launching immediately) plus NOK 2.50/share dividend signal strong capital returns. Sweden pricing kicks in from May 2026 and should accelerate Mobility recovery. Operating cash flow nearly doubled YoY to NOK 485m. Stock is at a 30%+ discount to consensus target.",
+      "bear_case": "Mobility — the largest vertical — faces structural headwinds in both Sweden (platform migration, low dealer upsell penetration ~60% on base tier) and Denmark (new business model adaptation). The Adevinta writedown (NOK 5.7bn net) is large, non-cash but a signal of deteriorating private market valuations. Consensus EBITDA estimates must come down 4-8%. At 28.8x EV/EBITDA, the stock is not cheap for a business now guiding sub-target growth in its biggest segment. The stock has historically fallen more than estimate revisions warrant, as broker himself flags.",
+      "broker_flags": [
+        "VEND is OUTSIDE broker's core energy/shipping/offshore universe — extra verification warranted and applied",
+        "Broker explicitly acknowledges ambiguity: headline is 'VEND -> PW (eller er det egt ikke det?)' — questioning whether this is truly a Profit Warning",
+        "Track record shows 3 prior VEND calls all at RESEARCH_FURTHER/MONITOR with no actionable BUY — consistent caution on this name",
+        "Broker acknowledges stock likely falls more than estimate revisions imply — a behavioral/sentiment overlay that is difficult to model",
+        "Adevinta ARCe of NOK 10.5bn vs company's NOK 7.2bn writedown is a significant model miss (~46% gap) that warrants scrutiny of broker's overall model calibration",
+        "90% gross margin assumption used for EBITDA sensitivity — not explicitly confirmed but consistent with Vend's known high-margin marketplace model (>35% vertical margins per Scope)"
+      ],
+      "forum_sentiment": "No direct Hegnar.no or Shareville thread data retrieved, but Norwegian financial press (Finansavisen) shows DNB Carnegie dropped VEND from its weekly portfolio in February citing stop-loss trigger after -13% YTD, suggesting retail/institutional sentiment was already cautious before this Q1 update.",
+      "insider_read": "Board member Rune Bjerke bought 3,529 shares at NOK 237.20 on 3 March 2026, a modest but positive insider signal near recent lows; the company itself has been aggressively executing a NOK 2bn buyback programme (completed April 9, 2026, ~NOK 2bn) and announced a new NOK 4bn programme at Q1 results.",
+      "short_interest_read": "No specific short interest data retrieved; however, the stock's position near 52-week lows (trading ~257 vs 52w low 223 and high 397) and -16% YTD underperformance suggest elevated short interest or forced selling pressure is possible, but unconfirmed.",
+      "catalyst_note": "Near-term: Sweden pricing adjustment takes effect May 2026 — first real test of Blocket professional segment elasticity and could either validate or undermine the recovery narrative within Q2 results (due July 17). Capital return catalyst: NOK 4bn buyback (first NOK 2bn tranche) launching immediately post-Q1 is a meaningful floor signal. Adevinta exit optionality (IPO/M&A) remains a medium-term re-rating trigger if PE multiples recover.",
+      "vs_consensus": "Revenue in line with consensus at NOK 1,543m (+2% YoY). EBITDA of NOK 563m is a +10% beat vs consensus (strong). Mobility topline -6% vs consensus. FY'26 Mobility guidance cut from 12-17% to ~5-10% will force consensus EBITDA down ~4-8% per broker estimates. New NOK 4bn buyback partially offsets EPS dilution from estimate cuts. Analyst consensus remains BUY with NOK 307 avg. target vs current ~257 — ~19% upside implied, though targets will likely be revised down post-update.",
+      "recommended_action": "MONITOR",
+      "one_line_verdict": "Credible EBITDA beat masked by a confirmed Mobility guidance cut and large Adevinta writedown — stock likely overshoots on downside short-term, but the new NOK 4bn buyback and recovering non-Mobility verticals create a medium-term floor; monitor Sweden pricing execution in Q2 before adding.",
+      "_price_at_analysis": 257.8
+    }
+  ],
+  "thread_narrative": "Esten's email is a well-structured, same-day trading update note on Vend's April 23 pre-release. The broker correctly identifies the mixed nature of the announcement: a genuine EBITDA beat at the group level driven by cost cuts, offset by a material Mobility revenue guidance downgrade and a large — and somewhat opaque — Adevinta carrying-value writedown. Web search confirms all major factual claims in the note (Q1 revenue NOK 1,543m, EBITDA NOK 563m, Mobility FY guidance 5-10%, cost base -NOK 100m revision, Adevinta marked to NOK 7.2bn). The broker's headline uncertainty ('eller er det egt ikke det?') about whether this is a true profit warning is analytically honest — the group EBITDA net impact is modest (-2/-5%) but the Mobility miss is significant. The subsequent Q1 full results (April 30) confirmed EBITDA +36% YoY and a new NOK 4bn buyback, adding further nuance not available at the time of the email. The key unresolved risk flagged correctly by broker remains stock price overreaction beyond the underlying estimate revision.",
+  "thesis_evolution": "WEAKENING",
+  "urgency_escalation": true,
+  "overall_email_quality": "HIGH",
+  "overall_email_quality_note": "Unusually high quality for a non-core coverage note: broker correctly parses a genuinely ambiguous corporate release, provides quantified EBITDA sensitivity with stated assumptions, acknowledges uncertainty in both direction and magnitude, and pre-warns on behavioral stock price dynamics. The ARCe vs actual Adevinta gap is a model calibration flag, but the conclusion is directionally sound and all major claims verified. The self-aware headline framing ('eller er det egt ikke det?') demonstrates intellectual honesty about the edge of the broker's conviction.",
+  "_email_subject": "* VEND -> PW (eller er det egt ikke det?) Q1 blir beat",
+  "_email_date": "Thu, 23 Apr 2026 17:37:04 +0000 (UTC)",
+  "_thread_length": 1,
+  "_analyzed_at": "2026-05-04T16:37:20.742486",
+  "_image_count": 0
+}

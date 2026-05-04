@@ -4054,15 +4054,6 @@
   "VEND.OL": [
     {
       "date": "2026-03-13",
-      "type": "reeval",
-      "thesis_strength": null,
-      "score": null,
-      "action": null,
-      "verdict": "STABLE — UP momentum, UP from lows but -5.9% YTD, below target (264 vs 325). Consensus hold limits action signal.",
-      "price_at_analysis": 264.0
-    },
-    {
-      "date": "2026-03-13",
       "thesis_strength": "WEAK",
       "score": 3,
       "action": "RESEARCH_FURTHER",
@@ -4222,6 +4213,14 @@
       "action": null,
       "verdict": "STABLE — Price 242.6, momentum DOWN, YTD -13.5%. April 30 earnings not yet due. STABLE 13x streak. Thesis unchanged.",
       "price_at_analysis": 242.6
+    },
+    {
+      "date": "2026-05-04",
+      "thesis_strength": "MODERATE",
+      "score": 54,
+      "action": "MONITOR",
+      "verdict": "Credible EBITDA beat masked by a confirmed Mobility guidance cut and large Adevinta writedown — stock likely overshoots on downside short-term, but the new NOK 4bn buyback and recovering non-Mobility verticals create a medium-term floor; monitor Sweden pricing execution in Q2 before adding.",
+      "price_at_analysis": 257.8
     }
   ],
   "SHOP": [
@@ -6297,6 +6296,14 @@
       "action": null,
       "verdict": "STABLE — No price data available, TSMC IoT deceleration concern unchanged, 8x STABLE streak. No new information to shift thesis.",
       "price_at_analysis": null
+    },
+    {
+      "date": "2026-05-04",
+      "thesis_strength": "STRONG",
+      "score": 7,
+      "action": "RESEARCH_FURTHER",
+      "verdict": "Thesis strengthening: TXN read-across is fully verified and NOD's own Q1 print ($192M, +24% YoY, GM 52.1%) has empirically resolved the prior TSMC IoT deceleration concern — upgrade monitoring intensity and reassess price target framework with Q2 2026 data.",
+      "price_at_analysis": null
     }
   ],
   "SBLK": [
@@ -6510,6 +6517,14 @@
       "score": null,
       "action": null,
       "verdict": "WEAKENING — CagriSema failure, guided sales declines, Lilly competition intensifying, insider selling. 8x WEAKENING streak continues.",
+      "price_at_analysis": null
+    },
+    {
+      "date": "2026-05-04",
+      "thesis_strength": "WEAK",
+      "score": 3,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Credible science, real optionality, but the AUD study is an early-stage academic signal on 108 patients — not a near-term commercial catalyst — and does nothing to fix guided sales declines, Lilly's market share dominance, insider selling, or CagriSema's failure; accumulate only on further weakness with a minimum 3-5 year horizon and watch May 6 earnings closely.",
       "price_at_analysis": null
     }
   ],
@@ -7950,6 +7965,14 @@
       "action": null,
       "verdict": "STABLE — Down 3%, momentum DOWN, 8x STABLE streak. Q2 supply recovery and 18A yield still unconfirmed. No change to cautious stance.",
       "price_at_analysis": 43.87
+    },
+    {
+      "date": "2026-05-04",
+      "thesis_strength": "MODERATE",
+      "score": 6,
+      "action": "WAIT_FOR_DIPS",
+      "verdict": "Thesis trigger confirmed — Q2 supply recovery and 18A progress are materializing exactly as Esten called in March — but at $99 the stock is deeply overbought (RSI ~87), priced 25–57% above analyst consensus targets, and carrying a fwd P/E likely north of 100x; existing holders should hold/trim into strength, new buyers should wait for a meaningful pullback toward the $70–80 range before building positions.",
+      "price_at_analysis": 98.99
     }
   ],
   "AA": [
@@ -8983,6 +9006,14 @@
       "action": null,
       "verdict": "STABLE — Flat -1.5%, 8x STABLE streak, hold consensus, awaiting Q1 confirmation. No change.",
       "price_at_analysis": 187.19
+    },
+    {
+      "date": "2026-05-04",
+      "thesis_strength": "STRONG",
+      "score": 8,
+      "action": "MONITOR",
+      "verdict": "Exceptionally strong Q1 print with verified claims; functions as a high-quality read-across for NOD with directly confirmed personal electronics commentary — monitor TXN as a leading indicator but note the stock has re-rated sharply to/above prior consensus targets.",
+      "price_at_analysis": 280.01
     }
   ],
   "LOGI": [
