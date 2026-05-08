@@ -1,7 +1,7 @@
 """
 reeval.py
 Post-run re-evaluation of tracked tickers.
-Layer A: Free yfinance price refresh + momentum.
+Layer A: Free yfinance price refresh.
 Layer B: One cheap Claude batch call for thesis evolution.
 """
 
@@ -61,23 +61,18 @@ def refresh_prices() -> dict:
                         ((price - r["price_at_rec"]) / r["price_at_rec"]) * 100, 1
                     )
 
-                # 5-day momentum
+                # 5-day price action as a raw number — Claude reasons about it
+                # fluidly alongside return_pct / YTD / 52w range. No bucketing.
                 try:
                     hist = stock.history(period="5d")
                     if len(hist) >= 2:
                         p_start = hist["Close"].iloc[0]
-                        p_end = hist["Close"].iloc[-1]
-                        pct = ((p_end - p_start) / p_start) * 100
-                        if pct > 2:
-                            r["momentum"] = "UP"
-                        elif pct < -2:
-                            r["momentum"] = "DOWN"
-                        else:
-                            r["momentum"] = "FLAT"
+                        p_end   = hist["Close"].iloc[-1]
+                        r["5d_return_pct"] = round(((p_end - p_start) / p_start) * 100, 1)
                     else:
-                        r["momentum"] = "FLAT"
+                        r["5d_return_pct"] = None
                 except Exception:
-                    r["momentum"] = "FLAT"
+                    r["5d_return_pct"] = None
 
                 r["last_checked"] = today
                 updated = True
@@ -112,12 +107,17 @@ Set "alert" to true if any of:
 - A critical assumption appears broken
 - Evolution shifted direction from previous re-eval
 
-ACTION SIGNAL (be strict — only signal when evidence is clear):
-- STRONG_BUY: thesis STRENGTHENING + score >= 7 + consensus buy/strong_buy + price well below analyst target (>20% upside). Must have 3+ confirming signals from: strong fundamentals, rising momentum, catalyst intact, attractive valuation vs peers.
-- BUY: thesis strengthening + price below analyst target by >15% + score >= 6. At least 2 confirming signals.
-- HOLD: default. No clear action, or mixed signals.
-- TAKE_PROFIT: in profit (return > 0) AND edge is fading — any of: price hit/exceeded analyst target, momentum turning DOWN after big run (>25% gain), thesis no longer strengthening after extended rally, valuation stretched above peers, or the original catalyst has fully played out.
-- SELL: thesis breaking down — any of: price down >10% AND thesis weakening, critical assumption broken (regulatory, earnings miss, management change), consensus shifted to sell/underperform, or evolution was WEAKENING for consecutive re-evals.
+ACTION SIGNAL — apply the judgment of an experienced analyst managing real money. The numbers in each ticker block (return since rec, 5-day move, YTD, target, P/E, 52-week range, streak) are inputs to your reasoning, not thresholds to mechanically check. Read the whole picture: would you actually act on this signal today? Default to HOLD whenever the situation is mixed or unclear. Be willing to call SELL or TAKE_PROFIT — those signals exist for a reason.
+
+- STRONG_BUY: rare. The setup is unusually compelling RIGHT NOW. Thesis is actively playing out, the entry is still attractive (you are not chasing a stock that has already moved most of the way), and conviction is high across multiple independent inputs — fundamentals, valuation, catalyst, sentiment. If you are reaching to justify it, downgrade to BUY.
+
+- BUY: the trade is attractive for a NEW position TODAY. The bar is not "thesis intact + still below analyst target" — it is "if a friend asked, would I tell them to enter at this price?". A stock that has already run up substantially since the recommendation usually fails this test even if the long-term thesis still holds: the entry the broker proposed has been spent, and chasing is not a recommendation. Exception: a fresh independent catalyst since the original call, or the stock has come back into the broker's stated entry zone after a pullback.
+
+- HOLD: the default. Use generously. Anything mixed, anything where the move is largely played out but nothing is broken, anything where you don't have strong conviction in a direction — HOLD. Most stocks on most days are HOLD.
+
+- TAKE_PROFIT: the trade has worked and the edge is fading. Read the situation rather than waiting for a precise % move. Triggers fluidly when several of these are true: price has reached or stretched past the analyst target, momentum has rolled over after a meaningful run, the original catalyst has occurred, valuation has expanded relative to peers, or the thesis no longer reads as STRENGTHENING after an extended rally. New buyers should not enter; existing holders should consider trimming.
+
+- SELL: the original thesis is no longer valid — not just stalled, but broken. A critical assumption has failed (earnings miss, regulatory action, management change), consensus has turned negative, or the stock is in a sustained downtrend with WEAKENING fundamentals over multiple re-evals. Distinguished from TAKE_PROFIT by this question: would a fresh analyst recommend this today? "No, avoid entirely" → SELL. "Yes, but not at this price" → TAKE_PROFIT.
 
 TICKERS:
 {ticker_blocks}
@@ -167,10 +167,10 @@ def batch_reeval(active_tickers: dict, api_key: str) -> dict:
     # Build per-ticker blocks with enricher data
     ticker_blocks = {}  # ticker -> block string
     for ticker, rec in to_check.items():
-        price_at = rec.get("price_at_rec")
+        price_at  = rec.get("price_at_rec")
         cur_price = rec.get("current_price")
-        ret = rec.get("return_pct")
-        momentum = rec.get("momentum", "FLAT")
+        ret       = rec.get("return_pct")
+        ret_5d    = rec.get("5d_return_pct")
 
         # Resolve ticker suffix for yfinance (e.g., NOD → NOD.OL)
         country = guess_country(ticker, "")
@@ -195,7 +195,8 @@ def batch_reeval(active_tickers: dict, api_key: str) -> dict:
         at_str = f"{price_at}" if price_at else "N/A"
 
         ytd = data.get("ytd_return")
-        ytd_str = f"{ytd:+.1f}%" if ytd is not None else "N/A"
+        ytd_str    = f"{ytd:+.1f}%"    if ytd    is not None else "N/A"
+        ret_5d_str = f"{ret_5d:+.1f}%" if ret_5d is not None else "N/A"
 
         # Previous evolution for trend detection
         prev_info = prev_reeval.get(ticker, {})
@@ -206,7 +207,7 @@ def batch_reeval(active_tickers: dict, api_key: str) -> dict:
         block = (
             f"---\n"
             f"{ticker}: {rec.get('action', 'N/A')} on {rec.get('date', 'N/A')} at {at_str} → now {price_str} ({ret_str})\n"
-            f"  Score: {rec.get('score', 'N/A')}/10 | Momentum 5d: {momentum} | YTD: {ytd_str}\n"
+            f"  Score: {rec.get('score', 'N/A')}/10 | 5d: {ret_5d_str} | YTD: {ytd_str}\n"
             f"  Verdict: {rec.get('verdict', 'N/A')}\n"
             f"  Target: {target} | P/E: {pe_str} | 52w: {low52}–{high52} | Consensus: {rec_str}\n"
             f"  prev_evolution: {prev_evo} (streak: {streak}x) | prev_signal: {prev_sig}"
