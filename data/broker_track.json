@@ -9,7 +9,7 @@
     "price_at_rec": null,
     "current_price": 200.2,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 2.1
   },
   {
@@ -44,10 +44,10 @@
     "score": 55,
     "verdict": "Legitimately significant news on Wegovy pill launch but offset by brutal 2026 guidance; stock is cheap to targets but falling knife risk is real until competitive and pricing headwinds stabilize.",
     "price_at_rec": null,
-    "current_price": 47.08,
+    "current_price": 45.8,
     "return_pct": null,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 2.8
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -0.6
   },
   {
     "ticker": "CVX",
@@ -57,10 +57,10 @@
     "score": 62,
     "verdict": "Valid Venezuela thesis but stock has already re-rated; better to wait for pullback given stretched valuation and multi-year timeline for Venezuelan production ramp.",
     "price_at_rec": 191.79,
-    "current_price": 186.0,
-    "return_pct": -3.0,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 1.9
+    "current_price": 186.64,
+    "return_pct": -2.7,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 2.8
   },
   {
     "ticker": "FRO.OL",
@@ -72,7 +72,7 @@
     "price_at_rec": null,
     "current_price": 345.5,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.3
   },
   {
@@ -83,10 +83,10 @@
     "score": 7,
     "verdict": "Quality VLCC pure-play with strong income characteristics, but stock has run past analyst targets - better entry point likely on pullback.",
     "price_at_rec": null,
-    "current_price": 17.81,
+    "current_price": 17.85,
     "return_pct": null,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": -6.4
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -6.1
   },
   {
     "ticker": "INSW",
@@ -96,10 +96,10 @@
     "score": 6,
     "verdict": "Solid diversified play with strong fundamentals, but insider selling at highs warrants caution - do more homework before committing.",
     "price_at_rec": null,
-    "current_price": 85.31,
+    "current_price": 85.51,
     "return_pct": null,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": -5.4
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -6.7
   },
   {
     "ticker": "HAL",
@@ -109,10 +109,10 @@
     "score": 30,
     "verdict": "Quality oilfield services company riding geopolitical tailwind, but rally already priced in - headline alert offers no edge, wait for pullback.",
     "price_at_rec": 35.93,
-    "current_price": 41.02,
-    "return_pct": 14.2,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 4.9
+    "current_price": 41.29,
+    "return_pct": 14.9,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 3.7
   },
   {
     "ticker": "SLB",
@@ -122,10 +122,10 @@
     "score": 35,
     "verdict": "Global leader with Venezuela optionality but Q1 warning and premium valuation warrant caution - monitor for clarity on Middle East impact.",
     "price_at_rec": 48.17,
-    "current_price": 55.38,
-    "return_pct": 15.0,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 4.5
+    "current_price": 55.75,
+    "return_pct": 15.7,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 4.7
   },
   {
     "ticker": "ECO",
@@ -135,10 +135,10 @@
     "score": 6,
     "verdict": "Attractive growth story with modern fleet, but recent dilution and higher leverage make it secondary choice to FRO/DHT for tanker exposure.",
     "price_at_rec": 47.45,
-    "current_price": 54.44,
-    "return_pct": 14.7,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": -4.1
+    "current_price": 54.59,
+    "return_pct": 15.0,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -2.9
   },
   {
     "ticker": "BRUT.OL",
@@ -150,7 +150,7 @@
     "price_at_rec": null,
     "current_price": 59.8,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 11.2
   },
   {
@@ -163,7 +163,7 @@
     "price_at_rec": 14.525,
     "current_price": 14.48,
     "return_pct": -0.3,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -1.8
   },
   {
@@ -176,7 +176,7 @@
     "price_at_rec": 96.06,
     "current_price": 106.8,
     "return_pct": 11.2,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 3.1
   },
   {
@@ -189,7 +189,7 @@
     "price_at_rec": 528.2,
     "current_price": 526.0,
     "return_pct": -0.4,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 2.5
   },
   {
@@ -200,10 +200,10 @@
     "score": 78,
     "verdict": "Structurally compelling valuation reset story with verified fundamentals, but broker overstates cheapness (20x uses FY2027E), mischaracterizes Copilot rollout scale (15M seats, not 400M), and underweights the capex/FCF compression risk that is the actual cause of the selloff — do your own FCF work before acting on the 'MSFT here' call.",
     "price_at_rec": 404.88,
-    "current_price": 405.21,
-    "return_pct": 0.1,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": -3.7
+    "current_price": 409.43,
+    "return_pct": 1.1,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -1.4
   },
   {
     "ticker": "SPX",
@@ -225,10 +225,10 @@
     "score": 62,
     "verdict": "The directional bull case on META is credible and institutionally validated by Ackman, but this specific research note contains material factual errors on EV/EBITDA and ad pricing, comes from a broker with no relevant coverage expertise, and omits serious margin/capex risks — seek a dedicated US tech analyst's view before acting.",
     "price_at_rec": 654.86,
-    "current_price": 616.63,
-    "return_pct": -5.8,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": -0.0
+    "current_price": 618.43,
+    "return_pct": -5.6,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 1.4
   },
   {
     "ticker": "AVGO",
@@ -238,10 +238,10 @@
     "score": 84,
     "verdict": "Fundamentally exceptional beat-and-raise quarter with credible AI acceleration, but the broker's note contains several material inaccuracies (P/E labeling, stale news presented as new, understated stock reaction, omitted insider selling and Anthropic geopolitical risk) — the stock is compelling on fundamentals but current price of ~$342 (already +5-8% post-earnings) limits near-term entry urgency; accumulate on pullbacks toward $300-315 support.",
     "price_at_rec": 341.57,
-    "current_price": 416.79,
-    "return_pct": 22.0,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 1.0
+    "current_price": 439.79,
+    "return_pct": 28.8,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 2.3
   },
   {
     "ticker": "B2I.OL",
@@ -253,7 +253,7 @@
     "price_at_rec": 25.25,
     "current_price": 23.45,
     "return_pct": -7.1,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.5
   },
   {
@@ -276,10 +276,10 @@
     "score": 62,
     "verdict": "The AI-relief thesis is well-supported and timely, but the initial pop is already in — dig into Q1 earnings guidance, margin trajectory, and the durability of the agentic-AI-as-funnel narrative before sizing a position.",
     "price_at_rec": 4322.42,
-    "current_price": 155.03,
+    "current_price": 154.48,
     "return_pct": -96.4,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": -9.5
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -6.9
   },
   {
     "ticker": "VEND.OL",
@@ -291,7 +291,7 @@
     "price_at_rec": null,
     "current_price": 240.6,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.2
   },
   {
@@ -304,7 +304,7 @@
     "price_at_rec": null,
     "current_price": 240.6,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.2
   },
   {
@@ -315,10 +315,10 @@
     "score": 52,
     "verdict": "The OpenAI checkout pivot is a real and verified positive for Shopify's moat, but at Fwd P/E 56x with near-zero actual ChatGPT monetisation today and a stock already down 25% YTD, this is a 'right thesis, wrong price' situation – wait for either a deeper pullback or evidence of real AI-channel GMV before initiating.",
     "price_at_rec": 129.52,
-    "current_price": 95.4,
-    "return_pct": -26.3,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": -14.6
+    "current_price": 97.42,
+    "return_pct": -24.8,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -11.8
   },
   {
     "ticker": "LHA.DE",
@@ -328,10 +328,10 @@
     "score": 58,
     "verdict": "Operationally improving but serially strike-prone European flag carrier trading at deep value; the FY2026 earnings upgrade thesis is credible and well-supported, but near-term visibility is severely impaired by an active pilot strike, active Middle East flight suspensions, and missed DAX inclusion — wait for labor clarity and post-Q1 results before establishing a position.",
     "price_at_rec": 7.888,
-    "current_price": 8.13,
-    "return_pct": 3.1,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 1.0
+    "current_price": 7.91,
+    "return_pct": 0.3,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 1.1
   },
   {
     "ticker": "DELIA.OL",
@@ -343,7 +343,7 @@
     "price_at_rec": null,
     "current_price": 384.0,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 0.0
   },
   {
@@ -368,7 +368,7 @@
     "price_at_rec": null,
     "current_price": 15.35,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 2.7
   },
   {
@@ -381,7 +381,7 @@
     "price_at_rec": 108.8,
     "current_price": 117.8,
     "return_pct": 8.3,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -0.8
   },
   {
@@ -394,7 +394,7 @@
     "price_at_rec": 410.3,
     "current_price": 292.3,
     "return_pct": -28.8,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -8.5
   },
   {
@@ -419,7 +419,7 @@
     "price_at_rec": 1082.0,
     "current_price": 1170.0,
     "return_pct": 8.1,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 7.1
   },
   {
@@ -442,10 +442,10 @@
     "score": 62,
     "verdict": "NDAQ is fundamentally sound with strong analyst conviction and ~29% upside to consensus, but meaningful insider selling, a subdued IPO market, and broad market weakness argue for waiting for technical stabilisation before adding exposure — especially given this is entirely outside the broker's core Nordic coverage universe.",
     "price_at_rec": null,
-    "current_price": 90.21,
+    "current_price": 90.93,
     "return_pct": null,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 1.4
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 2.3
   },
   {
     "ticker": "YAR.OL",
@@ -457,7 +457,7 @@
     "price_at_rec": 558.8,
     "current_price": 526.0,
     "return_pct": -5.9,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 2.5
   },
   {
@@ -468,10 +468,10 @@
     "score": 55,
     "verdict": "The merger catalyst that prompted this email has collapsed — Glencore now trades as a standalone copper-growth story at a post-breakdown discount, worthy of monitoring but not urgent action given the 6-month M&A lockout and rising short interest.",
     "price_at_rec": 531.2,
-    "current_price": 592.1,
-    "return_pct": 11.5,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 4.9
+    "current_price": 595.9,
+    "return_pct": 12.2,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 5.8
   },
   {
     "ticker": "RIO.L",
@@ -481,10 +481,10 @@
     "score": 60,
     "verdict": "Rio Tinto's merger catalyst is dead but its standalone story (Oyu Tolgoi copper ramp, Simandou iron ore, disciplined capital return) is intact — a quality HOLD at current levels, with the P/B data anomaly in the financial feed requiring urgent correction before any client use.",
     "price_at_rec": 6845.0,
-    "current_price": 8272.0,
-    "return_pct": 20.8,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 6.2
+    "current_price": 8154.0,
+    "return_pct": 19.1,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 6.0
   },
   {
     "ticker": "GLCNF",
@@ -494,10 +494,10 @@
     "score": 3,
     "verdict": "The M&A catalyst that drove the Jan 8 re-rating has collapsed; Glencore reverts to a standalone copper-growth/coal-cash-flow story at a stretched valuation — monitor for post-results re-entry or BHP approach speculation, but the near-term deal premium is gone.",
     "price_at_rec": 7.05,
-    "current_price": 8.06,
-    "return_pct": 14.3,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 5.8
+    "current_price": 7.94,
+    "return_pct": 12.6,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 3.5
   },
   {
     "ticker": "RIO",
@@ -507,10 +507,10 @@
     "score": 6,
     "verdict": "Quality diversified miner with a credible copper/lithium growth pivot and attractive forward multiples, but the transformative re-rating catalyst (Glencore merger) is gone, iron ore headwinds persist, and post-results broker downgrades suggest better entry points may emerge on weakness.",
     "price_at_rec": 90.7,
-    "current_price": 112.04,
-    "return_pct": 23.5,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 8.7
+    "current_price": 109.59,
+    "return_pct": 20.8,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 4.0
   },
   {
     "ticker": "NOD.OL",
@@ -522,7 +522,7 @@
     "price_at_rec": null,
     "current_price": 200.2,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 2.1
   },
   {
@@ -533,10 +533,10 @@
     "score": 58,
     "verdict": "Relative value trade within a downgraded sector — SBLK is the best house in a neighborhood under renovation, but buy only on confirmed seasonal dips given the counter-seasonal strength already seen in early 2026 and the unresolved China demand headwinds.",
     "price_at_rec": 22.15,
-    "current_price": 26.69,
+    "current_price": 26.68,
     "return_pct": 20.5,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": -0.4
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -0.6
   },
   {
     "ticker": "NOVO.CO",
@@ -560,7 +560,7 @@
     "price_at_rec": 301.2,
     "current_price": 345.5,
     "return_pct": 14.7,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.3
   },
   {
@@ -573,7 +573,7 @@
     "price_at_rec": 202.5,
     "current_price": 203.4,
     "return_pct": 0.4,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -12.2
   },
   {
@@ -584,10 +584,10 @@
     "score": 78,
     "verdict": "NMM is a high-conviction value opportunity in diversified shipping at 4.1x forward earnings with independently validated VLCC NAV uplift, active buybacks, strong contracted revenue, and a 31% discount to analyst consensus — but requires further diligence on H2 2026 rate trajectory and MLP-structure tax considerations.",
     "price_at_rec": 60.03,
-    "current_price": 71.28,
-    "return_pct": 18.7,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": -0.3
+    "current_price": 71.06,
+    "return_pct": 18.4,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -5.1
   },
   {
     "ticker": "LINK.OL",
@@ -599,7 +599,7 @@
     "price_at_rec": 22.45,
     "current_price": 27.86,
     "return_pct": 24.1,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 7.6
   },
   {
@@ -612,7 +612,7 @@
     "price_at_rec": null,
     "current_price": 92.9,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 8.7
   },
   {
@@ -625,7 +625,7 @@
     "price_at_rec": 14.47,
     "current_price": 14.48,
     "return_pct": 0.1,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -1.8
   },
   {
@@ -638,7 +638,7 @@
     "price_at_rec": 71.4,
     "current_price": 99.2,
     "return_pct": 38.9,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 0.0
   },
   {
@@ -663,7 +663,7 @@
     "price_at_rec": 222.6,
     "current_price": 192.5,
     "return_pct": -13.5,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.5
   },
   {
@@ -676,7 +676,7 @@
     "price_at_rec": 16.96,
     "current_price": 19.32,
     "return_pct": 13.9,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 4.2
   },
   {
@@ -689,7 +689,7 @@
     "price_at_rec": 41.27,
     "current_price": 46.63,
     "return_pct": 13.0,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 6.0
   },
   {
@@ -700,10 +700,10 @@
     "score": 28,
     "verdict": "The GLP-1 thesis is a real but distant, aggregate, and heavily caveated tailwind that does nothing to address AAL's acute triple threat of oil-price shock, massive debt, and an earnings miss — MONITOR for macro stabilization before acting.",
     "price_at_rec": 10.55,
-    "current_price": 12.71,
-    "return_pct": 20.5,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": -3.6
+    "current_price": 12.7,
+    "return_pct": 20.4,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -4.9
   },
   {
     "ticker": "C",
@@ -713,10 +713,10 @@
     "score": 5,
     "verdict": "Citi's European equity downgrade is a verified, credible macro call; C stock itself remains a fundamentally compelling restructuring/execution story at P/B ~1.0x and Fwd P/E ~8.7x, but the email provides zero investment thesis depth, insider selling is notable, the YTD pullback may not be over, and Q1 2026 earnings on April 14 represent the proper entry-or-pass inflection point — wait for dip toward $100–105 or post-earnings confirmation.",
     "price_at_rec": 105.5,
-    "current_price": 124.1,
-    "return_pct": 17.6,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": -3.9
+    "current_price": 124.82,
+    "return_pct": 18.3,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -0.6
   },
   {
     "ticker": "AAPL",
@@ -726,10 +726,10 @@
     "score": 60,
     "verdict": "Campos/Google Gemini AI pivot is strategically credible and well-verified, but the thesis is fully in the public domain, the stock trades at a premium, execution risk is high until September 2026, and this email adds zero proprietary analytical value — accumulate on weakness toward the $240–$250 support zone rather than chasing at current levels.",
     "price_at_rec": 255.76,
-    "current_price": 298.87,
-    "return_pct": 16.9,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 4.1
+    "current_price": 298.21,
+    "return_pct": 16.6,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 1.8
   },
   {
     "ticker": "INTC",
@@ -739,10 +739,10 @@
     "score": 52,
     "verdict": "A legitimate Q4 beat buried by a worse-than-expected Q1 guide — supply constraints are real and self-inflicted; wait for evidence of Q2 supply recovery and 18A yield improvement before building a position, as the risk/reward at 45x forward P/E with sub-35% gross margins remains unattractive near-term.",
     "price_at_rec": 45.25,
-    "current_price": 120.29,
-    "return_pct": 165.8,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 9.7
+    "current_price": 115.93,
+    "return_pct": 156.2,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -7.2
   },
   {
     "ticker": "AA",
@@ -752,10 +752,10 @@
     "score": 62,
     "verdict": "Strong Q4 beat with verified claims, constructive 2026-27 setup, but AA has re-rated aggressively and now trades well above broad consensus — wait for Q1 2026 softness to play out and a better entry point before adding exposure, especially given this is outside Arctic's core coverage universe.",
     "price_at_rec": 65.93,
-    "current_price": 68.44,
-    "return_pct": 3.8,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 9.3
+    "current_price": 66.02,
+    "return_pct": 0.1,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 4.5
   },
   {
     "ticker": "DNB.OL",
@@ -767,7 +767,7 @@
     "price_at_rec": 289.5,
     "current_price": 276.3,
     "return_pct": -4.6,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.5
   },
   {
@@ -780,7 +780,7 @@
     "price_at_rec": 132.6,
     "current_price": 189.3,
     "return_pct": 42.8,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 1.8
   },
   {
@@ -791,10 +791,10 @@
     "score": 60,
     "verdict": "Dorian is a reasonable seasonal trim candidate at 0.77x P/NAV but sits outside the broker's core coverage; the CEO's January insider buy and Dnb Carnegie upgrade warrant independent research before acting on the trim call.",
     "price_at_rec": null,
-    "current_price": 40.63,
+    "current_price": 40.86,
     "return_pct": null,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 2.1
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 1.4
   },
   {
     "ticker": "AKBM.OL",
@@ -806,7 +806,7 @@
     "price_at_rec": 108.0,
     "current_price": 106.4,
     "return_pct": -1.5,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 3.3
   },
   {
@@ -819,7 +819,7 @@
     "price_at_rec": 291.0,
     "current_price": 345.5,
     "return_pct": 18.7,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.3
   },
   {
@@ -866,10 +866,10 @@
     "score": 58,
     "verdict": "Contract claims are fully verified and operationally impressive, but Arctic's USD 32 Hold target looks materially stale post-Q4 re-rating — a price target review is urgently needed before this note is actionable.",
     "price_at_rec": null,
-    "current_price": 51.24,
+    "current_price": 52.51,
     "return_pct": null,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 5.7
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 4.7
   },
   {
     "ticker": "OKEA.OL",
@@ -881,7 +881,7 @@
     "price_at_rec": 31.95,
     "current_price": 38.3,
     "return_pct": 19.9,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 1.9
   },
   {
@@ -894,7 +894,7 @@
     "price_at_rec": 95.38,
     "current_price": 106.8,
     "return_pct": 12.0,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 3.1
   },
   {
@@ -905,10 +905,10 @@
     "score": 55,
     "verdict": "Credible read-across tool for NOD with a broadly neutral signal; TXN itself is a quality analog recovery story but richly valued—monitor for Q1 confirmation of above-seasonal guidance before upgrading view.",
     "price_at_rec": 190.05,
-    "current_price": 306.34,
-    "return_pct": 61.2,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 7.4
+    "current_price": 308.17,
+    "return_pct": 62.2,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 7.1
   },
   {
     "ticker": "LOGI",
@@ -918,10 +918,10 @@
     "score": 62,
     "verdict": "Strong Q3 execution with credible Video Collaboration acceleration supports positive Pexip and NOD read-across; LOGI itself trades at an attractive 16x Fwd P/E but elevated short interest (8.5%), gaming headwinds, and muted post-earnings stock reaction warrant monitoring rather than immediate action.",
     "price_at_rec": 92.93,
-    "current_price": 103.99,
-    "return_pct": 11.9,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 0.8
+    "current_price": 100.95,
+    "return_pct": 8.6,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -7.7
   },
   {
     "ticker": "SWON.OL",
@@ -933,7 +933,7 @@
     "price_at_rec": null,
     "current_price": 92.9,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 8.7
   },
   {
@@ -946,7 +946,7 @@
     "price_at_rec": 141.2,
     "current_price": 155.4,
     "return_pct": 10.1,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -3.6
   },
   {
@@ -959,7 +959,7 @@
     "price_at_rec": 89.6,
     "current_price": 90.7,
     "return_pct": 1.2,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -4.9
   },
   {
@@ -970,10 +970,10 @@
     "score": 52,
     "verdict": "MSFT Q2 fundamentals were verified as broadly accurate by the broker, but the stock's -14.8% YTD de-rating reflects a genuine capex/FCF compression story the broker consistently underweights — wait for April Q3 earnings to confirm Azure re-acceleration and capex sequentially declining before acting on the reseller read-across narrative.",
     "price_at_rec": 401.86,
-    "current_price": 405.21,
-    "return_pct": 0.8,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": -3.7
+    "current_price": 409.43,
+    "return_pct": 1.9,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -1.4
   },
   {
     "ticker": "SWON.ST",
@@ -995,10 +995,10 @@
     "score": 58,
     "verdict": "STM's verified revenue beat and better-than-seasonal Q1 guidance make it a credible and timely positive read-across for NOD — subsequently confirmed by NOD's own strong Q4/Q1 results — but the significant EPS miss, ongoing restructuring costs, and ~8% post-earnings stock drop are material omissions that warrant closer scrutiny before treating this as a clean bullish signal.",
     "price_at_rec": 33.24,
-    "current_price": 63.39,
-    "return_pct": 90.7,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 13.4
+    "current_price": 64.38,
+    "return_pct": 93.7,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 8.8
   },
   {
     "ticker": "GJNSE.OL",
@@ -1022,7 +1022,7 @@
     "price_at_rec": null,
     "current_price": 240.6,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.2
   },
   {
@@ -1083,7 +1083,7 @@
     "price_at_rec": 584.5,
     "current_price": 546.0,
     "return_pct": -6.6,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 1.2
   },
   {
@@ -1096,7 +1096,7 @@
     "price_at_rec": null,
     "current_price": 59.8,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 11.2
   },
   {
@@ -1121,7 +1121,7 @@
     "price_at_rec": null,
     "current_price": 74.0,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -0.9
   },
   {
@@ -1144,10 +1144,10 @@
     "score": 48,
     "verdict": "K Line is a valid short-term Hormuz beneficiary via ONE rate surge exposure and Japanese shipping sentiment, but the structural outlook is challenged by declining earnings forecasts, overcapacity risk, and Japan's severe energy security vulnerability — monitor for de-escalation signals before taking a position.",
     "price_at_rec": null,
-    "current_price": 2542.5,
+    "current_price": 2522.5,
     "return_pct": null,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 1.6
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 1.7
   },
   {
     "ticker": "9104.T",
@@ -1157,10 +1157,10 @@
     "score": 54,
     "verdict": "MOL is the most diversified Hormuz beneficiary of the three Japanese shippers (container + LNG + dry bulk + car carriers), but its sub-investment-grade credit rating, stock trading above consensus target, and unclear crisis duration warrant monitoring rather than immediate action.",
     "price_at_rec": null,
-    "current_price": 5877.0,
+    "current_price": 5863.0,
     "return_pct": null,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 1.8
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 1.1
   },
   {
     "ticker": "9101.T",
@@ -1170,10 +1170,10 @@
     "score": 51,
     "verdict": "NYK is the largest and most diversified of the three Japanese shippers, with strong FY2024 earnings momentum and an LNG expansion strategy tailor-made for the Hormuz crisis, but as with peers, the rally may already reflect the disruption premium — monitor for Hormuz de-escalation signals and Q2 FY2026 earnings confirmation.",
     "price_at_rec": null,
-    "current_price": 5439.0,
+    "current_price": 5498.0,
     "return_pct": null,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": -2.4
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 0.5
   },
   {
     "ticker": "9107.T / KAIKY",
@@ -1233,7 +1233,7 @@
     "price_at_rec": 293.1,
     "current_price": 345.5,
     "return_pct": 17.9,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.3
   },
   {
@@ -1258,7 +1258,7 @@
     "price_at_rec": null,
     "current_price": 331.8,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 7.0
   },
   {
@@ -1271,7 +1271,7 @@
     "price_at_rec": null,
     "current_price": 28.75,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -0.2
   },
   {
@@ -1284,7 +1284,7 @@
     "price_at_rec": null,
     "current_price": 44.28,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -1.5
   },
   {
@@ -1297,7 +1297,7 @@
     "price_at_rec": null,
     "current_price": 189.3,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 1.8
   },
   {
@@ -1310,7 +1310,7 @@
     "price_at_rec": null,
     "current_price": 8.96,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 4.3
   },
   {
@@ -1335,7 +1335,7 @@
     "price_at_rec": null,
     "current_price": 240.6,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.2
   },
   {
@@ -1348,7 +1348,7 @@
     "price_at_rec": null,
     "current_price": 526.0,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 2.5
   },
   {
@@ -1361,7 +1361,7 @@
     "price_at_rec": null,
     "current_price": 23.45,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.5
   },
   {
@@ -1386,7 +1386,7 @@
     "price_at_rec": 221.0,
     "current_price": 192.5,
     "return_pct": -12.9,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.5
   },
   {
@@ -1399,7 +1399,7 @@
     "price_at_rec": 1074.0,
     "current_price": 1170.0,
     "return_pct": 8.9,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 7.1
   },
   {
@@ -1412,7 +1412,7 @@
     "price_at_rec": 123.6,
     "current_price": 142.1,
     "return_pct": 15.0,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 12.6
   },
   {
@@ -1423,10 +1423,10 @@
     "score": 5,
     "verdict": "Verified activist catalyst is real and the valuation floor argument is compelling, but structural US used-car headwinds and analyst scepticism (Underweight from Barclays/JPMorgan) warrant monitoring rather than acting on the broker's secondhand mention — watch April 14 earnings.",
     "price_at_rec": 41.84,
-    "current_price": 37.07,
-    "return_pct": -11.4,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": -7.1
+    "current_price": 38.09,
+    "return_pct": -9.0,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -5.6
   },
   {
     "ticker": "GOCE.OL",
@@ -1450,7 +1450,7 @@
     "price_at_rec": null,
     "current_price": 29.08,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -0.8
   },
   {
@@ -1463,7 +1463,7 @@
     "price_at_rec": null,
     "current_price": 93.6,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.2
   },
   {
@@ -1486,10 +1486,10 @@
     "score": 8,
     "verdict": "Exceptionally strong Q1 print with verified claims; functions as a high-quality read-across for NOD with directly confirmed personal electronics commentary — monitor TXN as a leading indicator but note the stock has re-rated sharply to/above prior consensus targets.",
     "price_at_rec": 280.01,
-    "current_price": 306.34,
-    "return_pct": 9.4,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 7.4
+    "current_price": 308.17,
+    "return_pct": 10.1,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": 7.1
   },
   {
     "ticker": "NOD.OL",
@@ -1501,7 +1501,7 @@
     "price_at_rec": null,
     "current_price": 200.2,
     "return_pct": null,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": 2.1
   },
   {
@@ -1514,7 +1514,7 @@
     "price_at_rec": 257.8,
     "current_price": 240.6,
     "return_pct": -6.7,
-    "last_checked": "2026-05-14",
+    "last_checked": "2026-05-15",
     "5d_return_pct": -2.2
   },
   {
@@ -1525,10 +1525,10 @@
     "score": 6,
     "verdict": "Thesis trigger confirmed — Q2 supply recovery and 18A progress are materializing exactly as Esten called in March — but at $99 the stock is deeply overbought (RSI ~87), priced 25–57% above analyst consensus targets, and carrying a fwd P/E likely north of 100x; existing holders should hold/trim into strength, new buyers should wait for a meaningful pullback toward the $70–80 range before building positions.",
     "price_at_rec": 98.99,
-    "current_price": 120.29,
-    "return_pct": 21.5,
-    "last_checked": "2026-05-14",
-    "5d_return_pct": 9.7
+    "current_price": 115.93,
+    "return_pct": 17.1,
+    "last_checked": "2026-05-15",
+    "5d_return_pct": -7.2
   },
   {
     "ticker": "NOVO.CO",
