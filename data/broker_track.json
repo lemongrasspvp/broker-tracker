@@ -9,7 +9,7 @@
     "price_at_rec": null,
     "current_price": 167.7,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -46,8 +46,8 @@
     "price_at_rec": null,
     "current_price": 45.61,
     "return_pct": null,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": -2.8
   },
   {
     "ticker": "CVX",
@@ -59,8 +59,8 @@
     "price_at_rec": 191.79,
     "current_price": 201.86,
     "return_pct": 5.3,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": -0.6
   },
   {
     "ticker": "FRO.OL",
@@ -72,7 +72,7 @@
     "price_at_rec": null,
     "current_price": 418.2,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -85,8 +85,8 @@
     "price_at_rec": null,
     "current_price": 19.66,
     "return_pct": null,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": -0.3
   },
   {
     "ticker": "INSW",
@@ -98,8 +98,8 @@
     "price_at_rec": null,
     "current_price": 98.81,
     "return_pct": null,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": -1.1
   },
   {
     "ticker": "HAL",
@@ -111,8 +111,8 @@
     "price_at_rec": 35.93,
     "current_price": 36.18,
     "return_pct": 0.7,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 4.5
   },
   {
     "ticker": "SLB",
@@ -124,8 +124,8 @@
     "price_at_rec": 48.17,
     "current_price": 57.33,
     "return_pct": 19.0,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 6.2
   },
   {
     "ticker": "ECO",
@@ -137,8 +137,8 @@
     "price_at_rec": 47.45,
     "current_price": 66.86,
     "return_pct": 40.9,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 2.6
   },
   {
     "ticker": "BRUT.OL",
@@ -150,7 +150,7 @@
     "price_at_rec": null,
     "current_price": 46.3,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -163,7 +163,7 @@
     "price_at_rec": 14.525,
     "current_price": 13.2,
     "return_pct": -9.1,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -176,7 +176,7 @@
     "price_at_rec": 96.06,
     "current_price": 93.24,
     "return_pct": -2.9,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -189,7 +189,7 @@
     "price_at_rec": 528.2,
     "current_price": 446.4,
     "return_pct": -15.5,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -202,8 +202,8 @@
     "price_at_rec": 404.88,
     "current_price": 513.53,
     "return_pct": 26.8,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 5.4
   },
   {
     "ticker": "SPX",
@@ -227,8 +227,8 @@
     "price_at_rec": 654.86,
     "current_price": 578.02,
     "return_pct": -11.7,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 3.4
   },
   {
     "ticker": "AVGO",
@@ -240,8 +240,8 @@
     "price_at_rec": 341.57,
     "current_price": 368.79,
     "return_pct": 8.0,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 2.8
   },
   {
     "ticker": "B2I.OL",
@@ -253,7 +253,7 @@
     "price_at_rec": 25.25,
     "current_price": 26.15,
     "return_pct": 3.6,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -278,8 +278,8 @@
     "price_at_rec": 4322.42,
     "current_price": 205.63,
     "return_pct": -95.2,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": -3.6
   },
   {
     "ticker": "VEND.OL",
@@ -291,7 +291,7 @@
     "price_at_rec": null,
     "current_price": 259.6,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -304,7 +304,7 @@
     "price_at_rec": null,
     "current_price": 259.6,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -317,8 +317,8 @@
     "price_at_rec": 129.52,
     "current_price": 152.9,
     "return_pct": 18.1,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 2.1
   },
   {
     "ticker": "LHA.DE",
@@ -330,7 +330,7 @@
     "price_at_rec": 7.888,
     "current_price": 7.99,
     "return_pct": 1.3,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -343,7 +343,7 @@
     "price_at_rec": null,
     "current_price": 21.9,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -368,7 +368,7 @@
     "price_at_rec": null,
     "current_price": 15.0,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -381,7 +381,7 @@
     "price_at_rec": 108.8,
     "current_price": 108.8,
     "return_pct": 0.0,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -394,7 +394,7 @@
     "price_at_rec": 410.3,
     "current_price": 312.3,
     "return_pct": -23.9,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -419,7 +419,7 @@
     "price_at_rec": 1082.0,
     "current_price": 1538.0,
     "return_pct": 42.1,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -444,8 +444,8 @@
     "price_at_rec": null,
     "current_price": 99.31,
     "return_pct": null,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 0.5
   },
   {
     "ticker": "YAR.OL",
@@ -457,7 +457,7 @@
     "price_at_rec": 558.8,
     "current_price": 446.4,
     "return_pct": -20.1,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -470,7 +470,7 @@
     "price_at_rec": 531.2,
     "current_price": 595.6,
     "return_pct": 12.1,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -483,7 +483,7 @@
     "price_at_rec": 6845.0,
     "current_price": 7674.0,
     "return_pct": 12.1,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -496,8 +496,8 @@
     "price_at_rec": 7.05,
     "current_price": 8.01,
     "return_pct": 13.6,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 1.0
   },
   {
     "ticker": "RIO",
@@ -509,8 +509,8 @@
     "price_at_rec": 90.7,
     "current_price": 103.3,
     "return_pct": 13.9,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": -1.4
   },
   {
     "ticker": "NOD.OL",
@@ -522,7 +522,7 @@
     "price_at_rec": null,
     "current_price": 167.7,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -535,8 +535,8 @@
     "price_at_rec": 22.15,
     "current_price": 30.48,
     "return_pct": 37.6,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": -0.7
   },
   {
     "ticker": "NOVO.CO",
@@ -560,7 +560,7 @@
     "price_at_rec": 301.2,
     "current_price": 418.2,
     "return_pct": 38.8,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -573,7 +573,7 @@
     "price_at_rec": 202.5,
     "current_price": 165.3,
     "return_pct": -18.4,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -586,8 +586,8 @@
     "price_at_rec": 60.03,
     "current_price": 87.16,
     "return_pct": 45.2,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": -2.9
   },
   {
     "ticker": "LINK.OL",
@@ -599,7 +599,7 @@
     "price_at_rec": 22.45,
     "current_price": 25.96,
     "return_pct": 15.6,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -612,7 +612,7 @@
     "price_at_rec": null,
     "current_price": 113.6,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -625,7 +625,7 @@
     "price_at_rec": 14.47,
     "current_price": 13.2,
     "return_pct": -8.8,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -638,7 +638,7 @@
     "price_at_rec": 71.4,
     "current_price": 102.0,
     "return_pct": 42.9,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -663,7 +663,7 @@
     "price_at_rec": 222.6,
     "current_price": 209.0,
     "return_pct": -6.1,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -676,7 +676,7 @@
     "price_at_rec": 16.96,
     "current_price": 17.69,
     "return_pct": 4.3,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -689,7 +689,7 @@
     "price_at_rec": 41.27,
     "current_price": 48.53,
     "return_pct": 17.6,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -702,8 +702,8 @@
     "price_at_rec": 10.55,
     "current_price": 13.64,
     "return_pct": 29.3,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 0.1
   },
   {
     "ticker": "C",
@@ -715,8 +715,8 @@
     "price_at_rec": 105.5,
     "current_price": 132.9,
     "return_pct": 26.0,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 0.9
   },
   {
     "ticker": "AAPL",
@@ -728,8 +728,8 @@
     "price_at_rec": 255.76,
     "current_price": 319.7,
     "return_pct": 25.0,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 3.0
   },
   {
     "ticker": "INTC",
@@ -741,8 +741,8 @@
     "price_at_rec": 45.25,
     "current_price": 89.47,
     "return_pct": 97.7,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 2.5
   },
   {
     "ticker": "AA",
@@ -754,8 +754,8 @@
     "price_at_rec": 65.93,
     "current_price": 50.32,
     "return_pct": -23.7,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 1.9
   },
   {
     "ticker": "DNB.OL",
@@ -767,7 +767,7 @@
     "price_at_rec": 289.5,
     "current_price": 315.9,
     "return_pct": 9.1,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -780,7 +780,7 @@
     "price_at_rec": 132.6,
     "current_price": 225.2,
     "return_pct": 69.8,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -793,8 +793,8 @@
     "price_at_rec": null,
     "current_price": 49.78,
     "return_pct": null,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": -3.0
   },
   {
     "ticker": "AKBM.OL",
@@ -806,7 +806,7 @@
     "price_at_rec": 108.0,
     "current_price": 128.6,
     "return_pct": 19.1,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -819,7 +819,7 @@
     "price_at_rec": 291.0,
     "current_price": 418.2,
     "return_pct": 43.7,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -868,8 +868,8 @@
     "price_at_rec": null,
     "current_price": 45.76,
     "return_pct": null,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": -0.5
   },
   {
     "ticker": "OKEA.OL",
@@ -881,7 +881,7 @@
     "price_at_rec": 31.95,
     "current_price": 38.15,
     "return_pct": 19.4,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -894,7 +894,7 @@
     "price_at_rec": 95.38,
     "current_price": 93.24,
     "return_pct": -2.2,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -907,8 +907,8 @@
     "price_at_rec": 190.05,
     "current_price": 258.64,
     "return_pct": 36.1,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": -0.1
   },
   {
     "ticker": "LOGI",
@@ -920,8 +920,8 @@
     "price_at_rec": 92.93,
     "current_price": 97.96,
     "return_pct": 5.4,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 0.8
   },
   {
     "ticker": "SWON.OL",
@@ -933,7 +933,7 @@
     "price_at_rec": null,
     "current_price": 113.6,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -946,7 +946,7 @@
     "price_at_rec": 141.2,
     "current_price": 177.6,
     "return_pct": 25.8,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -959,7 +959,7 @@
     "price_at_rec": 89.6,
     "current_price": 89.1,
     "return_pct": -0.6,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -972,8 +972,8 @@
     "price_at_rec": 401.86,
     "current_price": 513.53,
     "return_pct": 27.8,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 5.4
   },
   {
     "ticker": "SWON.ST",
@@ -997,8 +997,8 @@
     "price_at_rec": 33.24,
     "current_price": 49.38,
     "return_pct": 48.6,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 0.1
   },
   {
     "ticker": "GJNSE.OL",
@@ -1022,7 +1022,7 @@
     "price_at_rec": null,
     "current_price": 259.6,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1083,7 +1083,7 @@
     "price_at_rec": 584.5,
     "current_price": 578.5,
     "return_pct": -1.0,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1096,7 +1096,7 @@
     "price_at_rec": null,
     "current_price": 46.3,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1121,7 +1121,7 @@
     "price_at_rec": null,
     "current_price": 86.8,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1146,7 +1146,7 @@
     "price_at_rec": null,
     "current_price": 3382.0,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": -2.4
   },
   {
@@ -1159,7 +1159,7 @@
     "price_at_rec": null,
     "current_price": 7096.0,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": -2.5
   },
   {
@@ -1172,7 +1172,7 @@
     "price_at_rec": null,
     "current_price": 7115.0,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": -1.2
   },
   {
@@ -1233,7 +1233,7 @@
     "price_at_rec": 293.1,
     "current_price": 418.2,
     "return_pct": 42.7,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1258,7 +1258,7 @@
     "price_at_rec": null,
     "current_price": 333.2,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1271,7 +1271,7 @@
     "price_at_rec": null,
     "current_price": 28.45,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1284,7 +1284,7 @@
     "price_at_rec": null,
     "current_price": 46.28,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1297,7 +1297,7 @@
     "price_at_rec": null,
     "current_price": 225.2,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1310,7 +1310,7 @@
     "price_at_rec": null,
     "current_price": 7.91,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1335,7 +1335,7 @@
     "price_at_rec": null,
     "current_price": 259.6,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1348,7 +1348,7 @@
     "price_at_rec": null,
     "current_price": 446.4,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1361,7 +1361,7 @@
     "price_at_rec": null,
     "current_price": 26.15,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1386,7 +1386,7 @@
     "price_at_rec": 221.0,
     "current_price": 209.0,
     "return_pct": -5.4,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1399,7 +1399,7 @@
     "price_at_rec": 1074.0,
     "current_price": 1538.0,
     "return_pct": 43.2,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1412,7 +1412,7 @@
     "price_at_rec": 123.6,
     "current_price": 170.4,
     "return_pct": 37.9,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1425,8 +1425,8 @@
     "price_at_rec": 41.84,
     "current_price": 62.11,
     "return_pct": 48.4,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": -1.1
   },
   {
     "ticker": "GOCE.OL",
@@ -1450,7 +1450,7 @@
     "price_at_rec": null,
     "current_price": 33.34,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1463,7 +1463,7 @@
     "price_at_rec": null,
     "current_price": 109.8,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1488,8 +1488,8 @@
     "price_at_rec": 280.01,
     "current_price": 258.64,
     "return_pct": -7.6,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": -0.1
   },
   {
     "ticker": "NOD.OL",
@@ -1501,7 +1501,7 @@
     "price_at_rec": null,
     "current_price": 167.7,
     "return_pct": null,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1514,7 +1514,7 @@
     "price_at_rec": 257.8,
     "current_price": 259.6,
     "return_pct": 0.7,
-    "last_checked": "2026-08-29",
+    "last_checked": "2026-08-30",
     "5d_return_pct": NaN
   },
   {
@@ -1527,8 +1527,8 @@
     "price_at_rec": 98.99,
     "current_price": 89.47,
     "return_pct": -9.6,
-    "last_checked": "2026-08-29",
-    "5d_return_pct": NaN
+    "last_checked": "2026-08-30",
+    "5d_return_pct": 2.5
   },
   {
     "ticker": "NOVO.CO",
